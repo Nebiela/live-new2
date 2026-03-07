@@ -246,17 +246,26 @@ https://www.livedoomovies.com:4431/Monomax_PL_1HD/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.movie2k.io/
 https://www.livedoomovies.com:4431/Monomax_Live_2HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://www.imgx01.xyz/assets/img/ch_logo/epl-bein2.jpg" group-title="⚽ MonoMax",BEIN SPORT HD 2
-#EXTVLCOPT:http-referrer=https://www.movie2k.io/
-https://www.livedoomovies.com:4431/02_epl2_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://www.imgx04.xyz/assets/img/ch_logo/epl-bein3.jpg" group-title="⚽ MonoMax",BEIN SPORT HD 3
-#EXTVLCOPT:http-referrer=https://www.movie2k.io/
-https://www.livedoomovies.com:4431/02_epl3_720p/playlist.m3u8
 
 
 
 #############TEST############pastebin.com/GxrMrdxL###########################################
+
+
+##########################################################################################
+
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://www.imgx01.xyz/assets/img/ch_logo/hd-tennis.png" group-title="รวมก๊ฬา",TennisHD
+#EXTVLCOPT:http-referrer=https://www.movie2k.io/
+https://www.livedoomovies.com:4432/02_TennisHD_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://www.imgx01.xyz/assets/img/ch_logo/epl-bein2.jpg" group-title="รวมก๊ฬา",BEIN SPORT HD 2
+#EXTVLCOPT:http-referrer=https://www.movie2k.io/
+https://www.livedoomovies.com:4431/02_epl2_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://www.imgx04.xyz/assets/img/ch_logo/epl-bein3.jpg" group-title="รวมก๊ฬา",BEIN SPORT HD 3
+#EXTVLCOPT:http-referrer=https://www.movie2k.io/
+https://www.livedoomovies.com:4431/02_epl3_720p/playlist.m3u8
 
 
 
@@ -870,7 +879,7 @@ https://main.24playerhd.com/newplaylist/623a7aafd6df870d86015d7d/623a7aafd6df870
 #EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="🎞️ หนังภาพยนตร์", HBO HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e
-https:////cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776086&extension=m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="🎞️ หนังภาพยนตร์", HBO HD สำรอง
@@ -896,6 +905,9 @@ http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 
 #EXTINF:-1 group-title="🎞️ หนังภาพยนตร์"  tvg-logo="https://images.indihometv.com/logo_axn_ver2.png",AXN
 http://cdn12jtedge.indihometv.com/atm/hlsv3/axn/playlist.m3u8
+
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์"  tvg-logo="https://images.indihometv.com/logo_axn_ver2.png",AXN
+https://love.bajikag863.workers.dev/vx-origin/hd-axn_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="🎞️ หนังภาพยนตร์" , MONO29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
@@ -1012,6 +1024,13 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์"  tvg-logo="https://dookeela4.live/uploads/1720380229.png",TrueThaiFilm
+http://royalibox.com/live/8g5665q36d/rj9c9ucrhl/1776050.m3u8
+
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์"  tvg-logo="https://dookeela4.live/uploads/1720380229.png",TrueThaiFilm สำรอง
+https://raw.githubusercontent.com/Dakrode01/Freeiptv/refs/heads/main/Truethaifilm.m3u8
+
 
 
 #EXTINF:-1 group-title="🎞️ หนังภาพยนตร์"  tvg-logo="https://images.indihometv.com/logo_hits_ver1.png",HITS
