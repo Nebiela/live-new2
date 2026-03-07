@@ -900,7 +900,7 @@ http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776086&exte
 
 #EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="🎞️ หนังภาพยนตร์", HBO HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://raw.githubusercontent.com/Nebiela/live-new2/refs/heads/main/hbo.m3u
+https://raw.githubusercontent.com/Nebiela/live-new2/refs/heads/main/hbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="🎞️ หนังภาพยนตร์", HBO HD สำรอง
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
