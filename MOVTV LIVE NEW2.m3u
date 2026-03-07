@@ -1,0 +1,1358 @@
+#EXTM3U url-tvg="https://pastebin.com/raw/yXK26GZL" refresh="3600" 
+
+# Join Telegram Group: 
+# =======================================================
+# Playlist Name: My Playlist by Neti จัดทำขึ้นเพื่อความ บันเทิง ดูฟรี ห้ามเอาไปขาย
+# Last Update: 2024-10-3 17:50:00 UTC+07 ICT
+# =======================================================
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Nebiela/iptvlive/refs/heads/main/live-streaming-logo.jpg" group-title="Streaming TV" ,A- สวัสดี สวีดัด By Edit By Neti ยินต้อนรับ
+#EXTVLCOPT:http-referrer=
+http://sample.vodobox.net/skate_phantom_flex_4k/skate_phantom_flex_4k.m3u8
+
+
+#EXTINF:-1 group-title="Streaming TV" tvg-logo="https://img2.imgbiz.com/imgbiz/IMG_2404.png",B- สแกน QR กลุ่มเฟสบุ๊ค แอป LIVE IPTV THAILAND
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://raw.githubusercontent.com/Nebiela/Nebiela/refs/heads/main/New%20folder/Video%20qr%20iptv.mp4
+
+
+#EXTINF:-1 tvg-logo="https://godreamcast.com/blog/wp-content/uploads/2022/06/Live-Streaming-vs.-Live-Broadcasting.png" group-title="Streaming TV" ,Z-อัปเดตหนังใหม่ เลื่อยๆ จนกว่าจะบินได้ งับ : กำกับโดย โบ้เอง 
+#EXTVLCOPT:http-referrer=
+http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.nextpit.com/img/Telegram.jpg" group-title="Streaming TV" ,Z- Telegram กลุ่ม 
+#EXTVLCOPT:http-referrer=
+http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
+
+
+#############DIGITAL2025###############
+
+
+
+#EXTINF:-1 tvg-chno="33"  tvg-id="3 HD.th" tvg-name="3 HD" group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png",3HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://www.livedoomovies.com:4431/02_3HD_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://thaitv5hd.com/web/img/logo.png",5HD
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://thaitv5hd.com/web/live.php
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/chunklist_w140733315.m3u8
+
+#EXTINF:-1 group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Ch-7-HD-Logo-crop.png/250px-Ch-7-HD-Logo-crop.png",7HD
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.ch7.com/live.html
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
+
+#EXTINF:-1 group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/MCOT_Ch9_Logo.png/250px-MCOT_Ch9_Logo.png",MCOT
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.mcot.net/tv/th
+https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/chunklist_w1705641632_b500000.m3u8
+
+#EXTINF:-1 group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/NBT_2025.svg/250px-NBT_2025.svg.png",NBT
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://prdee.prd.go.th/live/63bd400d0deca90012ce6c88
+https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/chunklist_w831618011_b2128000.m3u8?null
+
+#EXTINF:-1 group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Thai_PBS_Logo_2016.svg/250px-Thai_PBS_Logo_2016.svg.png",ThaiPBS
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.thaipbs.or.th/live
+https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist_1080p/index.m3u8
+
+#EXTINF:-1 group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TNN16_Logo.png/250px-TNN16_Logo.png",TNN
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=
+
+
+#EXTINF:-1 group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Nation_TV_logo.png/120px-Nation_TV_logo.png",NationTV
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.nationtv.tv/category/nationtv/live
+https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/1080p/index.m3u8
+
+#EXTINF:-1 group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://s.isanook.com/ns/0/ud/1561/7807474/new-logo-thairath.jpg?ip/resize/w728/q80/jpg",ThairathTV
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.thairath.co.th/tv/live
+https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8
+
+#EXTINF:-1 group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Amarin_TV_HD_34_Logo.svg/250px-Amarin_TV_HD_34_Logo.svg.png",AmarinTV
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://img-ha.mthcdn.com/OpS_F7XGjX2y6lsXxhvUOIfOX0k=/mthai.com/app/uploads/2021/05/true4u-24-tv.png",true4u
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/b/bd/GMM_25_logo.svg/250px-GMM_25_logo.svg.png",GMM25
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.oned.net/live-tv
+https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
+
+#EXTINF:-1 group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Channel_8_2024.svg/250px-Channel_8_2024.svg.png",ช่อง8
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.thaich8.com/live?var_link=720p
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+
+#EXTINF:-1 group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/MONO292025.png/250px-MONO292025.png",MONO29
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.monomax.me/livetv
+https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
+
+#EXTINF:-1 group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/e/ef/Watermark-ONE.png/250px-Watermark-ONE.png",ONED
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.oned.net/live-tv
+https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
+
+#EXTINF:-1 group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/WORKPOINT_Logo.svg/250px-WORKPOINT_Logo.svg.png",workpoint
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.workpointtv.com/live-stream-page
+https://global-media.sooplive.com/live/video/workpoint/1920x1080/playlist.m3u8
+
+#EXTINF:-1 group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/PPTV_logo_2019.svg/250px-PPTV_logo_2019.svg.png",PPTV
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Cropped-topnews-logo.png/250px-Cropped-topnews-logo.png",topnews
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://live.topnews.co.th/hls/topnews_a_720.m3u8
+
+
+
+#################DIGITAL.TV mpd#####################################
+
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/23.png" group-title="DIGITAL.TV",WorkpointTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e66726c1191403588f95c0757613ff1:67c26ba7f9b84024944808e01bbe6f47
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/24.png" group-title="DIGITAL.TV",True4U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/25.png" group-title="DIGITAL.TV",GMM25
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/27.png" group-title="DIGITAL.TV",CH8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a0a9dd380b4409c8dad910691283a0d:1447c104caa244d9a367549534e0b807
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/27/27.mpd
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/29.png" group-title="DIGITAL.TV",MONO29 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/30.png" group-title="DIGITAL.TV",9MCOT HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=edef8ba979d64acea3c827dcd51d21ed:1c9f0222e49da66fc785376c0645d86d
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/31.png" group-title="DIGITAL.TV",ONE31 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/32.png" group-title="DIGITAL.TV",ThairathTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/33.png" group-title="DIGITAL.TV",CH3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4431/02_3HD_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/34.png" group-title="DIGITAL.TV",AmarinTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b898bb9530b4b0a97e444d1e1f8960e:dab1a7c035d94287ac64417ef809ed3b
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/35.png" group-title="DIGITAL.TV",CH7 HD
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/36.png" group-title="DIGITAL.TV",PPTV HD
+https://www.livedoomovies.com:4431/02_PPTVHD_720p/playlist.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/2.png" group-title="DIGITAL.TV",NBT HD
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w884800294_b3128000.m3u8
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/3.png" group-title="DIGITAL.TV",ThaiPBS HD
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/4.png" group-title="DIGITAL.TV",ALTV(
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e98456bcbea44b7ad05831387e364ef:3d14fd4f9d3149a79b35a7124fccbd67
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/4/4.mpd
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/5.png" group-title="DIGITAL.TV",CH5 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=87db4361f7894655a4656e9c8b935a02:b025a4b950df41158a87cfc8d6f2ac34
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/5/5.mpd
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/7.png" group-title="DIGITAL.TV",T Sports 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/10.png" group-title="DIGITAL.TV",TPTV(
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5da46688fd1e4ed5b085a12519b9dc4e:fd07bcf33823447180f53f6540f74ccb
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/10/10.mpd
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/16.png" group-title="DIGITAL.TV",TNN16
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ebedc957e934d2b9023e4e60b97af73:7bcb4363df74457bbafedec1a864e6b6
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/16/16.mpd
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/18.png" group-title="DIGITAL.TV",JKN18
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=333de6034a1d45fe91c829539caf1149:2710efc048ca44bba4c2b57397989a26
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/18/18.mpd
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/22.png" group-title="DIGITAL.TV",NationTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88b44b9be186449ca5322053d975aa4c:b95b471541994278a1960fd4f85a7ee2
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
+
+
+#####################DIGITAL.TV MPD######################################################
+
+
+
+
+
+############# MonoMax###############
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://dookeela4.live/uploads/1753517049.png" group-title="⚽ MonoMax",Monomax2-2 
+#EXTVLCOPT:http-referrer=https://www.movie2k.io/
+https://www.livedoomovies.com:4431/Monomax_PL_2HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://dookeela4.live/uploads/1753517049.png" group-title="⚽ MonoMax",Monomax1-1 สำรอง2movie
+#EXTVLCOPT:http-referrer=https://www.movie2k.io/
+https://www.livedoomovies.com:4431/Monomax_PL_1HD/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://www.imgx02.xyz/assets/img/ch_logo/AISplay-sport1.jpg" group-title="⚽ MonoMax",AIS PLAY SPORTS FOOTBALL 1
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+https://www.livedoomovies.com:4431/AIS_PLAY_1HD/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://www.imgx01.xyz/assets/img/ch_logo/AISplay-sport2.jpg" group-title="⚽ MonoMax",AIS PLAY SPORTS FOOTBALL 2
+#EXTVLCOPT:http-referrer=https://www.movie2k.io/
+https://www.livedoomovies.com/AIS_PLAY_2HD/chunklist.m3u8
+
+
+
+
+#############TEST#######################################################
+
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://dookeela4.live/uploads/1753517049.png" group-title="⚽ MonoMax",Monomax_Live_1HD
+#EXTVLCOPT:http-referrer=https://www.movie2k.io/
+https://www.livedoomovies.com:4431/Monomax_Live_1HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://dookeela4.live/uploads/1753517049.png" group-title="⚽ MonoMax",Monomax_PL 1 HD
+#EXTVLCOPT:http-referrer=https://www.movie2k.io/
+https://www.livedoomovies.com:4431/Monomax_PL_1HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://dookeela4.live/uploads/1755093093.png" group-title="⚽ MonoMax",Monomax_Live_2HD
+#EXTVLCOPT:http-referrer=https://www.movie2k.io/
+https://www.livedoomovies.com:4431/Monomax_Live_2HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://www.imgx01.xyz/assets/img/ch_logo/epl-bein2.jpg" group-title="⚽ MonoMax",BEIN SPORT HD 2
+#EXTVLCOPT:http-referrer=https://www.movie2k.io/
+https://www.livedoomovies.com:4431/02_epl2_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://www.imgx04.xyz/assets/img/ch_logo/epl-bein3.jpg" group-title="⚽ MonoMax",BEIN SPORT HD 3
+#EXTVLCOPT:http-referrer=https://www.movie2k.io/
+https://www.livedoomovies.com:4431/02_epl3_720p/playlist.m3u8
+
+#############TEST#######################################################
+
+
+
+
+
+#####################################################################
+
+#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ GOLFSport" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115",NOW Sports Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://dko29we9nm1rd.cloudfront.net/
+https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://www.imgx01.xyz/assets/img/ch_logo/hd-golf.png" group-title="🖥️ GOLFSport",GOLF CHANNEL HD
+#EXTVLCOPT:http-referrer=https://www.movie2k.io/
+https://www.livedoomovies.com:4431/02_GOLFHD_720p/playlist.m3u8
+
+
+
+
+#############movie2026###############
+
+#EXTINF:-1 tvg-logo="https://33hd.com/wp-content/uploads/2026/03/9.jpg" group-title="🎬 ดูหนังใหม่ 2026" ,(2026)Fight Against Evil 3
+#EXTVLCOPT:http-referrer=https://33hd.com/
+https://media.vdohls.com/55_murtvh-W8z/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://33hd.com/wp-content/uploads/2026/03/12.jpg" group-title="🎬 ดูหนังใหม่ 2026" ,(2026)One Mile Chapter Two
+#EXTVLCOPT:http-referrer=https://33hd.com/
+https://media.vdohls.com/q8t6-3FA_lfih/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://33hd.com/wp-content/uploads/2026/03/pavane-2026.jpg" group-title="🎬 ดูหนังใหม่ 2026" ,(2026)เมื่อใจบ่มรัก
+#EXTVLCOPT:http-referrer=https://33hd.com/
+https://media.vdohls.com/vUJt-86U_gii3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://33hd.com/wp-content/uploads/2026/03/Cursed-Village-2026.jpg" group-title="🎬 ดูหนังใหม่ 2026" ,(2026)หมู่บ้านนางต้องสาป
+#EXTVLCOPT:http-referrer=https://33hd.com/
+https://media.vdohls.com/tia1-3vLA_y8J/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://33hd.com/wp-content/uploads/2026/03/Special-Police-and-Snake-Revenge-2026.jpg" group-title="🎬 ดูหนังใหม่ 2026" ,(2026)  หายนะอสรพิษร้าย
+#EXTVLCOPT:http-referrer=https://33hd.com/
+https://media.vdohls.com/GY5d_4X9-v8GS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://33hd.com/wp-content/uploads/2026/03/9-1.jpg" group-title="🎬 ดูหนังใหม่ 2026" ,(2026) ซาราห์ เริ่ดลวงโลก
+#EXTVLCOPT:http-referrer=https://33hd.com/
+https://media.vdohls.com/1nn_qrv-Ccpka/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://33hd.com/wp-content/uploads/2026/03/Huckster-2026.jpg" group-title="🎬 ดูหนังใหม่ 2026" ,(2026) หอร้อยราตรี
+#EXTVLCOPT:http-referrer=https://33hd.com/
+https://media.vdohls.com/WJ-e_eshSR3uB/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://33hd.com/wp-content/uploads/2026/02/The-Wrecking-Crew-2026.jpg" group-title="🎬 ดูหนังใหม่ 2026" ,(2026) คู่พยัคฆ์เดือด-เชือด
+#EXTVLCOPT:http-referrer=https://33hd.com/
+https://media.vdohls.com/i-qQED_vvtWJ7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lk-hd.net/wp-content/uploads/2026/03/Ginseng-King-2026-%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A0%E0%B8%B9%E0%B8%9C%E0%B8%B2%E0%B8%AD%E0%B8%B2%E0%B8%96%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B9%8C.jpg" group-title="🎬 ดูหนังใหม่ 2026" ,(2026) ตำนานนักล่าภูผาอาถรรพ์
+#EXTVLCOPT:http-referrer=https://lk-hd.net/
+https://original.enjoy24cdn.com/hlsr2/7a8916e82fd4215513911064afa5f2d5/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://lk-hd.net/wp-content/uploads/2026/03/Scream-7-2026-%E0%B8%AB%E0%B8%A7%E0%B8%B5%E0%B8%94%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%82%E0%B8%B5%E0%B8%94-7.jpg" group-title="🎬 ดูหนังใหม่ 2026" ,(2026) หวีดสุดขีด 7
+#EXTVLCOPT:http-referrer=https://lk-hd.net/
+https://original.enjoy24cdn.com/hlsr2/f33b84de77a539560eddd3a37a6c4a49/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://lk-hd.net/wp-content/uploads/2026/02/Back-to-the-Past-2026-%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%88%E0%B8%B4%E0%B9%8B%E0%B8%99%E0%B8%8B%E0%B8%B5-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88-360x540.webp" group-title="🎬 ดูหนังใหม่ 2026" ,(2026)เจาะเวลาหาจิ๋นซี
+#EXTVLCOPT:http-referrer=https://lk-hd.net/
+https://original.enjoy24cdn.com/hlsr2/0258ae0103b463415c824f095e20819c/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://lk-hd.net/wp-content/uploads/2026/02/Whistle-2026-%E0%B8%AB%E0%B8%A7%E0%B8%B5%E0%B8%94%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B8%9C%E0%B8%B5-360x540.webp" group-title="🎬 ดูหนังใหม่ 2026" ,(2026)หวีดเรียกผี
+#EXTVLCOPT:http-referrer=https://lk-hd.net/
+https://original.enjoy24cdn.com/hlsr2/029d343c2c9a5346355d309cd8f37ca9/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://lk-hd.net/wp-content/uploads/2025/03/%E0%B9%80%E0%B8%81%E0%B8%B2%E0%B8%B0%E0%B8%87%E0%B8%B9%E0%B8%A2%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%94-2025-Island-Python.jpg" group-title="🎬 ดูหนังใหม่ 2026" ,(2026)Island Pythonำ
+#EXTVLCOPT:http-referrer=https://lk-hd.net/
+https://original.enjoy24cdn.com/hlsr2/c206d2694f475d88a5f26319aeef5c09/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://lk-hd.net/wp-content/uploads/2026/02/WANTED-2025-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%AB%E0%B8%B9.jpg" group-title="🎬 ดูหนังใหม่ 2026" ,(2026)ประกาศจับเจียงหูำ
+#EXTVLCOPT:http-referrer=https://lk-hd.net/
+https://original.enjoy24cdn.com/hlsr2/a220f1404a71817eaa8b5910acf88f77/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://lk-hd.net/wp-content/uploads/2026/02/Crime-101-2026-%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3.jpg" group-title="🎬 ดูหนังใหม่ 2026" ,(2026)เส้นทางปล้นโคตรระห่ำ
+#EXTVLCOPT:http-referrer=https://lk-hd.net/
+https://original.enjoy24cdn.com/hlsr2/2b8bb44a3137c0ee6c0fc9afa4f32e7e/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://lk-hd.net/wp-content/uploads/2026/02/Fight-Against-Evil-3-2026.jpg" group-title="🎬 ดูหนังใหม่ 2026" ,(2026)Fight Against Evil 3
+#EXTVLCOPT:http-referrer=https://lk-hd.net/
+https://original.enjoy24cdn.com/hlsr2/d177df9235f9604ab18d7aee7dadb9ed/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://lk-hd.net/wp-content/uploads/2026/02/The-Huntsman-2026.jpg" group-title="🎬 ดูหนังใหม่ 2026" ,(2026) The Huntsman 
+#EXTVLCOPT:http-referrer=https://lk-hd.net/
+https://original.enjoy24cdn.com/hlsr2/78f75e987703f407e26b68cfcc89f0ad/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://kub24hd.com/wp-content/uploads/2025/09/The-Shadows-Edge-2025.webp" group-title="🎬 ดูหนังใหม่ 2026" ,(2026) แผนระห่ำ ใหญ่ฟัดเดือด
+#EXTVLCOPT:http-referrer=https://kub24hd.com/
+https://media.vdohls.com/1i6858j7uc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.majorcineplex.com/uploads/movie/4715/bg_4715.png" group-title="🎬 ดูหนังใหม่ 2026" ,(2026) สรรพลี้หวน
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/3323eacd87a5e22ce44c4ff2/3323eacd87a5e22ce44c4ff2.m3u8
+
+#EXTINF:-1 tvg-logo="https://ua-film.online/wp-content/uploads/2026/01/24a8f8f4113f971a2934822eac4b14be.jpeg" group-title="🎬 ดูหนังใหม่ 2026" ,(2026) คนข้างหลัง
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/0eafb6cb73b9f88373105c27/0eafb6cb73b9f88373105c27.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.khaosod.co.th/wpapp/uploads/2026/01/9-42.jpg" group-title="🎬 ดูหนังใหม่ 2026" ,(2026) 28 ปีให้หลัง
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/c8fcac81fd3926916a7888c5/c8fcac81fd3926916a7888c5.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.thaiware.site/movie/2025-12/images-poster/251213120416897.jpg" group-title="🎬 ดูหนังใหม่ 2026" ,(2026) คลั่งนรก หลบตาย
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/1d1ca47ef68dcb4ae721e859/1d1ca47ef68dcb4ae721e859.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.123hd-tv.com/wp-content/uploads/2026/01/poster_74419-185x278.png" group-title="🎬 ดูหนังใหม่ 2026" ,(2026) monkey-king
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/391e9635963394c78a767ed0/391e9635963394c78a767ed0.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.123hd-tv.com/wp-content/uploads/2026/02/poster_74575-185x278.png" group-title="🎬 ดูหนังใหม่ 2026" ,(2026) วุ่นแค้นแดนหิมะ
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/2cced5850fbbe0730864c02c/2cced5850fbbe0730864c02c.m3u8
+
+#EXTINF:-1 tvg-logo="https://kahirihome.com/wp-content/uploads/2025/12/The-Exit-8-2025-%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%A5%E0%B8%82-8.webp" group-title="🎬 ดูหนังใหม่ 2026" ,The Exit 8 (2025) ทางออกหมายเลข 8
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/97723b096bda9ac41efa53cb/97723b096bda9ac41efa53cb.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.123hd-tv.com/wp-content/uploads/2026/01/poster_74370-185x278.png" group-title="🎬 ดูหนังใหม่ 2026" ,(2026) โปรดส่งใครมาช่วยฉันที
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/97a31b2ca644b89c319ce5c9/97a31b2ca644b89c319ce5c9.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.123hd-tv.com/wp-content/uploads/2026/01/poster_74454-185x278.png" group-title="🎬 ดูหนังใหม่ 2026" ,(2026) เดี่ยว สตีล อะไลฟ์
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/fb24105d68f2b4f428909236/fb24105d68f2b4f428909236.m3u8
+
+#EXTINF:-1 tvg-logo="https://flixmono.com/wp-content/uploads/2026/01/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87-%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94-%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%AE%E0%B8%B2%E0%B8%A7%E0%B8%B2%E0%B8%A2-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-The-Wrecking-Crew-2026-%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87.jpg" group-title="🎬 ดูหนังใหม่ 2026" ,(2026)คู่พยัคฆ์เดือด
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/8148988604a36db26475e577/8148988604a36db26475e577.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.metalbridges.com/wp-content/uploads/2025/10/primate-movie-1.jpg" group-title="🎬 ดูหนังใหม่ 2026" ,(2026)ลิงคลั่งพันธุ์ดิบ
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/6b1c881e92e88a28e444fcd7/6b1c881e92e88a28e444fcd7.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.123hd-tv.com/wp-content/uploads/2026/01/poster_74269-185x278.png" group-title="🎬 ดูหนังใหม่ 2026" ,(2026)ลิงคลั่งพันธุ์ดิบ
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/6b1c881e92e88a28e444fcd7/6b1c881e92e88a28e444fcd7.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.123hd-tv.com/wp-content/uploads/2026/01/poster_74269-185x278.png" group-title="🎬 ดูหนังใหม่ 2026" ,(2026)90 นาทีสั่งตาย
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/7d35fa31e8b9f3eee7c5b03a/7d35fa31e8b9f3eee7c5b03a.m3u8
+
+#EXTINF:-1 tvg-logo="https://lk-hd.net/wp-content/uploads/2026/01/Return-to-Silent-Hill.jpg" group-title="🎬 ดูหนังใหม่ 2026" ,(2026)เมืองห่าผี นครคืนชีพ
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/855f6a0a065177d44b4b6778/855f6a0a065177d44b4b6778.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.majorcineplex.com/uploads/movie/4551/thumb_4551.jpg" group-title="🎬 ดูหนังใหม่ 2026" ,(2026)ความลับแม่บ้านร้าย
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/d3e9e32befa933d3b06172d7/d3e9e32befa933d3b06172d7.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.123hd-tv.com/wp-content/uploads/2026/01/poster_73921-185x278.png" group-title="🎬 ดูหนังใหม่ 2026" , (2026) ฝ่าชะตา โลกาวินาศ
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/8b1f6ea78f972d03517b7239/8b1f6ea78f972d03517b7239.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.kino-zeit.de/sites/default/files/2025-09/the_rip_2026_pl.jpg" group-title="🎬 ดูหนังใหม่ 2026" , (2026) เงินบาปกระชากคน
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/3544b8b0cd26e525a7a11027/3544b8b0cd26e525a7a11027.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s359.kapook.com/pagebuilder/c718d359-c2da-44b9-93a8-6f5223831ee1.jpg" group-title="🎬 ดูหนังใหม่ 2026" , (2026) นากรักมาก ม๊ากมาก
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/6c339de755ba0da8ce2a546b/6c339de755ba0da8ce2a546b.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.filmihulluleffakauppa.com/42018-large_default/sisu-2-2025-blu-ray.jpg" group-title="🎬 ดูหนังใหม่ 2026" , สิสู้…เฒ่ามหากาฬ 2
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/4dc88eebac9e671ebdd4263c/4dc88eebac9e671ebdd4263c.m3u8
+
+#############movie2025###############
+
+
+
+#EXTINF:-1 tvg-logo="https://www.filmihulluleffakauppa.com/42018-large_default/sisu-2-2025-blu-ray.jpg" group-title="🎬 ดูหนังใหม่ 2025" , สิสู้…เฒ่ามหากาฬ 1
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/ec912ad41d8cf859df942edc/ec912ad41d8cf859df942edc.m3u8
+
+#EXTINF:-1 tvg-logo="https://kahirihome.com/wp-content/uploads/2025/12/Wildcat-2025-%E0%B9%84%E0%B8%A7%E0%B8%A5%E0%B8%94%E0%B9%8C%E0%B9%81%E0%B8%84%E0%B8%97-%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99-300x450-1.webp" group-title="🎬 ดูหนังใหม่ 2025" , ไวลด์แคท สวยต้องปล้น
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/8f588dc6d0795320135c6f88/8f588dc6d0795320135c6f88.m3u8
+
+#EXTINF:-1 tvg-logo="https://28hd.com/wp-content/uploads/2025/12/The-Great-Flood-netflix.webp" group-title="🎬 ดูหนังใหม่ 2025" ,ฟอลล์เอาท์ (2025)
+#EXTVLCOPT:http-referrer=https://28hd.com/
+https://28hd.com/wp-content/uploads/2025/12/fallout-season-2.webp
+
+#EXTINF:-1 tvg-logo="https://28hd.com/wp-content/uploads/2025/12/The-Great-Flood-netflix.webp" group-title="🎬 ดูหนังใหม่ 2025" ,The Great Flood (2025)
+#EXTVLCOPT:http-referrer=https://28hd.com/
+https://media.vdohls.com/Es-E0ww0Za_6v/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://28hd.com/wp-content/uploads/2025/10/Good-Fortune-2025.webp" group-title="🎬 ดูหนังใหม่ 2025" ,  เทวดาแบบใดห์(2025) 
+#EXTVLCOPT:http-referrer=https://28hd.com/
+https://m5-txt-2.xdomovie247.com/playlist2/detail/2a26ec42GvNXJ/720/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://28hd.com/wp-content/uploads/2026/01/28-Merv-2025.webp" group-title="🎬 ดูหนังใหม่ 2025" , เมิร์ฟ สี่ขาสื่อหัวใจ (2025) 
+#EXTVLCOPT:http-referrer=https://28hd.com/
+https://m5-txt-2.xdomovie247.com/playlist2/detail/2a26ec42GvNXJ/720/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://28hd.com/wp-content/uploads/2025/11/Now-You-See-Me-3-2025.webp" group-title="🎬 ดูหนังใหม่ 2025" ,อาชญากลปล้นโลก 3 (2025) 
+#EXTVLCOPT:http-referrer=https://28hd.com/
+https://m5-txt-2.xdomovie247.com/playlist2/detail/2a26ec42GvNXJ/720/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://28hd.com/wp-content/uploads/2025/12/avatar-3.webp" group-title="🎬 ดูหนังใหม่ 2025" ,อวตาร อัคนีและธุลีดิน(2025) 
+#EXTVLCOPT:http-referrer=https://28hd.com/
+https://text-lb.xmoviedo24.com/playlist2/1f459965SOBQ0/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.movie2fin.com/images/movie/WtYkzi6dQlKKX5B1G2jBybr2JtVFI9qthe-running-man-68f4fc39b45ab.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,เดอะ รันนิ่ง แมน(2025) 
+#EXTVLCOPT:http-referrer=https://28hd.com/
+https://streaming.disk.yandex.net/hls/U2FsdGVkX1-AY-Xqr0C3chAQvvCMH-VELFy4NNqonYHnGpnaRpJFCM6mSkUzxmIGX-A8aZ9hIKxl6GfQTRjuccGYV-0bnR9qQCpUT71APsHrcCkZ2Z8DZIad27vlyUKjXKva8tnPJ-Ln3eUFAfez_5KggW4RG3WXeG0ipdQQ0UhTUe2xJXK4G9o_Tw4jgwzRpPnzEbMNQIU4NshEDxtg7iMOQR2vLF0F1AbOY5zeCyu65W7hGfoKsL-Bet3K9Vcedz_b5TYaV5dq_MqOeDohzR9aw9AhL7Yyf1AUoybd2v8WGK0B4Q7JnuZclxWQngV3fzqsqkDewUcacXTZe0pEd04Qyfjz8okdXOaxyocPu1cpf2zb_EBAi_27GyfeEzZo/646bbc4a53918/1ecb9b697b081c00314305c19f4094626c7c8c52946b07c8c2c30c721068644a/master-playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://28hd.com/wp-content/uploads/2025/12/12-Hours-of-Terror-2025.webp" group-title="🎬 ดูหนังใหม่ 2025" ,สายน้า 12-Hours-of-Terror(2025) 
+#EXTVLCOPT:http-referrer=https://28hd.com/
+https://m5-txt-2.xdomovie247.com/playlist2/detail/2a26ec42GvNXJ/720/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://milwaukeechambertheatre.com/wp-content/uploads/2025/10/Creation-of-the-Gods-II-Demon-Force-2025.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,กำเนิดเทพเจ้า ตอน มหาศึกเทพยุทธำ(2025) 
+#EXTVLCOPT:http-referrer=https://www.movie2fin.com/
+https://streaming.disk.yandex.net/hls/U2FsdGVkX19fCVGw-_ajSw0BsjAzidJj3Ov6cjcZGRgI4138n74e1xDniPcE7nadl9YRwAFouqmkEwtq8IfcEwS2bx_jnr1jEnVFsde7twI2xRy4UCoWbN4ZzGQpIGeESEynawVvVFjDiIO-YcHrN6--h2c5JlTpmCPk8P1KOOe39u2K-4oEb4uSsM3l3eBCY-CQnvMhJmTqLV2kqczQWLfENRSp3LwjKfeVASb0sxTJyfJQDEsX8Sr6g_Nv_TzMBaFdTNA-wWDCLL50gJMb6pOknMnQk4jGp4EpE33huf4a_qtoZKiNgGeONnuCTp6g_FSmdtAQpNWTVHlZwiPgqeKYAYpjdmMZkBUAvcE1WxE/6465a7e399d90/babfcb545f629db0a4490e25fd4c4e751b3edbd333f1c64d17bcbf049b43a995/master-playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://media0090.elcinema.com/uploads/_315x420_5a79710c1720f0fbccaa434c22eb22b1c35d5de6b8bc4c55570de076f9243494.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,ทางออกหมายเลข 8(2025) 
+#EXTVLCOPT:http-referrer=https://28hd.com/
+https://main.24playerhd.com/newplaylist/97723b096bda9ac41efa53cb/97723b096bda9ac41efa53cb.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.finsliqblog.com/wp-content/uploads/2025/10/Frankenstein-2025.webp" group-title="🎬 ดูหนังใหม่ 2025" ,(2025) แฟรงเกนสไตน์(2025) 
+#EXTVLCOPT:http-referrer=https://28hd.com/
+https://m4-txt-2.xdomovie247.com/playlist2/detail/c250a468TRpY2/720/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://lk-hd1.com/wp-content/uploads/2025/11/Train-Dreams-2025-%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%96%E0%B9%84%E0%B8%9F%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,อลวนสาวกลีบหาย(2025) 
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/m3u8/bd9b4020097b88cff0c22f96/bd9b4020097b88cff0c22f96168.m3u8
+
+#EXTINF:-1 tvg-logo="https://lk-hd1.com/wp-content/uploads/2025/11/Train-Dreams-2025-%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%96%E0%B9%84%E0%B8%9F%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,ทางรถไฟสายฝัน(2025) 
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/m3u8/5d4598f38fb668e728e5bd08/5d4598f38fb668e728e5bd08168.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/th/f/f9/%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD_%28%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%29.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,4 Tigers (2025) เสือ
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/m3u8/d312b81f2d633c82a1af7e7f/d312b81f2d633c82a1af7e7f168.m3u8
+
+#EXTINF:-1 tvg-logo="https://25-hd.com/wp-content/uploads/2025/11/ef2QSeBkrYhAdfsWGXmp0lvH0T1-scaled-1-683x1024.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025)พรีเดเตอร์ แดนเถื่อน :ซูมตาแฉะ
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://m3u8haha.com/movie/M15538.mp4/chunk.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bnGKTYXVkQp0TKWRfAvTTY1y2XC.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025)เดอะ รันนิ่ง แมน
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/m3u8/47e7c17e6b53bd7df96c6152/47e7c17e6b53bd7df96c6152168.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hdd.com/wp-content/uploads/2025/09/Afterburn_2025.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025)ล่าขุมทรัพย์แดนแดดเดือด
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/83f997f822bdd7d6fef44764/83f997f822bdd7d6fef44764.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://sahamongkolfilm.com/wp-content/uploads/2025/10/No-Other-Choice-Kor-Poster-TH.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025) งานนี้..ฆ่าเอา
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/83f997f822bdd7d6fef44764/83f997f822bdd7d6fef44764.m3u8
+
+#EXTINF:-1 tvg-logo="https://deskanime.net/wp-content/uploads/2025/09/Strange-Memories-2025-cover.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025) ความทรงจำพิศวง 
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/03a93043e2ae76c022be235a/03a93043e2ae76c022be235a.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://mblogi.com/wp-content/uploads/2025/10/Black-Phone2.webp" group-title="🎬 ดูหนังใหม่ 2025" ,สายหลอน ซ่อนวิญญาณ 2 (2025) 
+#EXTVLCOPT:http-referrer=https://mblogi.com/
+https://m5-txt-2.xdomovie247.com/playlist2/detail/87e905ce8ZnPo/720/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://037hd.net/wp-content/uploads/2025/10/Play-Dirty.webp" group-title="🎬 ดูหนังใหม่ 2025" ,Play Dirty (2025) หักหลังต้องหักเหลี่ยม
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/1764421905eacbc6efdfb546/1764421905eacbc6efdfb546.m3u8
+
+#EXTINF:-1 tvg-logo="https://mblogi.com/wp-content/uploads/2025/10/Everybody-Loves-Me-When-Im-Dead.webp" group-title="🎬 ดูหนังใหม่ 2025" ,ลักกันวันตาย (2025) 
+#EXTVLCOPT:http-referrer=https://mblogi.com/
+https://m5-txt-2.xdomovie247.com/playlist2/detail/87e905ce8ZnPo/720/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://mblogi.com/wp-content/uploads/2025/10/Black-Phone2.webp" group-title="🎬 ดูหนังใหม่ 2025" ,สายหลอน ซ่อนวิญญาณ (2025)
+#EXTVLCOPT:http-referrer=https://mblogi.com/
+https://m5-txt-2.xdomovie247.com/playlist2/detail/87e905ce8ZnPo/720/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://movie2freehd.com/wp-content/uploads/2025/04/nGBpsFHjwE4VYkZjiyItld7zoAlyJ2f.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,ไมน์คราฟต์ มูฟวี่ (2025)
+#EXTVLCOPT:http-referrer=https://mblogi.com/
+https://worker2.playmov.tv/movie2freehd.com/4-ssd/movie/store-2000/A.Minecraft.Movie.2025.mp4/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://mblogi.com/wp-content/uploads/2025/09/Tron3-Ares.webp" group-title="🎬 ดูหนังใหม่ 2025" ,Tron 3 Ares (2025) ทรอน 3 แอรีส
+#EXTVLCOPT:http-referrer=https://mblogi.com/
+https://m5-txt-2.xdomovie247.com/playlist2/detail/87e905ce8ZnPo/720/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-10.jpg" group-title="🎬 ดูหนังใหม่ 2025" , สงครามโลกล้านปี(2025)
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://m3u8haha.com/movie/M15466.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/1.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,หักหลังต้องหักเหลี่ยม (2025)
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://m3u8haha.com/movie/M15474.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/2-1-scaled.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,The Astronaut (2025)
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://m3u8haha.com/movie/M15477.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-8.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,Prisoner of War (2025)
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://m3u8haha.com/movie/M15462.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-10.jpg" group-title="🎬 ดูหนังใหม่ 2025" , (2025) สงครามโลกล้านปี
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://m3u8haha.com/movie/M15466.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-11.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,Mantis (2025)
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://m3u8haha.com/movie/M15467.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/4-2.jpg" group-title="🎬 ดูหนังใหม่ 2025" , (2025) ฝ่าภารกิจเดือด
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://m3u8haha.com/movie/M15461.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-7.jpg" group-title="🎬 ดูหนังใหม่ 2025" , ซ้ำวัน กับ Someone (2025)
+#EXTVLCOPT:http-referrer=https://www.24hd-movie.com/
+https://m3u8haha.com/movie/M15458.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/th/9/94/%E0%B9%83%E0%B8%9A%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%81%E0%B8%9F%E0%B8%99%E0%B9%81%E0%B8%97%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%81_%E0%B9%82%E0%B8%9F%E0%B8%A3%E0%B9%8C_%E0%B8%88%E0%B8%B8%E0%B8%94%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%9B%E0%B8%90%E0%B8%A1%E0%B8%9A%E0%B8%97%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,2025)  เดอะ แฟนแทสติก 4
+#EXTVLCOPT:http-referrer=https://www.24hd-movie.com/
+https://main.24playerhd.com/newplaylist/ab8892012bb6042b938c3903/ab8892012bb6042b938c3903.m3u8
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-3.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,2025) หลวงพี่แจ๊สโคตรซิ่ง
+#EXTVLCOPT:http-referrer=https://www.24hd-movie.com/
+https://m3u8haha.com/movie/M15449.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-6-scaled.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025)ขงเบ้ง เจาะเวลามาปั้นดาว
+#EXTVLCOPT:http-referrer=https://www.24hd-movie.com/
+https://m3u8haha.com/movie/M15456.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-6-scaled.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025) แผนระห่ำ ใหญ่ฟัดเดือด
+#EXTVLCOPT:http-referrer=https://www.24hd-movie.com/
+https://m3u8haha.com/movie/M15454.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.movie555.com/assets/images/poster/a/compressed/202509/42322AzBbGl5i85YlmzQBCxVAahl6oczJfE0f.jpg.webp" group-title="🎬 ดูหนังใหม่ 2025" ,(2025) สถาบันนางร้าย
+#EXTVLCOPT:http-referrer=https://www.24hd-movie.com/
+https://main.24playerhd.com/newplaylist/b511021da72a0f0fd20a78fa/b511021da72a0f0fd20a78fa.m3u8
+
+#EXTINF:-1 tvg-logo="https://f.ptcdn.info/649/008/000/1376994965-Photo19825-o.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025) หลวงพี่แจ๊สโคตรซิ่ง
+#EXTVLCOPT:http-referrer=https://www.24hd-movie.com/
+https://main.24playerhd.com/newplaylist/c34830e45532a88473657bfc/c34830e45532a88473657bfc.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://f.ptcdn.info/649/008/000/1376994965-Photo19825-o.jpg" group-title="🎬 ดูหนังใหม่ 2025" , เดอะ คอนเจอริ่ง คนเรียกผี(2025)
+#EXTVLCOPT:http-referrer=https://www.24hd-movie.com/
+https://main.24playerhd.com/newplaylist/c24736fd4314f59b43717335/c24736fd4314f59b43717335.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-2.jpg" group-title="🎬 ดูหนังใหม่ 2025" , Highest 2 Lowest (2025)(2025)
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://m3u8haha.com/movie/M15445.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/3-scaled.jpg" group-title="🎬 ดูหนังใหม่ 2025" , บัลลังก์เลือด (2025)
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://m3u8haha.com/movie/M15440.mp4/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1-8.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,Hallow Road (2025)
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://m3u8haha.com/movie/M15425.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1-11.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025)Nobody 2 (2025)
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://m3u8haha.com/movie/M15434.mp4/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/4-7.jpg" group-title="🎬 ดูหนังใหม่ 2025" , เขาชุมทอง คะนองชุมโจร(2025)
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://m3u8haha.com/movie/M15430.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dailynews.co.th/wp-content/uploads/2025/04/Gnn6jZ7aMAcExfP-1024x1280.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025)เดอะ สโตน พระแท้ คนเก๊
+#EXTVLCOPT:http-referrer=https://www.24hd-movie.com/
+https://main.24playerhd.com/newplaylist/09e2bd0055172e2236835dae/09e2bd0055172e2236835dae.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1-5.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025) กําเนิดเทพเจ้า ตอน มหาศึกเทพยุทธ
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://m3u8haha.com/movie/M15417.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/2-3.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025) ท่าแร่
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://m3u8haha.com/movie/M15426.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1-8.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,Hallow Road (2025)
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://m3u8haha.com/movie/M15425.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1-3.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,ฮาลาบาลา ป่าจิตหลุด(2025)
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://m3u8haha.com/movie/M15408.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/4-2-scaled.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,เดอะพิคอัพ(2025)
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://m3u8haha.com/movie/M15406.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/3-2-scaled.jpg" group-title="🎬 ดูหนังใหม่ 2025" , ภราดธเลือด(2025)
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://m3u8haha.com/movie/M15409.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/1-8-scaled.jpg" group-title="🎬 ดูหนังใหม่ 2025" , ไฟนอลเดสติเนชั่น(2025)
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://m3u8haha.com/movie/M15385.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/2-6.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,ป้าลุยแหลกแหกวิวาห์ป่วน (2025)
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://m3u8haha.com/movie/M15382.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/2-7.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,Zombies 4 (2025)
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://m3u8haha.com/movie/M15386.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/1-6.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,คู่สืบ คู่อันตราย (2025)
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://m3u8haha.com/movie/M15381.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/4.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,War of the Worlds (2025)
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://serverdatam3u8.com/movie/M15402.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/3.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,ซัมเมอร์สยอง..ต้องหวีด (2025)
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://serverdatam3u8.com/movie/M15401.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/2.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,มือปราบปืนเปลือย (2025)
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://serverdatam3u8.com/movie/M15400.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/2-2.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,Vengeance (2025)
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://serverdatam3u8.com/movie/M15371.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/4.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025) ดอร่ากับการผจญภัยโซลดอราโด้
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://serverdatam3u8.com/movie/M15373.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://kahirihome.com/wp-content/uploads/2025/10/Figth-Break-Sphere-2-2023-%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B9%8C%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%9F%E0%B9%89%E0%B8%B2-2-300x450-2.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025) สัประยุทธ์ทะลุฟ้า 4
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/ea96737d9cf9f1f27d9bdaa8/ea96737d9cf9f1f27d9bdaa8.m3u8
+
+#EXTINF:-1 tvg-logo="https://f.ptcdn.info/758/088/000/mdor3zu1i2f9VX0tAP0-o.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025) เดอะ แฟนแทสติก 4 
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/4f2068078ffe65ecc6564fc7/4f2068078ffe65ecc6564fc7.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/34bTB7lE2lg/maxresdefault.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025)28 ปีให้หลัง เชื้อเขมือบคน
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/ea40b84625de77f7c9608a94/ea40b84625de77f7c9608a94.m3u8
+
+#EXTINF:-1 tvg-logo="https://f.ptcdn.info/214/080/000/rs9k0317iwmGUczrsZd0z-o.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025)จักรวาลของ จอห์น วิค
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/2c59bb8be3a9d3865276bf0e/2c59bb8be3a9d3865276bf0e.m3u8
+
+#EXTINF:-1 tvg-logo="https://037hd.net/wp-content/uploads/2025/05/A-Widows-Game-185x278.webp" group-title="🎬 ดูหนังใหม่ 2025" ,(2025) กลเกมแม่ม่าย
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/5678c64034191519109cb431/5678c64034191519109cb431.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGNmYWI0YWItMmJhYi00OTA4LThlNjItMTk0MzI1M2IwYjg5XkEyXkFqcGc@._V1_.jpg" group-title="🎬 ดูหนังใหม่ 2025" , Alarum (2025)
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/dded6ffba7b93b61d66e401f/dded6ffba7b93b61d66e401f.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.thaiware.site/movie/2024-12/images-poster/2412171204127x2.jpg" group-title="🎬 ดูหนังใหม่ 2025" , (2025) คาราเต้ คิด
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/842f0d8092c9f870701d63b2/842f0d8092c9f870701d63b2.m3u8
+
+#EXTINF:-1 tvg-logo="https://de88.me/wp-content/uploads/2025/07/F1%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%882025F1TheMovie-1.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025)F1 เดอะ มูฟวี่
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/fb4c29f8eb943d0b404404e6/fb4c29f8eb943d0b404404e6.m3u8
+
+#EXTINF:-1 tvg-logo="https://f.ptcdn.info/577/088/000/mcx80u3ki4r5lyLIO7w-o.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025) ปากกัดตีนถีบ
+#EXTVLCOPT:http-referrer=https://www.moviehdfree77.net/
+https://main.24playerhd.com/newplaylist/152ab368d70abf432fdd0459/152ab368d70abf432fdd0459.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.moviehdfree77.net/wp-content/uploads/2025/06/Superman-2025-e1750765401944.webp?x47423" group-title="🎬 ดูหนังใหม่ 2025" ,Superman (2025) ซุปเปอร์แมน
+#EXTVLCOPT:http-referrer=https://www.moviehdfree77.net/
+https://main.24playerhd.com/newplaylist/61063df484167195868e4f70/61063df484167195868e4f70.m3u8
+
+#EXTINF:-1 tvg-logo="https://10000tip.com/wp-content/uploads/2025/02/untitled08452.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025) แผนปล้นคนหักเหลี่ยม
+#EXTVLCOPT:http-referrer=https://www.123-hdd.com/
+https://main.24playerhd.com/newplaylist/5dc315ebc5b5ab29a3dbaa13/5dc315ebc5b5ab29a3dbaa13.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2025/07/Jurassic-World-Rebirth-2025-%E0%B8%88%E0%B8%B9%E0%B8%A3%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%84-%E0%B9%80%E0%B8%A7%E0%B8%B4%E0%B8%A5%E0%B8%94%E0%B9%8C-%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-300x450.png" group-title="🎬 ดูหนังใหม่ 2025" ,จูราสสิค-เวิลด์(2025)
+#EXTVLCOPT:http-referrer=https://www.123-hdd.com/
+https://main.24playerhd.com/newplaylist/f030631c5d5f76f7a512688f/f030631c5d5f76f7a512688f.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2025/07/Shark-Whisperer-2025-%E0%B8%84%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%89%E0%B8%A5%E0%B8%B2%E0%B8%A1-300x450.png" group-title="🎬 ดูหนังใหม่ 2025" , คนรักษ์ฉลาม(2025)
+#EXTVLCOPT:http-referrer=https://www.123-hdd.com/
+https://main.24playerhd.com/newplaylist/e2f9ed74205adc69f400230d/e2f9ed74205adc69f400230d.m3u8
+
+#EXTINF:-1 tvg-logo="https://lk-hd1.com/wp-content/uploads/2025/07/The-Old-Guard-2-2025-%E0%B8%94%E0%B8%B4-%E0%B9%82%E0%B8%AD%E0%B8%A5%E0%B8%94%E0%B9%8C-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%94-2-350x422.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,ดิ โอลด์ การ์ด 2(2025)
+#EXTVLCOPT:http-referrer=https://www.123-hdd.com/
+https://main.24playerhd.com/newplaylist/623a7aafd6df870d86015d7d/623a7aafd6df870d86015d7d.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2025/03/Cleaner-2025-%E0%B9%84%E0%B8%95%E0%B9%88%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B8%95%E0%B8%B6%E0%B8%81%E0%B8%99%E0%B8%A3%E0%B8%81-300x450.png" group-title="🎬 ดูหนังใหม่ 2025" , ไต่ระทึกตึกนรก(2025)
+#EXTVLCOPT:http-referrer=https://www.123-hdd.com/
+https://main.24playerhd.com/newplaylist/48e2c5a741110e471c386257/48e2c5a741110e471c386257.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2025/04/Graveyard-Horror-2025-4%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%8A%E0%B9%89%E0%B8%B2-300x450.png" group-title="🎬 ดูหนังใหม่ 2025" , 4ป่าช้า(2025)
+#EXTVLCOPT:http-referrer=https://www.123-hdd.com/
+https://main.24playerhd.com/newplaylist/bd84811aa8d1c35a3d56ef13/bd84811aa8d1c35a3d56ef13.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2025/04/Warfare-2025-1-300x450.png" group-title="🎬 ดูหนังใหม่ 2025" ,Warfare (2025)
+#EXTVLCOPT:http-referrer=https://www.123-hdd.com/
+https://main.24playerhd.com/newplaylist/9f6ca8e499c8f0fab3b3fd67/9f6ca8e499c8f0fab3b3fd67.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2025/05/Detective-Chinatown-1900-2025-%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2-300x450.png" group-title="🎬 ดูหนังใหม่ 2025" ,แก๊งม่วนป่วนอเมริกา
+#EXTVLCOPT:http-referrer=https://www.123-hdd.com/
+https://main.24playerhd.com/newplaylist/5ff788ba17b79bd93945679d/5ff788ba17b79bd93945679d.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2025/06/Haunting-of-Mount-Gede-2025-%E0%B8%84%E0%B8%B3%E0%B8%AA%E0%B8%B2%E0%B8%9B%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B9%80%E0%B8%81%E0%B9%80%E0%B8%94-300x450.png" group-title="🎬 ดูหนังใหม่ 2025" ,คำสาปแห่งเขาเกเด
+#EXTVLCOPT:http-referrer=https://www.123-hdd.com/
+https://main.24playerhd.com/newplaylist/28eaba617c46744c5a1dffd6/28eaba617c46744c5a1dffd6.m3u8
+
+#EXTINF:-1 tvg-logo="https://t1.blockdit.com/photos/2021/03/604347a06400f715a7c0dc5c_800x0xcover_G7UF_dQC.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2007) มหันตภัยเชื้อนรกถล่มเมือง ภาค2
+#EXTVLCOPT:http-referrer=https://www.123-hdd.com/
+https://main.24playerhd.com/newplaylist/7623d290b7d2d49e69f4667b/7623d290b7d2d49e69f4667b.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2025/06/28-Years-Later-2025-28-%E0%B8%9B%E0%B8%B5%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87-%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B9%80%E0%B8%82%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%9A%E0%B8%84%E0%B8%99-300x450.png" group-title="🎬 ดูหนังใหม่ 2025" ,28 ปีให้หลัง เชื้อเขมือบคน (2025) ภาค3
+#EXTVLCOPT:http-referrer=https://www.123-hdd.com/
+https://main.24playerhd.com/newplaylist/ea40b84625de77f7c9608a94/ea40b84625de77f7c9608a94.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2025/06/Kraken-2025-%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%84%E0%B8%99-%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87-20000-%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C-300x450.png" group-title="🎬 ดูหนังใหม่ 2025" ,คราเคน เลื้อยสยอง 20,000 โยชน์ (2025)
+#EXTVLCOPT:http-referrer=https://www.123-hdd.com/
+https://main.24playerhd.com/newplaylist/ac04ec7c5baf3166f5317db6/ac04ec7c5baf3166f5317db6.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2025/06/Frozen-The-Hit-Broadway-Musical-2025-300x450.png" group-title="🎬 ดูหนังใหม่ 2025" ,คุณลุงเก้าปราบผี (2025)
+#EXTVLCOPT:http-referrer=https://www.123-hdd.com/
+https://main.24playerhd.com/newplaylist/6629db84ad97d8917699a160/6629db84ad97d8917699a160.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/06/The-Demons-Bride-2025-%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B5-%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%9C%E0%B8%B5-%E0%B8%9B%E0%B8%A5%E0%B8%B8%E0%B8%81%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88-187x269.png" group-title="🎬 ดูหนังใหม่ 2025" ,Frozen The Hit Broadway Musical(2025)
+#EXTVLCOPT:http-referrer=https://www.24-hdd.com/
+https://main.24playerhd.com/newplaylist/dd36371e547176bf541a3a34/dd36371e547176bf541a3a34.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/06/How-to-Train-Your-Dragon-2025-%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%99%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%84%E0%B8%A7%E0%B8%81%E0%B8%B4%E0%B9%89%E0%B8%87%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%B4%E0%B8%95%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3-187x269.png" group-title="🎬 ดูหนังใหม่ 2025" ,อภินิหารไวกิ้งพิชิตมังกร(2025) 
+#EXTVLCOPT:http-referrer=https://www.24-hdd.com/
+https://main.24playerhd.com/newplaylist/1825a5cc6e66ba28c608d269/1825a5cc6e66ba28c608d269.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/06/From-the-World-of-John-Wick-Ballerina-2025-%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5%E0%B8%82%E0%B8%AD%E0%B8%87-%E0%B8%88%E0%B8%AD%E0%B8%AB%E0%B9%8C%E0%B8%99-%E0%B8%A7%E0%B8%B4%E0%B8%84-%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B9%80%E0%B8%A5%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%B2-%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%81-187x269.png" group-title="🎬 ดูหนังใหม่ 2025" ,จักรวาลของ จอห์น วิค(2025) 
+#EXTVLCOPT:http-referrer=https://www.24-hdd.com/
+https://main.24playerhd.com/newplaylist/0e55b0952c9d39124b567726/0e55b0952c9d39124b567726.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/06/Shadow-Force-2025-%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%A5%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%8A%E0%B8%99-%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%84%E0%B8%99%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%87%E0%B8%B2-187x269.png" group-title="🎬 ดูหนังใหม่ 2025" ,ดับเบิลจารชน โคตรคนไร้เงา(2025) 
+#EXTVLCOPT:http-referrer=https://www.24-hdd.com/
+https://main.24playerhd.com/newplaylist/c3a3edb02fc2b273c2092d21/c3a3edb02fc2b273c2092d21.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/06/Bloodblade-in-the-Snow-2025-%E0%B8%94%E0%B8%B2%E0%B8%9A%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B8%AB%E0%B8%B4%E0%B8%A1%E0%B8%B0-187x269.png" group-title="🎬 ดูหนังใหม่ 2025" , ดาบพิฆาตกลางหิมะ (2025)
+#EXTVLCOPT:http-referrer=https://www.24-hdd.com/
+https://main.24playerhd.com/newplaylist/accf2da167b9b48f5130d82b/accf2da167b9b48f5130d82b.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/06/Mumu-2025-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%AD%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B9%88%E0%B8%A2-187x269.png" group-title="🎬 ดูหนังใหม่ 2025" ,รักที่ไม่เอื้อนเอ่ย(2025) 
+#EXTVLCOPT:http-referrer=https://www.24-hdd.com/
+https://main.24playerhd.com/newplaylist/7787a1aee2d5295cffca015c/7787a1aee2d5295cffca015c.m3u8
+
+#EXTINF:-1 tvg-logo="https://037hdx.tv/wp-content/uploads/2025/05/The-Inverted-Case-2025.webp" group-title="🎬 ดูหนังใหม่ 2025" ,The Inverted Case (2025)
+#EXTVLCOPT:http-referrer=https://www.24-hdd.com/
+https://backend.movieplaythai.com/hls/c5bad85bf0da0c29eefbba4801d0a26f/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/05/Mission-Impossible-8-The-Final-Reckoning-2025-%E0%B8%A1%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99-%E0%B8%AD%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%AD%E0%B8%AA%E0%B8%8B%E0%B8%B4%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5-%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0-187x269.png" group-title="🎬 ดูหนังใหม่ 2025" ,มิชชั่น อิมพอสซิเบิ้ล ปิด(2025) 
+#EXTVLCOPT:http-referrer=https://www.24-hdd.com/
+https://main.24playerhd.com/newplaylist/6e883e8bccc04f558be1c5c7/6e883e8bccc04f558be1c5c7.m3u8
+
+#EXTINF:-1 tvg-logo="https://037hdx.tv/wp-content/uploads/2025/05/Wick-Is-Pain-2025.webp" group-title="🎬 ดูหนังใหม่ 2025" ,Wick Is Pain (2025)
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://backend.movieplaythai.com/hls/516e306c82f8e187ad63b669bfa307bd/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://037hdx.tv/wp-content/uploads/2025/05/Holy-Night-Demon-Hunters-2025-%E0%B8%85%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%9C%E0%B8%B5.webp" group-title="🎬 ดูหนังใหม่ 2025" , Demon Hunters (2025) ฅนต่อยผี
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://backend.movieplaythai.com/hls/0751b1edf24b65000e6adcad1e5c80fd/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://mampost.co/wp-content/uploads/2025/06/Captain-America-Brave-New-World-165x248.png" group-title="🎬 ดูหนังใหม่ 2025" , กัปตัน อเมริกา ศึกฮีโร่จักรวาลใหม่ (2025)
+#EXTVLCOPT:http-referrer=https://mampost.co/
+https://dididino.online/r2playlist_468d978887409e9947691efd6620a6b1.m3u8
+
+#EXTINF:-1 tvg-logo="https://mampost.co/wp-content/uploads/2025/06/Captain-America-Brave-New-World-165x248.png" group-title="🎬 ดูหนังใหม่ 2025" , วิบัติโอเชียนเกต (2025)(2025)
+#EXTVLCOPT:http-referrer=https://mampost.co/
+https://dididino.online/r2playlist_8aa074ece16a78fbde94d6d9d78035bc.m3u8
+
+#EXTINF:-1 tvg-logo="https://mampost.co/wp-content/uploads/2025/06/Air-Force-Elite-Thunderbirds-%E0%B8%9D%E0%B8%B9%E0%B8%87%E0%B8%9A%E0%B8%B4%E0%B8%99%E0%B8%9C%E0%B8%B2%E0%B8%94%E0%B9%81%E0%B8%9C%E0%B8%A5%E0%B8%87-%E0%B8%98%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%94-2025-NETFLIX-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2-360x540.png" group-title="🎬 ดูหนังใหม่ 2025" , ฝูงบินผาดแผลง ธันเดอร์เบิร์ด (2025)
+#EXTVLCOPT:http-referrer=https://mampost.co/
+https://dididino.online/r2playlist_69441ae0767d61d4d876c1dc561f9af3.m3u8
+
+#EXTINF:-1 tvg-logo="https://mampost.co/wp-content/uploads/2025/05/%E0%B8%98%E0%B8%B5%E0%B9%88%E0%B8%AB%E0%B8%94-Shrinking-Tee-2025-360x540.png" group-title="🎬 ดูหนังใหม่ 2025" , ธี่หด Shrinking Tee (2025)
+#EXTVLCOPT:http-referrer=https://mampost.co/
+https://dididino.online/r2playlist_b21791473f91ea23bea593196c2b4e9c.m3u8
+
+#EXTINF:-1 tvg-logo="https://mampost.co/wp-content/uploads/2025/05/%E0%B8%98%E0%B8%B5%E0%B9%88%E0%B8%AB%E0%B8%94-Shrinking-Tee-2025-360x540.png" group-title="🎬 ดูหนังใหม่ 2025" ,สโนว์ไวท์ (2025)
+#EXTVLCOPT:http-referrer=https://mampost.co/
+https://dididino.online/r2playlist_be822f403c1ccd3d1b03862babe4ebd3.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/04/The-Amateur-2025-%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99-187x269.png" group-title="🎬 ดูหนังใหม่ 2025" ,ร้ายสมัครเล่น (2025)
+#EXTVLCOPT:http-referrer=https://mampost.co/
+https://main.24playerhd.com/newplaylist/0daff60fc3439429100378fd/0daff60fc3439429100378fd.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/06/Uncle-Nine-ZhongKui-Returns-2025-%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A5%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%81%E0%B9%89%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%9C%E0%B8%B5-187x269.png" group-title="🎬 ดูหนังใหม่ 2025" ,คุณลุงเก้าปราบผี (2025)
+#EXTVLCOPT:http-referrer=https://www.24-hdd.com/
+https://main.24playerhd.com/newplaylist/2aa0e548450a0670b296de64/2aa0e548450a0670b296de64.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/07/The-Old-Guard-2.png" group-title="🎬 ดูหนังใหม่ 2025" ,(2025) ดิ โอลด์ การ์ด 2
+#EXTVLCOPT:http-referrer=https://www.24-hdd.com/
+https://main.24playerhd.com/newplaylist/623a7aafd6df870d86015d7d/623a7aafd6df870d86015d7d.m3u8
+
+
+
+
+
+############ movie tv###########################
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="🎞️ หนังภาพยนตร์" , HBO HD สำรอง1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/cattviptv2605/movies/refs/heads/main/hbo.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="🎞️ หนังภาพยนตร์" , HBO HD สำรอง2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://kupjta.online/iptv/5/385/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png"group-title="🎞️ หนังภาพยนตร์", HBO HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="🎞️ หนังภาพยนตร์",Cinemax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="🎞️ หนังภาพยนตร์" , Cinemax สำรอง1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://kupjta.online/iptv/5/386/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/02/24/cc08cbe0-764d-11eb-b272-17d04980ce1e_original.png" group-title="🎞️ หนังภาพยนตร์",แอดทีวี
+http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
+
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์"  tvg-logo="https://images.indihometv.com/logo_axn_ver2.png",AXN
+http://cdn12jtedge.indihometv.com/atm/hlsv3/axn/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="🎞️ หนังภาพยนตร์" , MONO29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://channel8thailand.com/ch8-ci415-web/public/templates/ch8/img/18378709_1492777084098686_554998105_o.png" group-title="🎞️ หนังภาพยนตร์" , Channel 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://cdn-th-vip.login.in.th/ch8/ch8/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0159.png" group-title="🎞️ หนังภาพยนตร์" , มังกร
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/03/15/58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png" group-title="🎞️ หนังภาพยนตร์" , True4U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball66x.com/
+https://edge6a.v2h-cdn.com/true4u/true4u.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.thaicom.io/image_channel/images_img_chn_big_Chn_135.png" group-title="🎞️ หนังภาพยนตร์" , MONO29 Eng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball66x.com/
+https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080EN.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/02/24/cc358130-764d-11eb-9057-2d10fb4d0cf4_original.png" group-title="🎞️ หนังภาพยนตร์" ,Media TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball66x.com/
+http://49.0.87.24:1936/HDMediatv/Mediatv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/38_x_AsYJg1i26HkGRt0TjIE4CdhwMq7mconP.jpg" group-title="🎞️ หนังภาพยนตร์" , ลิโด้ Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball66x.com/
+https://n-edge-1-th.v2h-cdn.com/lido/lido/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/89_x_2CkFD4GRmKxdOP0W3T7cuvrMVQs5ypj6.jpg" group-title="🎞️ หนังภาพยนตร์" , TVB Thai
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://n-edge-1-th.v2h-cdn.com/tvb_m/tvb_thai/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0159.png" group-title="🎞️ หนังภาพยนตร์" ,MANGORN
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+
+
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-id="AXN" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/37_x_f74aMjmg5Q6TrVRSivyN9A2BoUpx8dcL.jpg",สยาม Channel
+#EXTVLCOPT:http-referrer=https://dooball66x.com/
+https://n-edge-1-th.v2h-cdn.com/siam/siam/playlist.m3u8
+
+
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/cd0c92a3-96d1-411b-90c5-ac3f29d86485-profile_image-300x300.png",RED BULL TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://www.pngitem.com/pimgs/m/221-2217678_hbo-ole-logo-png-transparent-hbo-logo-png.png",HBO 2 EN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://streamer1.nexgen.bz/HBO2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="🎞️ หนังภาพยนตร์", HBO Signature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="🎞️ หนังภาพยนตร์", HBO Family
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
+
+
+
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://i.imgur.com/B8dB6hE.png",MTV Serie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/609536871db47700075a04bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae0449-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3ead3cd0-99a8-4b3b-83e4-6c4be0dae5da
+
+
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://i.imgur.com/bqedNmK.png",TV Serie+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ddbf866b1862a0009a0648e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea3-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2e0c3c1a-9aa2-46b3-994f-ab3a1c929f78
+
+
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://i.imgur.com/P9Zoa9L.png",TV Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aec791-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5500aa67-c527-4db6-868b-d37341c34286
+
+
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://i.imgur.com/Zkl2Tin.png",TV Sci-Fi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60ed498c4248a400077c0b9d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea0-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=91571e99-b22e-454e-9622-6abd1ff79fd1
+
+
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://i.imgur.com/S1n7T0k.png",TV Star Trek
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6152ee71bf99590007893a11/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea7-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3329cc1b-d91f-4194-b516-92fbd807049b
+
+
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/33_x_Acz9MY3rbg2NhlfGweVJp8QLPt6qkRBa.jpg",MV Lao
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8
+
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1280px-NHK_World.svg.png",NHK World Japan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์"  tvg-logo="https://images.indihometv.com/logo_hits_ver1.png",HITS
+http://cdn12jtedge.indihometv.com/joss/133/hits/playlist.m3u8
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์"  tvg-logo="https://images.indihometv.com/logo_hitsmovie_ver1.png",HITS MOVIE
+http://cdn12jtedge.indihometv.com/joss/133/hitsmovie/playlist.m3u8
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์"  tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",MAXSTREAM
+http://cdn12jtedge.indihometv.com/joss/194/maxstream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์"  tvg-logo="https://images.indihometv.com/logo_tlc_ver1.png",TLC
+http://cdn12jtedge.indihometv.com/joss/133/tlc/playlist.m3u8
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์"  tvg-logo="https://images.indihometv.com/logo_warner_ver1.png",WARNER TV
+http://cdn12jtedge.indihometv.com/atm/hlsv3/warner/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="HBO" group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://iili.io/Ju79f8g.png",HBO (INDIHOME)
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBOHits" group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://iili.io/Ju79nwv.png",HBO Hits (INDIHOME)
+https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBOFamily" group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://iili.io/Ju79otR.png",HBO Family (INDIHOME)
+https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBOSig" group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://iili.io/Ju79IMN.png",HBO Signature (INDIHOME) 
+https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Cinemax" group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://iili.io/Ju79znp.png",Cinemax (INDIHOME)
+https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
+
+
+###########tvKid######################
+
+
+
+###########tv การ์ตูนทีวี######################
+
+
+
+#EXTINF:-1 tvg-id="Cartoon Club.th" tvg-name="Cartoon Club" tvg-logo="https://upload.wikimedia.org/wikipedia/th/1/14/โลโก้_การ์ตูนคลับแชนแนล.jpg" group-title="👨‍👩‍👧  ‍การ์ตูนทีวี",Cartoon Club
+https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon Club.th" tvg-name="Cartoon Club" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/a7bc88190919625.Y3JvcCw4MTAsNjMzLDAsMA.png" group-title="👨‍👩‍👧  ‍การ์ตูนทีวี",Zoomoon
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon Club.th" tvg-name="Cartoon Club" tvg-logo="https://i.imgur.com/8VTfjI6.png" group-title="👨‍👩‍👧  ‍การ์ตูนทีวี",Cartoon Network
+http://iptvh.it/cartoonnet.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon Club.th" tvg-name="Attv" tvg-logo="https://www.i-pic.info/i/HcyW361033.jpg" group-title="👨‍👩‍👧  ‍การ์ตูนทีวี",TvATTV
+http://49.0.87.24:1936/HDAttv/Attv/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="👨‍👩‍👧  ‍การ์ตูนทีวี" tvg-logo="https://img2.pic.in.th/pic/1975431545962dd2e.jpeg",PBS KIDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1 group-title="👨‍👩‍👧  ‍การ์ตูนทีวี" tvg-logo="https://moviektu.com/news/logotv/cartoon/animax.png",Z- ANIMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8?
+
+
+
+#EXTINF:0 tvg-id="happykids"  group-title="👨‍👩‍👧  ‍การ์ตูนทีวี" tvg-logo="https://i.ibb.co/4Y4yxZq/Happy-Kids.png",Happy Kids
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://oipf0znpmnliv.vcdn.cloud/hls/happykid/index.m3u8
+
+#EXTVLCOPT:http-referrer=http://sctvonline.vn
+#https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8?
+
+#EXTINF:0 tvg-id="cbeebies" group-title="👨‍👩‍👧  ‍การ์ตูนทีวี" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png",BBC Cbeebies
+#https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
+
+#EXTINF:0 tvg-id="babytvhd" group-title="👨‍👩‍👧  ‍การ์ตูนทีวี" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",Baby TV
+
+#EXTINF:0 tvg-id="boomerang" group-title="👨‍👩‍👧  ‍การ์ตูนทีวี" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Boomerang_2000_Alt_2.svg/revision/latest/top-crop/width/300/height/300?cb=20160522194334",Boomerang
+
+#EXTINF:0 tvg-id="cartoonhd" group-title="👨‍👩‍👧  ‍การ์ตูนทีวี" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+
+#EXTINF:0 tvg-id="dreamworks" group-title="👨‍👩‍👧  ‍การ์ตูนทีวี" tvg-logo="https://static.wikia.nocookie.net/dreamworks/images/4/4b/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg_%282016%29.png/revision/latest/top-crop/width/360/height/360?cb=20171127143327",DreamWorks
+http://antm.dynu.net:14285/rtp/232.84.3.59:11698
+
+#EXTINF:0 type="stream" group-title="👨‍👩‍👧  ‍การ์ตูนทีวี" tvg-id="pbskids" tvg-logo="https://i.ibb.co/r09Gfwy/cckidstv.png",Kids TV
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv/8bdab347-30fe-4eea-a9bd-4b89b8ea462e/2.m3u8 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+
+#EXTINF:0 type="stream" group-title="👨‍👩‍👧  ‍การ์ตูนทีวี" tvg-id="pbskids" tvg-logo="https://i.ibb.co/71h2JvS/ccpbskids.webp",PBS Kids
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+
+
+#EXTINF:-1 group-title="👨‍👩‍👧  ‍การ์ตูนทีวี" tvg-logo="https://i.imgur.com/GHW6prH.png",Z-TV Anime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608181d420fc8500075f612a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae7970-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=042724a5-f12e-43ab-9538-dac62e47d082
+
+
+#EXTINF:-1 group-title="👨‍👩‍👧  ‍การ์ตูนทีวี" tvg-logo="https://i.imgur.com/tyHDvK8.png",Z-Nick TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b58-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d3f62f1d-7d8d-4d3f-a141-db9f502deb6b
+
+
+
+#EXTINF:-1 tvg-logo="https://www.upload.ee/image/18179266/BOOMCARTOON.png" group-title="👨‍👩‍👧  ‍การ์ตูนทีวี",Boomerang Cartoon
+https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/153_y_Agyp2nEebLvC9tWa5xBcY1J038OuTzFD.png" group-title="👨‍👩‍👧  ‍การ์ตูนทีวี",Boomerang
+http://edge2a.v2h-cdn.com:1935/boom-boom/boomerang.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/cartoonnetwork.png" group-title="👨‍👩‍👧  ‍การ์ตูนทีวี",Cartoon Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
+#EXTINF:-1 tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png" group-title="👨‍👩‍👧  ‍การ์ตูนทีวี",Nick Jr
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
+#EXTINF:-1 tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png" group-title="👨‍👩‍👧  ‍การ์ตูนทีวี",Nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
+#EXTINF:-1 tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png" group-title="👨‍👩‍👧  ‍การ์ตูนทีวี",Cartoonito
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad2371259d34404cb89d54a4dc88dcd3:1ba155e345c4456ba891cbee9b3e1c4c
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
+ 
+ 
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/157727c6-25b3-4fc8-ae12-95a471eb09a5/dhickau-87072274-e25b-48bc-bc87-8dd774b028e6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE1NzcyN2M2LTI1YjMtNGZjOC1hZTEyLTk1YTQ3MWViMDlhNVwvZGhpY2thdS04NzA3MjI3NC1lMjViLTQ4YmMtYmM4Ny04ZGQ3NzRiMDI4ZTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vyHP15MVtu-s9t2TrVJB8he42rrtVgYLeNDLhVmrTso" group-title="👨‍👩‍👧  ‍การ์ตูนทีวี",Mr. Bean Cartoon
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w7RdSIk.png" group-title="👨‍👩‍👧  ‍การ์ตูนทีวี",Pet Collective1
+https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="👨‍👩‍👧  ‍การ์ตูนทีวี",PetClub TV2
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png" group-title="👨‍👩‍👧  ‍การ์ตูนทีวี",Zoo Moo (1080p)
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+
+
+#######################การศึกษา###########################################
+
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/136_y_tPkVabFhc7iUGQdmlEDC5IxvJZj4326M.png" group-title="DLTV",DLTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/137_y_yQOMjhFVupi8I1oal5TScnbkfAYtJC2v.png" group-title="DLTV",DLTV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/138_y_NrPWRcyIBzbd5kJ3n8MqHDOmoVpA19fS.png" group-title="DLTV",DLTV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/139_y_gx6RdEWuPqjBnAwoCI2mrltX5vJU4bDO.png" group-title="DLTV",DLTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/140_y_0NYqGlHdDfQeZFoSUcMWsx1rtOyTXb78.png" group-title="DLTV",DLTV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/141_y_gIp8YiEP6MQsdeb9hjKcBFmUHVw1kNxy.png" group-title="DLTV",DLTV6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/142_y_U53zK2mOiFQ9xsCMS7AJrvTtoEf6dpIc.png" group-title="DLTV",DLTV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/143_y_k4YNqBSgRW1OndxQuU6Pac0CMJVKIf57.png" group-title="DLTV",DLTV8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/144_y_9yo8mDwnI5OLgCHKvfsZ42BMXTzEbrSe.png" group-title="DLTV",DLTV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/145_y_9Fkli2DoLIP0EX56AHW74MhquQKfng1a.png" group-title="DLTV",DLTV10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/146_y_5LVm0hDdr2N19IOlU3MAtqscKSk6xgZe.png" group-title="DLTV",DLTV11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/147_y_Uel5LZmKGoutv2PJiFIx60jayQbpnzqT.png" group-title="DLTV",DLTV12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/148_y_23K7iaWFMTnyxjfH5NIhUpCgZc8SB4s9.png" group-title="DLTV",DLTV13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/149_y_EzhGev4MFkQUOR08CdZisfP5Lnw9Jx6A.png" group-title="DLTV",DLTV14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/150_y_eUWs21cyV38ARS0OZmtgILodzKiJqfaD.png" group-title="DLTV",DLTV15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv15.m3u8
+
+
+
+
+
+
+##########################Sexy#########################################
+
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://www.xn--42c6auruib1cxeq3a.net/wp-content/uploads/2026/02/%E0%B8%84%E0%B8%A5%E0%B8%B4%E0%B8%9B%E0%B8%AB%E0%B8%A5%E0%B8%B8%E0%B8%94%E0%B8%9F%E0%B8%A3%E0%B8%B5-3-3-5.jpg",Z-Z 9245
+https://cdn.upnerd.net/mv1742385482/mv1742385482.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://www.xn--42c6auruib1cxeq3a.net/wp-content/uploads/2026/02/%E0%B8%84%E0%B8%A5%E0%B8%B4%E0%B8%9B%E0%B8%AB%E0%B8%A5%E0%B8%B8%E0%B8%94%E0%B8%9F%E0%B8%A3%E0%B8%B5-3-7-2.jpg",Z-Z 9212
+https://cdn.upnerd.net/mv1771220282/mv1771220282.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://www.xn--42c6auruib1cxeq3a.net/wp-content/uploads/2026/02/%E0%B8%84%E0%B8%A5%E0%B8%B4%E0%B8%9B%E0%B8%AB%E0%B8%A5%E0%B8%B8%E0%B8%94%E0%B8%9F%E0%B8%A3%E0%B8%B5-3-6-2.jpg",Z-Z 9213
+https://cdn.upnerd.net/ph1771255802/ph1771255802.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://xn--l3cg7a8a0cwa3f.cc/wp-content/uploads/2026/02/xnxx-252.webp",Z-Z MLA-255
+https://ezycdn.stream/playlist-3m8ls3qu-master.m3u8
+
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://ezycdn.stream/playlist-jgp0an4c-master.m3u8",Z-Z 39104
+https://ezycdn.stream/playlist-jgp0an4c-master.m3u8
+
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://xn--l3cg7a8a0cwa3f.cc/wp-content/uploads/2026/02/xnxx-223.webp",Z-Z 39025
+https://ezycdn.stream/playlist-3hmaj80j-master.m3u8
+
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://xn--l3cg7a8a0cwa3f.cc/wp-content/uploads/2025/07/MAX-6047.webp",Z-Z 35747
+https://ezycdn.stream/playlist-hffrbug-master.m3u8
+
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://xn--l3cg7a8a0cwa3f.cc/wp-content/uploads/2026/01/xnxx-29.webp",Z-Z 35746
+https://ezycdn.stream/playlist-2s21ouvb-master.m3u8
+
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://xn--l3cg7a8a0cwa3f.cc/wp-content/uploads/2026/01/xnxx-29.webp",Z-Z 35746
+https://ezycdn.stream/playlist-2s21ouvb-master.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+###########สถานีวิทยุ​######################
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/KvDHAwT62s.png" group-title="สถานีวิทยุ​",ช่อง COOL Fahrenheit
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v2y294
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/7DqAhMKgcr.jpeg" group-title="สถานีวิทยุ​",ช่อง Cat Radio
+http://111.223.37.194/CatRadio/CatRadio-High/chunklist_w1543475410.m3u8
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/dqhdnczntxrn.png" group-title="สถานีวิทยุ​",ช่อง YES Radio
+http://27.254.65.244:8000/;
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/fzc5x62n4qk8.jpg" group-title="สถานีวิทยุ​",ช่อง Yesterday 106.5 FM
+http://radio4.thzhost.com:4122/;
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/NvUAj9bf8W.png" group-title="สถานีวิทยุ​",ช่อง Capitol FM
+http://atlanticthai.primcast.com:5898/;
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/g88q6quvcp3n.jpg" group-title="สถานีวิทยุ​",ช่อง 97 Mazz Radio
+http://radio1.comgig.com:4096/;stream.m4a
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/RKj5SekkUY.png" group-title="สถานีวิทยุ​",ช่อง Request Radio สตริง
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v2z234
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/RKj5SekkUY.png" group-title="สถานีวิทยุ​",ช่อง Request Radio เพื่อชีวิต
+http://27.254.142.208:8300/stream/1/
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/RKj5SekkUY.png" group-title="สถานีวิทยุ​",ช่อง Request Radio ลูกทุ่ง
+http://27.254.142.208:8200/stream/1/
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/RKj5SekkUY.png" group-title="สถานีวิทยุ​",ช่อง Request Radio International
+http://27.254.142.208:8400/stream/1/
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/RKj5SekkUY.png" group-title="สถานีวิทยุ​",ช่อง Request Radio Dance Mix
+http://27.254.142.208:8500/stream/1/
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/japcrdy9nsfm.png" group-title="สถานีวิทยุ​",ช่อง ล้านนาเรดิโอ
+http://43.229.135.187:8000/;
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/m64xbpvf6qbh.jpg" group-title="สถานีวิทยุ​",ช่อง BP Radio HD
+http://fmonair.com:7890/;
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cdsw45cqvjte.jpg" group-title="สถานีวิทยุ​",ช่อง 90.5 Smart News
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v2z2b4
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ptshgz8bvtsk.jpeg" group-title="สถานีวิทยุ​",ช่อง สวพ fm 91
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v20334
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/gcevqeh6xptz.png" group-title="สถานีวิทยุ​",ช่อง THAI MUSIC
+http://listen.thai-radio.net/medium
+#EXTINF:-1 tvg-logo="https://imgs.mcot.net/images/2017/10/1509377605535.png" group-title="สถานีวิทยุ​",ช่อง MCOT Modern Radio
+http://rstream.mcot.net:9066/;
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/b5xenqq4q4kv.jpg" group-title="สถานีวิทยุ​",ช่อง จั๊กกะจี้เรดิโอ
+http://43.229.135.187:8020/;
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/w7KSxyGFgt.png" group-title="สถานีวิทยุ​",ช่อง Phuket LIVE 89.5
+http://radio4.thzhost.com:4118/;stream/1
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/u3bfzuhvj9mh.jpg" group-title="สถานีวิทยุ​",ช่อง XFM 94.5
+https://radio12.plathong.net/7360/;stream.mp3
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/avltfshqkte4.png" group-title="สถานีวิทยุ​",ช่อง รักษ์ปักษ์ใต้ เรดิโอ
+https://radio10.plathong.net/7100/;stream.mp3
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/hfsu6j7fn2jh.png" group-title="สถานีวิทยุ​",ช่อง จส.5 AM 567 KHz ชัยภูมิ
+http://media.login.in.th:8235/;stream.mp3
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZMAZUFJwZXGAux20Cve8V8ozElfryiAfNy8p8=s900-c-k-c0x00ffffff-no-rj" group-title="สถานีวิทยุ​",ช่อง Love OK Click Station 96.75
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v21334
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/d4/d7/d4d75351a928d35f9cbad3571f6a6bd4.jpg" group-title="สถานีวิทยุ​",ช่อง 104.5 อสมท นครศรีธรรมราช
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v21344
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/modern9875.png" group-title="สถานีวิทยุ​",ช่อง 98.75 เชียงใหม่
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v21354
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/hveka8qsjrjs.png" group-title="สถานีวิทยุ​",ช่อง FM 101.25 อสมท. เชียงราย
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v21374
+#EXTINF:-1 tvg-logo="https://oldsonghome.com/wp-content/uploads/2019/11/FM-102.jpg" group-title="สถานีวิทยุ​",ช่อง 102 คลื่นคนทำงาน
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v23354
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/yevk8f78cyqr.png" group-title="สถานีวิทยุ​",ช่อง FLEX 102.5 FM
+https://streaming.flexconnect.net/voiceflex/voiceflex/chunklist_w350994315.m3u8
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/6pvkygbpw8v5.jpg" group-title="สถานีวิทยุ​",ช่อง Eingdoi Radio
+http://ohmi-design.com:8170/;
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/eln9tfyqce5h.jpg" group-title="สถานีวิทยุ​",ช่อง Eingdoi Radio เพลงลูกทุ่ง
+https://radio14.plathong.net/7126/;stream.mp3
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/vxc3vq6dxy8j.jpeg" group-title="สถานีวิทยุ​",ช่อง 90 ลูกทุ่ง รักไทย
+http://radio11.plathong.net:8896/;stream.mp3
+#EXTINF:-1 tvg-logo="http://45.150.128.170:8080/images/dd5ba6701c128db0278b5259eb5ccdfb.png" group-title="สถานีวิทยุ​",EFM
+https://atimehd.smartclick.co.th/efm/hls/efm.m3u8
+#EXTINF:-1 tvg-logo="https://media.atime.live/editor/station/c50d1595-aacc-4fb6-ba94-46e91242d540.png" group-title="สถานีวิทยุ​",greenwave
+https://atimehd.smartclick.co.th/greenwave/hls/greenwave.m3u8
+#EXTINF:-1 tvg-logo="https://storage.googleapis.com/atime-media-prod/editor/station/6d290933-4b7d-42f7-9833-211bfb2923af.png" group-title="สถานีวิทยุ​",hotwave
+https://atimehd.smartclick.co.th/hotwave/hls/hotwave.m3u8
+#EXTINF:-1 tvg-logo="https://www.coolism.net/assets/image/coolism.png" group-title="สถานีวิทยุ​",CoolFM
+https://coolism-web.cdn.byteark.com/;stream/1
+
+
+###################สถานีวิทยุ​#######################################
+
+
+
+
+
+
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="shortcut icon" href="/icon.jpg" type="image/x-icon">
+  	<title>รู้น่ะคิดอะไร ฝักคือฝักU</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="description" content="ฝักคือฝักU"> 
+<meta http-equiv=refresh content=1;URL=https://www.google.co.th/>
+<body bgcolor="000000">
+<center>
+  <h2><img src="https://www.prachachat.net/wp-content/uploads/2024/09/hippo-1-728x485.jpg"></h2>
+</center>
+</body>
+</html>
+
