@@ -229,6 +229,10 @@ https://raw.githubusercontent.com/Dakrode01/Freeiptv/refs/heads/main/Mono%20max1
 #EXTVLCOPT:http-referrer=https://www.movie2k.io/
 https://www.livedoomovies.com:4431/Monomax_PL_2HD/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://dookeela4.live/uploads/1753517049.png" group-title="⚽ MonoMax",Monomax2-2 สำรอง
+#EXTVLCOPT:http-referrer=https://raw.githubusercontent.com/Dakrode01/Mono-me/
+https://raw.githubusercontent.com/Dakrode01/Mono-me/refs/heads/main/Mono2.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://www.imgx02.xyz/assets/img/ch_logo/AISplay-sport1.jpg" group-title="⚽ MonoMax",AIS PLAY SPORTS FOOTBALL 1
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
