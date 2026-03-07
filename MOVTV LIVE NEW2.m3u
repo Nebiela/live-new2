@@ -1264,24 +1264,7 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 
 ######################################################################
 
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703686191.png" group-title="movies",HBO 
-https://github.com/cattviptv2605/movies/raw/refs/heads/main/hbo.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719205850.png" group-title="movies",True Asian More 
-https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueasianmore.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1720380229.png" group-title="movies",True Film 1 
-https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilm1.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1720723122.png" group-title="movies",True Film 2 
-https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilm2.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719205705.png" group-title="movies",True Film Asia 
-https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilmasia.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719803882.png" group-title="movies",True Movie Hits  
-https://github.com/cattviptv2605/movies/raw/refs/heads/main/truemoviehits.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1706539896.png" group-title="movies",True Thai Film  
-https://github.com/cattviptv2605/movies/raw/refs/heads/main/truethaifilm.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela4.live/uploads/1719205991.png" group-title="movies",trueseries
-https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueseries.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela4.live/uploads/1719803240.png" group-title="movies",CCM
-https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueccm.m3u8
+
 
 ######################################################
 
