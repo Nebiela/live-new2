@@ -1,1 +1,26 @@
 
+<script src="https://jwpsrv.com/library/iCNxUOakEeKTGxIxOQulpA.js"></script>
+    <script>jwplayer.key="IlVNgC+NtBYXe66VHWfLpLzgHU7cOg7MBhdlHA=="; </script>
+    <br />
+<div id="mediaspace">
+</div>
+<script>
+        var createPlayer = function ()
+        {
+          jwplayer('mediaspace').setup({
+             playlist: [{ file: 'https://github.com/Nebiela/live-new2/_layout/live-new2/hbo.m3u8' }],
+             width: '300',
+             height: '30',
+             autostart: true,
+             aspectratio: '16:9',
+             primary: 'html5',
+             androidhls: true,
+    events:{
+    onReady:function(){
+     jwplayer().setVolume(100);
+    }
+   }
+          });
+        }
+        createPlayer();
+    </script>
