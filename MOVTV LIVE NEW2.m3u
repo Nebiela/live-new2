@@ -16,7 +16,7 @@ visibility: hidden;
 }
 </style>
 <style>.hiddenx-link {
-#EXTM3U url-tvg="" refresh="3600" 
+#EXTM3U url-tvg="https://raw.githubusercontent.com/Nebiela/live-new2/refs/heads/main/MOVTV%20LIVE%20NEW2.m3u" refresh="3600" 
 
 # Join Telegram Group: 
 # =======================================================
