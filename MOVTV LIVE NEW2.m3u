@@ -1,21 +1,4 @@
 
-#EXTM3U url="https://raw.githubusercontent.com/Nebiela/live-new2/refs/heads/main/MOVTV%20LIVE%20NEW2.m3u"
-<!DOCTYPE html>
-<html lang="th">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>playlist</title>
-</head>
-<style>
-.hidden-link {
-display: none;
-}
-.invisible-link {
-visibility: hidden;
-}
-</style>
-<style>.hiddenx-link {
 #EXTM3U url-tvg="https://raw.githubusercontent.com/Nebiela/live-new2/refs/heads/main/MOVTV%20LIVE%20NEW2.m3u" refresh="3600" 
 
 # Join Telegram Group: 
@@ -3644,14 +3627,4 @@ http://49.0.64.96:8007/PING
 
 
 
-
-
-
-
-}</style>
-<body bgcolor="FFFFFF">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta http-equiv="refresh" content="0;url=https://www.google.co.th/">
-</body>
-</html>
 
