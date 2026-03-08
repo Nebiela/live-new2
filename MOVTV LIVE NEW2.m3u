@@ -1,9 +1,27 @@
+
+#EXTM3U url="https://raw.githubusercontent.com/Nebiela/live-new2/refs/heads/main/MOVTV%20LIVE%20NEW2.m3u"
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>playlist</title>
+</head>
+<style>
+.hidden-link {
+display: none;
+}
+.invisible-link {
+visibility: hidden;
+}
+</style>
+<style>.hiddenx-link {
 #EXTM3U url-tvg="https://pastebin.com/raw/yXK26GZL" refresh="3600" 
 
 # Join Telegram Group: 
 # =======================================================
 # Playlist Name: My Playlist by Neti จัดทำขึ้นเพื่อความ บันเทิง ดูฟรี ห้ามเอาไปขาย
-# Last Update: 2024-10-3 17:50:00 UTC+07 ICT
+# Last Update: 2569-8-3 17:50:00 UTC+07 ICT
 # =======================================================
 
 
@@ -3615,18 +3633,10 @@ http://49.0.64.96:8007/PING
 
 
 
-<html>
-<head>
-  <meta charset="UTF-8">
-  <link rel="shortcut icon" href="/icon.jpg" type="image/x-icon">
-  	<title>รู้น่ะคิดอะไร ฝักคือฝักU</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="description" content="ฝักคือฝักU"> 
-<meta http-equiv=refresh content=1;URL=https://www.google.co.th/>
-<body bgcolor="000000">
-<center>
-  <h2><img src="https://www.prachachat.net/wp-content/uploads/2024/09/hippo-1-728x485.jpg"></h2>
-</center>
+}</style>
+<body bgcolor="FFFFFF">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="refresh" content="0;url=https://www.google.co.th/">
 </body>
 </html>
 
