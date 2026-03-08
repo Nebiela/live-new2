@@ -1,10 +1,9 @@
-
-#EXTM3U url-tvg="https://raw.githubusercontent.com/Nebiela/live-new2/refs/heads/main/MOVTV%20LIVE%20NEW2.m3u" refresh="3600" 
+#EXTM3U url-tvg="https://pastebin.com/raw/yXK26GZL" refresh="3600" 
 
 # Join Telegram Group: 
 # =======================================================
 # Playlist Name: My Playlist by Neti จัดทำขึ้นเพื่อความ บันเทิง ดูฟรี ห้ามเอาไปขาย
-# Last Update: 2569-8-3 17:50:00 UTC+07 ICT
+# Last Update: 2024-10-3 17:50:00 UTC+07 ICT
 # =======================================================
 
 
@@ -27,23 +26,6 @@ http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
 #EXTINF:-1 tvg-logo="https://www.nextpit.com/img/Telegram.jpg" group-title="Streaming TV" ,Z- Telegram กลุ่ม 
 #EXTVLCOPT:http-referrer=
 http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2015/02/line@.png" group-title="Streaming TV" ,Z- LINE กลุ่ม 
-#EXTVLCOPT:http-referrer=
-http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Nebiela/live-new2/refs/heads/live-new2/movie%20film%20cinema%20poster%20banner.jpg" group-title="Streaming TV",movies24
-#EXTVLCOPT:http-user-agent=แกะลิงค์แล้ว
-http://49.0.64.96:8007/SERIES
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Nebiela/live-new2/refs/heads/live-new2/movie%20film%20cinema%20poster%20banner.jpg" group-title="Streaming TV",movies24
-#EXTVLCOPT:http-user-agent=ห้ามแชร์เจ้าของเค้าบอกแชร์ได้
-http://49.0.64.96:8007/IZAA
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Nebiela/live-new2/refs/heads/live-new2/movie%20film%20cinema%20poster%20banner.jpg" group-title="Streaming TV",movies24
-#EXTVLCOPT:http-user-agent=แชร์เลย
-http://49.0.64.96:8007/PING
-
 
 
 #############DIGITAL2025###############
@@ -2017,6 +1999,12 @@ https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776086&extension=m3u8
 
+#EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="🎞️ หนังภาพยนตร์", HBO HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://raw.githubusercontent.com/Nebiela/live-new2/refs/heads/main/hbo.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="🎞️ หนังภาพยนตร์" , Cinemax 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
@@ -2249,45 +2237,6 @@ https://edge2a.v2h-cdn.com/live_mvhub/mvtv75.stream/playlist.m3u8
 https://edge2a.v2h-cdn.com/live_mvhub/thaiban.stream//playlist.m3u8
 
 ###########################################
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="🎞️ หนังภาพยนตร์",True Film Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://love.tisin58157.workers.dev/vx-origin/sd-filmasia_720/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="🎞️ หนังภาพยนตร์",True Thaifilm (githubสำรอง)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/Dakrode01/Freeiptv/raw/refs/heads/main/Truethaifilm.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="🎞️ หนังภาพยนตร์",True Film1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://love.bajikag863.workers.dev/lx-origin/hd-tfilm_720/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="🎞️ หนังภาพยนตร์",True Film2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://love.tb78p17539.workers.dev/vx-origin/hd-tfilm2_720/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="🎞️ หนังภาพยนตร์",True asian more
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://love.bajikag863.workers.dev/lx-origin/hd-asianmore_720/chunks.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🎞️ หนังภาพยนตร์",dreamworks_720
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://love.bajikag863.workers.dev/lx-origin/hd-dreamworks_720/chunks.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🎞️ หนังภาพยนตร์",axn_720
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://love.bajikag863.workers.dev/vx-origin/hd-axn_720/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🎞️ หนังภาพยนตร์",axn_720
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://love.bajikag863.workers.dev/lx-origin/hd-asianmore_720/chunks.m3u8
-
-
 
 
 
@@ -2907,6 +2856,41 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/pla/anevia/live/eds/TL008/HLS/T
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png" group-title="ช่องกีฬา",Hi Sport
 http://49.0.64.96:8007/HiSports
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบรรเทิง",True Film Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.tisin58157.workers.dev/vx-origin/sd-filmasia_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบรรเทิง",True Thaifilm (githubสำรอง)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/Dakrode01/Freeiptv/raw/refs/heads/main/Truethaifilm.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบรรเทิง",True Film1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bajikag863.workers.dev/lx-origin/hd-tfilm_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบรรเทิง",True Film2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.tb78p17539.workers.dev/vx-origin/hd-tfilm2_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบรรเทิง",True asian more
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bajikag863.workers.dev/lx-origin/hd-asianmore_720/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ช่องบรรเทิง",dreamworks_720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bajikag863.workers.dev/lx-origin/hd-dreamworks_720/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ช่องบรรเทิง",axn_720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bajikag863.workers.dev/vx-origin/hd-axn_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ช่องบรรเทิง",axn_720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bajikag863.workers.dev/lx-origin/hd-asianmore_720/chunks.m3u8
 
 
 ##################################################################################
@@ -3616,15 +3600,33 @@ http://49.0.64.96:8007/H-Channel
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
 http://49.0.64.96:8007/Cartoonumi
 #EXTINF:-1 tvg-id="" tvg-logo="https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg" group-title="ช่องบันเทิง",movies1
-#EXTVLCOPT:http-user-agent=แกะลิงค์แล้ว
+#EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
 http://49.0.64.96:8007/SERIES
 #EXTINF:-1 tvg-id="" tvg-logo="https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg" group-title="ช่องบันเทิง",movies2
-#EXTVLCOPT:http-user-agent=ห้ามแชร์เจ้าของเค้าบอกแชร์ได้
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/IZAA
 #EXTINF:-1 tvg-id="" tvg-logo="https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg" group-title="ช่องบันเทิง",movies3
-#EXTVLCOPT:http-user-agent=แชร์เลย
+#EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://49.0.64.96:8007/PING
 
 
 
+
+
+
+
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="shortcut icon" href="/icon.jpg" type="image/x-icon">
+  	<title>รู้น่ะคิดอะไร ฝักคือฝักU</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="description" content="ฝักคือฝักU"> 
+<meta http-equiv=refresh content=1;URL=https://www.google.co.th/>
+<body bgcolor="000000">
+<center>
+  <h2><img src="https://www.prachachat.net/wp-content/uploads/2024/09/hippo-1-728x485.jpg"></h2>
+</center>
+</body>
+</html>
 
