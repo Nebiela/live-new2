@@ -269,21 +269,213 @@ https://www.livedoomovies.com:4431/Monomax_Live_2HD/playlist.m3u8
 
 ##########################################################################################
 
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://www.imgx01.xyz/assets/img/ch_logo/hd-tennis.png" group-title="รวมก๊ฬา",TennisHD
+
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://www.imgx01.xyz/assets/img/ch_logo/hd-tennis.png" group-title="ช่องกีฬาทั่วไป",TennisHD
 #EXTVLCOPT:http-referrer=https://www.movie2k.io/
 https://www.livedoomovies.com:4432/02_TennisHD_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://www.imgx03.xyz/assets/img/ch_logo/epl-bein1.jpg" group-title="รวมก๊ฬา",BEIN SPORT1
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://www.imgx03.xyz/assets/img/ch_logo/epl-bein1.jpg" group-title="ช่องกีฬาทั่วไป",BEIN SPORT1
 #EXTVLCOPT:http-referrer=https://raw.githubusercontent.com/Dakrode01/Freeiptv/
 https://raw.githubusercontent.com/Dakrode01/Freeiptv/refs/heads/main/Beinsport1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://www.imgx01.xyz/assets/img/ch_logo/epl-bein2.jpg" group-title="รวมก๊ฬา",BEIN SPORT HD 2
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://www.imgx01.xyz/assets/img/ch_logo/epl-bein2.jpg" group-title="ช่องกีฬาทั่วไป",BEIN SPORT HD 2
 #EXTVLCOPT:http-referrer=https://www.movie2k.io/
 https://www.livedoomovies.com:4431/02_epl2_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://www.imgx04.xyz/assets/img/ch_logo/epl-bein3.jpg" group-title="รวมก๊ฬา",BEIN SPORT HD 3
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://www.imgx04.xyz/assets/img/ch_logo/epl-bein3.jpg" group-title="ช่องกีฬาทั่วไป",BEIN SPORT HD 3
 #EXTVLCOPT:http-referrer=https://www.movie2k.io/
 https://www.livedoomovies.com:4431/02_epl3_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/HISPORTS.png" group-title="ช่องกีฬาทั่วไป",Hi SPORTS HD
+http://49.0.64.96:8007/HiSports
+#EXTINF:-1 tvg-name="PlaysportsFootball1" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/playsport.png" group-title="ช่องกีฬาทั่วไป",PLAY SPORTS FOOTBALL 1
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8
+#EXTINF:-1 tvg-name="PlaysportsFootball2" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/playsport.png" group-title="ช่องกีฬาทั่วไป",PLAY SPORTS FOOTBALL 2
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/TL002.m3u8
+#EXTINF:-1 tvg-name="PlaysportsFootball3" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/playsport.png" group-title="ช่องกีฬาทั่วไป",PLAY SPORTS FOOTBALL 3
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL003/HLS/TL003.m3u8
+#EXTINF:-1 tvg-name="PlaysportsFootball4" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/playsport.png" group-title="ช่องกีฬาทั่วไป",PLAY SPORTS FOOTBALL 4
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL004/HLS/TL004.m3u8
+#EXTINF:-1 tvg-name="PlaysportsFootball5" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/playsport.png" group-title="ช่องกีฬาทั่วไป",PLAY SPORTS FOOTBALL 5
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL005/HLS/TL005.m3u8
+#EXTINF:-1 tvg-name="PlaysportsFootball6" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/playsport.png" group-title="ช่องกีฬาทั่วไป",PLAY SPORTS FOOTBALL 6
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8
+#EXTINF:-1 tvg-name="PlaysportsFootball7" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/playsport.png" group-title="ช่องกีฬาทั่วไป",PLAY SPORTS FOOTBALL 7
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/TL007.m3u8
+#EXTINF:-1 tvg-name="PlaysportsFootball8" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/playsport.png" group-title="ช่องกีฬาทั่วไป",PLAY SPORTS FOOTBALL 8
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/playsport.png" group-title="ช่องกีฬาทั่วไป",PLAY SPORTS FOOTBALL 48
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL103/HLS/TL103.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/playsport.png" group-title="ช่องกีฬาทั่วไป",PLAY SPORTS FOOTBALL 49
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL104/HLS/TL104.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/playsport.png" group-title="ช่องกีฬาทั่วไป",PLAY SPORTS FOOTBALL 50
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL105/HLS/TL105.m3u8
+#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png",TSPORT01
+#EXTVLCOPT:http-referrer=https://vvipscore.vip/
+https://cdn1.goozaa.xyz/vv/tsp1/chunks.m3u8
+#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp",TSPORT02
+#EXTVLCOPT:http-referrer=https://vvipscore.vip/
+https://cdn1.goozaa.xyz/vv/tsp2/chunks.m3u8
+#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp",TSPORT03
+#EXTVLCOPT:http-referrer=https://vvipscore.vip/
+https://cdn1.goozaa.xyz/vv/tsp3/chunks.m3u8
+#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp",TSPORT05
+#EXTVLCOPT:http-referrer=https://vvipscore.vip/
+https://cdn1.goozaa.xyz/vv/tsp5/chunks.m3u8
+#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",TSPORT07
+#EXTVLCOPT:http-referrer=https://vvipscore.vip/
+https://cdn1.goozaa.xyz/vv/tsp7/chunks.m3u8
+#EXTINF-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",TPremier03
+#EXTVLCOPT:http-referrer=https://vvipscore.vip/
+https://cdn1.goozaa.xyz/vv/tpf3/chunks.m3u8
+#EXTINF-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",TPremier04
+#EXTVLCOPT:http-referrer=https://vvipscore.vip/
+https://cdn1.goozaa.xyz/vv/tpf4/chunks.m3u8
+#EXTINF-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",TPremier05
+#EXTVLCOPT:http-referrer=https://vvipscore.vip/
+https://cdn1.goozaa.xyz/vv/tpf5/chunks.m3u8
+#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",TBein01
+#EXTVLCOPT:http-referrer=https://vvipscore.vip/
+https://cdn1.goozaa.xyz/vv/bein1/chunks.m3u8
+#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",TBein02
+#EXTVLCOPT:http-referrer=https://vvipscore.vip/
+https://cdn1.goozaa.xyz/vv/bein2/chunks.m3u8
+#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",TBein03
+#EXTVLCOPT:http-referrer=https://vvipscore.vip/
+https://cdn1.goozaa.xyz/vv/bein3/chunks.m3u8
+#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp",TBein04
+#EXTVLCOPT:http-referrer=https://vvipscore.vip/
+https://cdn1.goozaa.xyz/vv/bein4/chunks.m3u8
+#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp",TBein05
+#EXTVLCOPT:http-referrer=https://vvipscore.vip/
+https://cdn1.goozaa.xyz/vv/bein5/chunks.m3u8
+#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp",TBein06
+#EXTVLCOPT:http-referrer=https://vvipscore.vip/
+https://cdn1.goozaa.xyz/vv/bein6/chunks.m3u8
+#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp",TBein07
+#EXTVLCOPT:http-referrer=https://vvipscore.vip/
+https://cdn1.goozaa.xyz/vv/bein7/chunks.m3u8
+#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91295050-5a1d-11ef-a30f-0d36085b5b8b_webp_original.webp",TBein08
+#EXTVLCOPT:http-referrer=https://vvipscore.vip/
+https://cdn1.goozaa.xyz/vv/bein8/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="ช่องกีฬาทั่วไป",TMAXStream01
+#EXTVLCOPT:http-referrer=https://vvipscore.vip/
+https://cdn1.goozaa.xyz/vv/monomax1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="ช่องกีฬาทั่วไป",TMAXStream02
+#EXTVLCOPT:http-referrer=https://vvipscore.vip/
+https://cdn1.goozaa.xyz/vv/monomax-2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="ช่องกีฬาทั่วไป",TMAXStream03
+#EXTVLCOPT:http-referrer=https://vvipscore.vip/
+https://cdn1.goozaa.xyz/vv/monomax-3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="ช่องกีฬาทั่วไป",TMAXStream04
+#EXTVLCOPT:http-referrer=https://vvipscore.vip/
+https://cdn1.goozaa.xyz/vv/monomax-4/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="ช่องกีฬาทั่วไป",TMAXStream05
+#EXTVLCOPT:http-referrer=https://vvipscore.vip/
+https://cdn1.goozaa.xyz/vv/monomax-5/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="ช่องกีฬาทั่วไป",TMAXStream06
+#EXTVLCOPT:http-referrer=https://vvipscore.vip/
+https://cdn1.goozaa.xyz/vv/monomax-6/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="ช่องกีฬาทั่วไป",TMAXStream07
+#EXTVLCOPT:http-referrer=https://vvipscore.vip/
+https://cdn1.goozaa.xyz/vv/monomax-7/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="ช่องกีฬาทั่วไป",TMAXStream08
+#EXTVLCOPT:http-referrer=https://vvipscore.vip/
+https://cdn1.goozaa.xyz/vv/monomax-8/chunks.m3u8
+#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png",SPORT-01
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/tsp1/chunks.m3u8
+#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp",SPORT-02
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/tsp2/chunks.m3u8
+#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp",SPORT-03
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/tsp3/chunks.m3u8
+#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp",SPORT-05
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/tsp5/chunks.m3u8
+#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",SPORT-07
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/tsp7/chunks.m3u8
+#EXTINF-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",Premierfootball-03
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/tpf3/chunks.m3u8
+#EXTINF-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",Premierfootball-04
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/tpf4/chunks.m3u8
+#EXTINF-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",Premierfootball-05
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/tpf5/chunks.m3u8
+#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",Bein-01
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/bein1/chunks.m3u8
+#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",Bein-02
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/bein2/chunks.m3u8
+#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",Bein-03
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/bein3/chunks.m3u8
+#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp",Bein-04
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/bein4/chunks.m3u8
+#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp",Bein-05
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/bein5/chunks.m3u8
+#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp",Bein-06
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/bein6/chunks.m3u8
+#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp",Bein-07
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/bein7/chunks.m3u8
+#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91295050-5a1d-11ef-a30f-0d36085b5b8b_webp_original.webp",Bein-08
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/bein8/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="ช่องกีฬาทั่วไป",MAXStream-01
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/monomax1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="ช่องกีฬาทั่วไป",MAXStream-02
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/monomax-2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="ช่องกีฬาทั่วไป",MAXStream-03
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/monomax-3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="ช่องกีฬาทั่วไป",MAXStream-04
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/monomax-4/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="ช่องกีฬาทั่วไป",MAXStream-05
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/monomax-5/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="ช่องกีฬาทั่วไป",MAXStream-06
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/monomax-6/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="ช่องกีฬาทั่วไป",MAXStream-07
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/monomax-7/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="ช่องกีฬาทั่วไป",MAXStream-08
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/monomax-8/chunks.m3u8
 
 
 
@@ -457,7 +649,258 @@ https://main.24playerhd.com/newplaylist/4dc88eebac9e671ebdd4263c/4dc88eebac9e671
 
 #############movie2025###############
 
-
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/Weapons-2025-เวเพินส์-300x450.png",Weapons (2025) เวเพินส์
+https://main.24playerhd.com/newplaylist/ae9caa0c219243329b186054/ae9caa0c219243329b186054.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/09/Nocturnal-2025-แค้นนี้เอาให้น็อค-300x450.png",Nocturnal (2025) แค้นนี้เอาให้น็อค
+https://main.24playerhd.com/newplaylist/d5e587856569c1e8bfd2b696/d5e587856569c1e8bfd2b696.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/03/Last-Breath-2025-300x450.png",Last Breath (2025) ลมหายใจสุดท้าย ใต้สมุทรมรณะ
+https://main.24playerhd.com/newplaylist/269403c62a87b3611ecb2885/269403c62a87b3611ecb2885.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/09/The-Solitary-Gourmet-2025-โกโร่-อร่อยฉายเดี่ยวตะลอนทั่วโลก-300x450.png",The Solitary Gourmet (2025) โกโร่ อร่อยฉายเดี่ยวตะลอนทั่วโลก
+https://main.24playerhd.com/newplaylist/5e28364b5c42ca475954a073/5e28364b5c42ca475954a073.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/09/Saiyaara-2025-สองเราจะสู้เพื่อฝัน-300x450.png",Saiyaara (2025) สองเราจะสู้เพื่อฝัน
+https://main.24playerhd.com/newplaylist/001ab846499313fa9da09804/001ab846499313fa9da09804.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/The-Naked-Gun-2025-มือปราบปืนเปลือย-300x450.png",The Naked Gun (2025) มือปราบปืนเปลือย
+https://main.24playerhd.com/newplaylist/6c0ff95e46e827987b2f248a/6c0ff95e46e827987b2f248a.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/09/The-Wrong-Paris-2025-ปารีสนี้ไม่มีหอไอเฟล-300x450.png",The Wrong Paris (2025) ปารีสนี้ไม่มีหอไอเฟล
+https://main.24playerhd.com/newplaylist/1743513a20ebc2c17b1dd899/1743513a20ebc2c17b1dd899.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/09/Jazz-The-Racing-2025-หลวงพี่แจ๊สโคตรซิ่ง-300x450.png",Jazz The Racing (2025) หลวงพี่แจ๊สโคตรซิ่ง
+https://main.24playerhd.com/newplaylist/c34830e45532a88473657bfc/c34830e45532a88473657bfc.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/09/Kontrabida-Academy-2025-สถาบันนางร้าย-300x450.png",Kontrabida Academy (2025) สถาบันนางร้าย
+https://main.24playerhd.com/newplaylist/b511021da72a0f0fd20a78fa/b511021da72a0f0fd20a78fa.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/04/King-of-Painting-2025-300x450.png",King of Painting (2025)
+https://main.24playerhd.com/newplaylist/7bccdf0e7924d7c9c8f51839/7bccdf0e7924d7c9c8f51839.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/09/Lovesick-2025-รักในคำลวง-300x450.png",Lovesick (2025) รักในคำลวง
+https://main.24playerhd.com/newplaylist/da1d7dfc9303999ac1bc7a76/da1d7dfc9303999ac1bc7a76.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/09/Inspector-Zende-2025-สารวัตรซ่าปะทะทรชน-300x450.png",Inspector Zende (2025) สารวัตรซ่าปะทะทรชน
+https://main.24playerhd.com/newplaylist/7b78d0bb865530ce9265104b/7b78d0bb865530ce9265104b.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/Kayaor-2025-คายอ้อ-ลบหลู่-ศรัทธา-อาถรรพ์-300x450.png",Kayaor (2025) คายอ้อ ลบหลู่ ศรัทธา อาถรรพ์
+https://main.24playerhd.com/newplaylist/3d434992f9ed7019f5fa5c78/3d434992f9ed7019f5fa5c78.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/Lego-Disney-Princess-Villains-Unite-2025-300x450.png",Lego Disney Princess Villains Unite (2025)
+https://main.24playerhd.com/newplaylist/a8fc90c87bb8ff2355cac794/a8fc90c87bb8ff2355cac794.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/Together-2025-ดูดร่างสร้างรัก-300x450.png",Together (2025) ดูดร่างสร้างรัก
+https://main.24playerhd.com/newplaylist/da3a959dae5c65160086c4c8/da3a959dae5c65160086c4c8.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2019/12/Ne-Zha-2019-นาจา-250x350.png",Ne Zha (2025) นาจา 1
+https://main.24playerhd.com/newplaylist/1a6504903cf600716a340033/1a6504903cf600716a340033.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/03/Ne-Zha-2-2025-นาจา-2-1-300x450.png",Ne Zha 2 (2025) นาจา 2
+https://main.24playerhd.com/newplaylist/c2868f683c0f3b8f80da5321/c2868f683c0f3b8f80da5321.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/05/A-Widows-Game-2025-กลเกมแม่ม่าย-300x450.png",A Widow’s Game (2025) กลเกมแม่ม่าย
+https://main.24playerhd.com/newplaylist/5678c64034191519109cb431/5678c64034191519109cb431.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/Love-Untangled-2025-สาวผมยุ่งหัวใจว้าวุ่น-300x450.png",Love Untangled (2025) สาวผมยุ่งหัวใจว้าวุ่น
+https://main.24playerhd.com/newplaylist/d162977e7d8ce03c4b35787b/d162977e7d8ce03c4b35787b.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/The-Thursday-Murder-Club-2025-ชมรมไขคดีฆาตกรรมวันพฤหัส-300x450.png",The Thursday Murder Club (2025) ชมรมไขคดีฆาตกรรมวันพฤหัส
+https://main.24playerhd.com/newplaylist/cb3ac18df9da62662a1ab641/cb3ac18df9da62662a1ab641.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/05/Thunderbolts-2025-ธันเดอร์โบลต์ส-300x450.png",Thunderbolts* (2025) ธันเดอร์โบลต์ส*
+https://main.24playerhd.com/newplaylist/a37433b74a26d920f4387276/a37433b74a26d920f4387276.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/Planet-Single-Greek-Adventure-2025-เกาะรักพักโสด-ผจญภัยในกรีซ-300x450.png",Planet Single Greek Adventure (2025) เกาะรักพักโสด ผจญภัยในกรีซ
+https://main.24playerhd.com/newplaylist/36a8194f8c351d534a96de20/36a8194f8c351d534a96de20.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/Fantasy-Football-Ruined-Our-Lives-2025-แฟนตาซีฟุตบอลพังชีวิต-300x450.png",Fantasy Football Ruined Our Lives (2025) แฟนตาซีฟุตบอลพังชีวิต
+https://main.24playerhd.com/newplaylist/9089c05771af86b8309cd06c/9089c05771af86b8309cd06c.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/07/Superman-2025-ซูเปอร์แมน-1-300x450.png",Superman (2025) ซูเปอร์แมน
+https://main.24playerhd.com/newplaylist/ab3c3bde82b44b7e32f16880/ab3c3bde82b44b7e32f16880.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/04/Love-Hurts-2025-ด้วยรักและลูกปืน-300x450.png",Love Hurts (2025) ด้วยรักและลูกปืน
+https://main.24playerhd.com/newplaylist/775d07b072e3c7db51816bc7/775d07b072e3c7db51816bc7.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/06/F1-The-Movie-2025-F1-เดอะ-มูฟวี่-300x450.png",F1 The Movie (2025) F1 เดอะ มูฟวี่
+https://main.24playerhd.com/newplaylist/f104349c0ec457ab4c3749fc/f104349c0ec457ab4c3749fc.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/Gold-Rush-Gang-2025-เขาชุมทอง-คะนองชุมโจร-300x450.png",Gold Rush Gang (2025) เขาชุมทอง คะนองชุมโจร
+https://main.24playerhd.com/newplaylist/e3cf7b53ee83d191ee3c3c6c/e3cf7b53ee83d191ee3c3c6c.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/Fall-for-Me-2025-ลวงรักทรยศ-300x450.png",Fall for Me (2025) ลวงรักทรยศ
+https://main.24playerhd.com/newplaylist/a8c850a305bac16a7bb94391/a8c850a305bac16a7bb94391.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/One-Hit-Wonder-2025-บทเพลงนี้-ไม่ลืมเธอ-300x450.png",One Hit Wonder (2025) บทเพลงนี้ ไม่ลืมเธอ
+https://main.24playerhd.com/newplaylist/98b7cdbf73ad78a1eec08b8d/98b7cdbf73ad78a1eec08b8d.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/Shanghai-Knight-2025-ศึกอาชาเซี่ยงไฮ้-300x450.png",Shanghai Knight (2025) ศึกอาชาเซี่ยงไฮ้
+https://main.24playerhd.com/newplaylist/11b1f53175ed8745c626f016/11b1f53175ed8745c626f016.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/Blood-Brothers-Bara-Naga-2025-เลือดเดือด-ฝ่าองค์กรทมิฬ-300x450.png",Blood Brothers Bara Naga (2025) เลือดเดือด ฝ่าองค์กรทมิฬ
+https://main.24playerhd.com/newplaylist/8672d73ade5812d65613b34b/8672d73ade5812d65613b34b.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/02/One-of-Them-Days-2025-300x450.png",One of Them Days (2025) เพื่อนรัก หักค่าเช่า
+https://main.24playerhd.com/newplaylist/053b641ba9e9ab6981645bce/053b641ba9e9ab6981645bce.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/Night-Always-Comes-2025-คืนวันอันตราย-300x450.png",Night Always Comes (2025) คืนวันอันตราย
+https://main.24playerhd.com/newplaylist/8989d9f05eea67c390f68874/8989d9f05eea67c390f68874.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/The-Naked-Gun-2025-มือปราบปืนเปลือย-300x450.png",The Naked Gun (2025) มือปราบปืนเปลือย
+https://main.24playerhd.com/newplaylist/a211a860d6c3d00371f470d3/a211a860d6c3d00371f470d3.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/Halabala-2025-ฮาลาบาลา-ป่าจิตหลุด-300x450.png",Halabala (2025) ฮาลาบาลา ป่าจิตหลุด
+https://main.24playerhd.com/newplaylist/d9d9d1f7f521fb0512be1103/d9d9d1f7f521fb0512be1103.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/Love-or-Lie-2025-ฮักสัปปะลี่กับคดีสีชมพู-300x450.png",Love or Lie (2025) ฮักสัปปะลี่กับคดีสีชมพู
+https://main.24playerhd.com/newplaylist/e8c28e528ca69f92def2b345/e8c28e528ca69f92def2b345.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/Credit-Knife-People-2025-ชายผู้ให้ยืมดาบ-300x450.png",Credit Knife People (2025) ชายผู้ให้ยืมดาบ
+https://main.24playerhd.com/newplaylist/b6b643c471a4ec0a21b855ee/b6b643c471a4ec0a21b855ee.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/Jiangziya-2025-สังหารขุนพลชิงแผนภูมิวงศ์เทวา-300x450.png",Jiangziya (2025) สังหารขุนพลชิงแผนภูมิวงศ์เทวา
+https://main.24playerhd.com/newplaylist/dd5ff0022ae1985bbc9a64d2/dd5ff0022ae1985bbc9a64d2.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/The-Pickup-2025-เดอะพิคอัพ-300x450.png",The Pickup (2025) เดอะพิคอัพ
+https://main.24playerhd.com/newplaylist/ebfb3e22d052e12aa2c510c0/ebfb3e22d052e12aa2c510c0.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/07/Jurassic-World-Rebirth-2025-จูราสสิค-เวิลด์-กำเนิดชีวิตใหม่-300x450.png",Jurassic World Rebirth (2025) จูราสสิค เวิลด์ กำเนิดชีวิตใหม่
+https://main.24playerhd.com/newplaylist/b8fa8d536bfc086b96d6f60f/b8fa8d536bfc086b96d6f60f.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/My-Oxford-Year-2025-อ็อกซ์ฟอร์ดในฝันของสาวอเมริกัน-300x450.png",My Oxford Year (2025) อ็อกซ์ฟอร์ดในฝันของสาวอเมริกัน
+https://main.24playerhd.com/newplaylist/1607cee1ceec6d3079709f1b/1607cee1ceec6d3079709f1b.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/An-Honest-Life-2025-ชีวิตซื่อ-300x450.png",An Honest Life (2025) ชีวิตซื่อ
+https://main.24playerhd.com/newplaylist/5495795857b3a75c19052d27/5495795857b3a75c19052d27.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/The-Stone-2025-เดอะ-สโตน-พระแท้-คนเก๊-300x450.png",The Stone (2025) เดอะ สโตน พระแท้ คนเก๊
+https://main.24playerhd.com/newplaylist/09e2bd0055172e2236835dae/09e2bd0055172e2236835dae.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/06/Shadow-Force-2025-ดับเบิลจารชน-โคตรคนไร้เงา-300x450.png",Shadow Force (2025) ดับเบิลจารชน โคตรคนไร้เงา
+https://main.24playerhd.com/newplaylist/c3a3edb02fc2b273c2092d21/c3a3edb02fc2b273c2092d21.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2023/12/Figth-Break-Sphere-2023-สัประยุทธ์ทะลุฟ้า-300x450.jpg",Figth Break Sphere 1 (2025) สัประยุทธ์ทะลุฟ้า 1
+https://main.24playerhd.com/newplaylist/7728de52198f5a623feb14c9/7728de52198f5a623feb14c9.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2023/12/Figth-Break-Sphere-2-2023-สัประยุทธ์ทะลุฟ้า-2-300x450.jpg",Figth Break Sphere 2 (2025) สัประยุทธ์ทะลุฟ้า 2
+https://main.24playerhd.com/newplaylist/f05cea6c0ca8cf0fc5ee2844/f05cea6c0ca8cf0fc5ee2844.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/04/Figth-Break-Sphere-3-2025-สัประยุทธ์ทะลุฟ้า-3-300x450.png",Figth Break Sphere 3 (2025) สัประยุทธ์ทะลุฟ้า 3
+https://main.24playerhd.com/newplaylist/702521ad575dba8890a4f8a9/702521ad575dba8890a4f8a9.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/04/Figth-Break-Sphere-4-2025-สัประยุทธ์ทะลุฟ้า-4-300x450.png",Figth Break Sphere 4 (2025) สัประยุทธ์ทะลุฟ้า 4
+https://main.24playerhd.com/newplaylist/ea96737d9cf9f1f27d9bdaa8/ea96737d9cf9f1f27d9bdaa8.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/04/The-Red-Envelope-2025-ซองแดงแต่งผี-300x450.png",The Red Envelope (2025) ซองแดงแต่งผี
+https://main.24playerhd.com/newplaylist/1712e730229435c6afd8dcc8/1712e730229435c6afd8dcc8.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/05/Another-Simple-Favor-2025-เพื่อนหาย-อย่าหา-2-300x450.png",Another Simple Favor (2025) เพื่อนหาย อย่าหา 2
+https://main.24playerhd.com/newplaylist/39367f844594cf54f004da01/39367f844594cf54f004da01.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/01/Alarum-2025-300x450.png",Alarum (2025)
+https://main.24playerhd.com/newplaylist/dded6ffba7b93b61d66e401f/dded6ffba7b93b61d66e401f.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/07/Wall-to-Wall-2025-ฝันร้าย-84-ตร.ม-300x450.png",Wall to Wall (2025) ฝันร้าย 84 ตร.ม.
+https://main.24playerhd.com/newplaylist/c8ae1ab1a0b039950b4d47fa/c8ae1ab1a0b039950b4d47fa.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/06/Mountainhead-2025-เมาน์เทนเฮด-300x450.png",Mountainhead (2025) เมาน์เทนเฮด
+https://main.24playerhd.com/newplaylist/73f0e597e92dd4c2b94a1e36/73f0e597e92dd4c2b94a1e36.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/07/Ziam-2025-ปากกัดตีนถีบ-300x450.png",Ziam (2025) ปากกัดตีนถีบ
+https://main.24playerhd.com/newplaylist/152ab368d70abf432fdd0459/152ab368d70abf432fdd0459.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/07/Trainwreck-The-Real-Project-X-2025-อภิมหาวายป่วง-คืนซ่าส์ปาร์ตี้หลุดโลกของจริง-300x450.png",Trainwreck The Real Project X (2025) อภิมหาวายป่วง คืนซ่าส์ปาร์ตี้หลุดโลกของจริง
+https://main.24playerhd.com/newplaylist/5f1df47e197133486fc45c16/5f1df47e197133486fc45c16.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/07/High-Rollers-2025-แผนปล้นคนหักเหลี่ยม-ทะลวงกาสิโนเดือด-300x450.png",High Rollers (2025) แผนปล้นคนหักเหลี่ยม ทะลวงกาสิโนเดือด
+https://main.24playerhd.com/newplaylist/5dc315ebc5b5ab29a3dbaa13/5dc315ebc5b5ab29a3dbaa13.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/07/Heads-of-State-2025-ผู้นำสายบู๊กู้วิกฤต-300x450.png",Heads of State (2025) ผู้นำสายบู๊กู้วิกฤต
+https://main.24playerhd.com/newplaylist/2177ab94cdc9b443f853857c/2177ab94cdc9b443f853857c.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/07/The-Old-Guard-2020-ดิ-โอลด์-การ์ด-300x450.png",The Old Guard 1 (2025) ดิ โอลด์ การ์ด 1
+https://main.24playerhd.com/newplaylist/9e8755305fd7e9bbe9a8d327/9e8755305fd7e9bbe9a8d327.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/07/The-Old-Guard-2-2025-ดิ-โอลด์-การ์ด-2-300x450.png",The Old Guard 2 (2025) ดิ โอลด์ การ์ด 2
+https://main.24playerhd.com/newplaylist/623a7aafd6df870d86015d7d/623a7aafd6df870d86015d7d.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/06/Lulu-Is-a-Rhinoceros-2025-300x450.png",Lulu Is a Rhinoceros (2025)
+https://main.24playerhd.com/newplaylist/9986ac865f120422e0b7c342/9986ac865f120422e0b7c342.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/05/The-Assessment-2025-ชีวิตลิขิตไม่ได้-300x450.png",The Assessment (2025) ชีวิตลิขิตไม่ได้
+https://main.24playerhd.com/newplaylist/abfbe30b725ef7cce5764b6b/abfbe30b725ef7cce5764b6b.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/06/Eternal-Bond-2025-นาคบรรพ์-300x450.png",Eternal Bond (2025) นาคบรรพ์
+https://main.24playerhd.com/newplaylist/7d52ccf049d5c4dbba5a8edb/7d52ccf049d5c4dbba5a8edb.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/07/Trainwreck-Balloon-Boy-2025-อภิมหาวายป่วง-บอลลูนบอย-300x450.png",Trainwreck Balloon Boy (2025) อภิมหาวายป่วง บอลลูนบอย
+https://main.24playerhd.com/newplaylist/ee304153a968664f747ef068/ee304153a968664f747ef068.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/05/Detective-Chinatown-1900-2025-แก๊งม่วนป่วนอเมริกา-300x450.png",Detective Chinatown 1900 (2025) แก๊งม่วนป่วนอเมริกา
+https://main.24playerhd.com/newplaylist/8ac08fd391ae7435c79cdec9/8ac08fd391ae7435c79cdec9.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/07/Almost-Cops-2025-คู่สืบ%E2%80%8B-คู่อันตราย-300x450.png",Almost Cops (2025) คู่สืบ คู่อันตราย
+https://main.24playerhd.com/newplaylist/8f132034d7c3f07cb8007210/8f132034d7c3f07cb8007210.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/07/Madeas-Destination-Wedding-2025-ป้าลุยแหลกแหกวิวาห์ป่วน-300x450.png",Madea’s Destination Wedding (2025) ป้าลุยแหลกแหกวิวาห์ป่วน
+https://main.24playerhd.com/newplaylist/e284c1e39a3ebca769be802e/e284c1e39a3ebca769be802e.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/07/Aap-Jaisa-Koi-2025-ใครสักคนที่เหมือนเธอ-300x450.png",Aap Jaisa Koi (2025) ใครสักคนที่เหมือนเธอ
+https://main.24playerhd.com/newplaylist/6cbf4bf084bc4b13607cf56f/6cbf4bf084bc4b13607cf56f.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/03/The-Legend-of-the-Condor-Heroes-The-Gallants-2025-มังกรหยก-จอมยุทธ์ผู้ยิ่งใหญ่-300x450.png",The Legend of the Condor Heroes The Gallants (2025) มังกรหยก จอมยุทธ์ผู้ยิ่งใหญ่
+https://main.24playerhd.com/newplaylist/24ce41ae6089ab73197bfe77/24ce41ae6089ab73197bfe77.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/07/Thantakan-2025-ทัณฑกาล-300x450.png",Thantakan (2025) ทัณฑกาล
+https://main.24playerhd.com/newplaylist/1a5d919a999ffcfb3a7bdb72/1a5d919a999ffcfb3a7bdb72.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/07/Brick-2025-กำแพง-300x450.png",Brick (2025) กำแพง
+https://main.24playerhd.com/newplaylist/cd28c324efab4b80320b8c0f/cd28c324efab4b80320b8c0f.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025"  tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/08/The-Stone-2025-เดอะ-สโตน-พระแท้-คนเก๊-187x269.png" , เดอะ สโตน พระแท้ คนเก๊(2025)
+https://main.24playerhd.com/newplaylist/09e2bd0055172e2236835dae/09e2bd0055172e2236835dae.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025"  tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/07/Ziam-2025-ปากกัดตีนถีบ-187x269.png" , ปากกัดตีนถีบ(2025)
+https://main.24playerhd.com/newplaylist/152ab368d70abf432fdd0459/152ab368d70abf432fdd0459.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025"  tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/06/How-to-Train-Your-Dragon-2025-อภินิหารไวกิ้งพิชิตมังกร-187x269.png" , อภินิหารไวกิ้งพิชิตมังกร(2025)
+https://main.24playerhd.com/newplaylist/96945991af6d8c8f3e613381/96945991af6d8c8f3e613381.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025"  tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/04/Figth-Break-Sphere-4-2025-สัประยุทธ์ทะลุฟ้า-4-187x269.png" , สัประยุทธ์ทะลุฟ้า 4(2025)
+https://main.24playerhd.com/newplaylist/ea96737d9cf9f1f27d9bdaa8/ea96737d9cf9f1f27d9bdaa8.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025"  tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/04/The-Red-Envelope-2025-ซองแดงแต่งผี-187x269.png" , ซองแดงแต่งผี(2025)
+https://main.24playerhd.com/newplaylist/1712e730229435c6afd8dcc8/1712e730229435c6afd8dcc8.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025"  tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/I-the-Executioner-2024-คู่เดือดนรกต้องกราบ-1-187x269.png" , คู่เดือดนรกต้องกราบ(2025)
+https://main.24playerhd.com/newplaylist/6baf924c2c7ef2e2b5c241bf/6baf924c2c7ef2e2b5c241bf.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025"  tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/01/Alarum-2025-1-187x269.png" , Alarum(2025)
+https://main.24playerhd.com/newplaylist/dded6ffba7b93b61d66e401f/dded6ffba7b93b61d66e401f.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025"  tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/04/Graveyard-Horror-2025-4ป่าช้า-187x269.png" , 4ป่าช้า(2025)
+https://main.24playerhd.com/newplaylist/bd84811aa8d1c35a3d56ef13/bd84811aa8d1c35a3d56ef13.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025"  tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/07/Heads-of-State-2025-ผู้นำสายบู๊กู้วิกฤต-187x269.png" , ผู้นำสายบู๊กู้วิกฤต(2025)
+https://main.24playerhd.com/newplaylist/2177ab94cdc9b443f853857c/2177ab94cdc9b443f853857c.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025"  tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/05/Final-Destination-Bloodlines-2025-ไฟนอล-เดสติเนชั่น-ทายาทโกงตาย-187x269.png" , ไฟนอล เดสติเนชั่น ทายาทโกงตาย(2025)
+https://main.24playerhd.com/newplaylist/42d2b455eb741be0e3815235/42d2b455eb741be0e3815235.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025"  tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/06/K.O.-2025-น็อกเอาท์-187x269.png" , น็อกเอาท์(2025)
+https://main.24playerhd.com/newplaylist/550763acbd3c0aa0b4e6340c/550763acbd3c0aa0b4e6340c.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025"  tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/04/The-Accountant-2-2025-อัจฉริยะคนบัญชีเพชฌฆาต-2-187x269.png" , อัจฉริยะคนบัญชีเพชฌฆาต 2(2025)
+https://main.24playerhd.com/newplaylist/8ddd3db9f33a0287db214610/8ddd3db9f33a0287db214610.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025"  tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/05/Lost-in-Starlight-2025-เลือนหายในแสงดาว-187x269.png" , เลือนหายในแสงดาว(2025)
+https://main.24playerhd.com/newplaylist/eadac911baf7637108bffc5b/eadac911baf7637108bffc5b.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025"  tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/05/A-Widows-Game-2025-กลเกมแม่ม่าย-187x269.png" , กลเกมแม่ม่าย(2025)
+https://main.24playerhd.com/newplaylist/5678c64034191519109cb431/5678c64034191519109cb431.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025"  tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/02/Captain-America-Brave-New-World-2025-กัปตัน-อเมริกา-ศึกฮีโร่จักรวาลใหม่-187x269.png" , กัปตัน อเมริกา ศึกฮีโร่จักรวาลใหม่(2025)
+https://main.24playerhd.com/newplaylist/21be93ff1a33fb9d2ed68df8/21be93ff1a33fb9d2ed68df8.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025"  tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/05/Happy-Mondays-2025-สวัสดีวันจันทร์ส-187x269.png" , สวัสดีวันจันทร์(ส)(2025)
+https://main.24playerhd.com/newplaylist/125b48a5ea9312466423678a/125b48a5ea9312466423678a.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025"  tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/05/Fear-Street-Prom-Queen-2025-ถนนอาถรรพ์-ราชินีงานพรอม-187x269.png" , ถนนอาถรรพ์ ราชินีงานพรอม(2025)
+https://main.24playerhd.com/newplaylist/b40189b21d5e2e2d600a96d7/b40189b21d5e2e2d600a96d7.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/04/Bullet-Train-Explosion-2025-ระเบิดรถด่วนขบวนระห่ำ-187x269.png",Bullet Train Explosion (2025) ระเบิดรถด่วนขบวนระห่ำ
+https://main.24playerhd.com/newplaylist/a61ec38e5f6bae95134f2521/a61ec38e5f6bae95134f2521.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/03/A-Working-Man-2025-นรกหยุดนรก-187x269.png",A Working Man (2025) นรกหยุดนรก
+https://main.24playerhd.com/newplaylist/105ba622ac35a006ecf0e6b9/105ba622ac35a006ecf0e6b9.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/04/Sinners-2025-ซินเนอร์ส-187x269.png",Sinners (2025) ซินเนอร์ส
+https://main.24playerhd.com/newplaylist/56e50b68ef7022a6e77718f3/56e50b68ef7022a6e77718f3.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/04/Graveyard-Horror-2025-4ป่าช้า-187x269.png",Graveyard Horror (2025) 4ป่าช้า
+https://main.24playerhd.com/newplaylist/bd84811aa8d1c35a3d56ef13/bd84811aa8d1c35a3d56ef13.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/04/Havoc-2025-ฝ่าหายนะครองเมือง-187x269.png",Havoc (2025) ฝ่าหายนะครองเมือง
+https://main.24playerhd.com/newplaylist/ac6c9eb592e6f281af432f91/ac6c9eb592e6f281af432f91.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/04/Jewel-Thief-The-Heist-Begins-2025-จอมโจรอัญมณี-เริ่มแผนโจรกรรม-187x269.png",Jewel Thief The Heist Begins (2025) จอมโจรอัญมณี เริ่มแผนโจรกรรม
+https://main.24playerhd.com/newplaylist/0b933cabc9dd17182c53c274/0b933cabc9dd17182c53c274.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/04/Ash-2025-แอช-ดาวมฤตยู-187x269.png",Ash (2025) แอช ดาวมฤตยู
+https://main.24playerhd.com/newplaylist/9e1ee1e5a3361b3cc4c10f7c/9e1ee1e5a3361b3cc4c10f7c.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/04/Bullet-Train-Explosion-2025-ระเบิดรถด่วนขบวนระห่ำ-187x269.png",Bullet Train Explosion (2025) ระเบิดรถด่วนขบวนระห่ำ
+https://main.24playerhd.com/newplaylist/a61ec38e5f6bae95134f2521/a61ec38e5f6bae95134f2521.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/04/Lost-Destiny-2025-พรหมลิขิตรักชิงชิว-187x269.png",Lost Destiny (2025) พรหมลิขิตรักชิงชิว
+https://main.24playerhd.com/newplaylist/b28631d28dcc8a32473b3010/b28631d28dcc8a32473b3010.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/04/Frozen-Hot-Boys-2025-แก๊งหิมะเดือด-187x269.png",Frozen Hot Boys (2025) แก๊งหิมะเดือด
+https://main.24playerhd.com/newplaylist/125e0e4909af71cff3a0e419/125e0e4909af71cff3a0e419.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/04/Test-2025-187x269.png",Test (2025) เกมวัดใจ
+https://main.24playerhd.com/newplaylist/9cca449cd580cccc0998bede/9cca449cd580cccc0998bede.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/04/Banger-2025-ดีเจนอกเครื่องแบบ-187x269.png",Banger (2025) ดีเจนอกเครื่องแบบ
+https://main.24playerhd.com/newplaylist/631aa40c795ac19d834cbf9c/631aa40c795ac19d834cbf9c.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/04/Promised-Hearts-2025-หลักฐานสัญญาใจ-187x269.png",Promised Hearts (2025) หลักฐานสัญญาใจ
+https://main.24playerhd.com/newplaylist/b913763f4bb295018b76c353/b913763f4bb295018b76c353.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123-hd.com/wp-content/uploads/2025/03/Little-Siberia-2025-ลิตเติ้ล%E2%80%8B-ไซบีเรีย-300x450.png",Little Siberia (2025) ลิตเติ้ล​ ไซบีเรีย
+https://main.24playerhd.com/newplaylist/5040f5541ea8e6708e787df1/5040f5541ea8e6708e787df1.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123-hd.com/wp-content/uploads/2025/02/The-Wrong-Track-2025-เส้นทางพิสูจน์ใจ-300x450.png",The Wrong Track (2025) เส้นทางพิสูจน์ใจ
+https://main.24playerhd.com/newplaylist/cfc55aeedf5ed08401c6c18d/cfc55aeedf5ed08401c6c18d.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.123-hd.com/wp-content/uploads/2025/03/The-Life-List-2025-รายการชีวิต-300x450.png",The Life List (2025) รายการชีวิต
+https://main.24playerhd.com/newplaylist/e7e1c0eb0cabe168e43b8190/e7e1c0eb0cabe168e43b8190.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/02/Sosyal-Climbers-2025-ตกกระไดพลอยรวย-187x269.png",Sosyal Climbers (2025) ตกกระไดพลอยรวย
+https://main.24playerhd.com/newplaylist/3a849441b6aa6bfae30fafce/3a849441b6aa6bfae30fafce.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/03/Cleaner-2025-ไต่ระทึกตึกนรก-1-187x269.png",Cleaner (2025) ไต่ระทึกตึกนรก
+https://main.24playerhd.com/newplaylist/be6cf8b6806dcf968a11799d/be6cf8b6806dcf968a11799d.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/02/Companion-2025-คอมแพเนียน-1-187x269.png",Companion (2025) คอมแพเนียน
+https://main.24playerhd.com/newplaylist/4761d91b57243675be6661f3/4761d91b57243675be6661f3.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/01/Den-of-Thieves-2-Pantera-2025-187x269.png",Den of Thieves 2 Pantera (2025)
+https://main.24playerhd.com/newplaylist/2efb42cffa2e72c88f9ad574/2efb42cffa2e72c88f9ad574.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/03/Delicious-2025-โอชะ-187x269.png",Delicious (2025) โอชะ
+https://main.24playerhd.com/newplaylist/702e8cc5c52282d903ed2026/702e8cc5c52282d903ed2026.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/03/Nadaaniyan-2025-หัวใจติดกับ-รักผิดแผน-187x269.png",Nadaaniyan (2025) หัวใจติดกับ รักผิดแผน
+https://main.24playerhd.com/newplaylist/781db1a6860032f312213326/781db1a6860032f312213326.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/03/Plankton-The-Movie-2025-แพลงค์ตอน-เดอะ-มูฟวี่-187x269.png",Plankton The Movie (2025) แพลงค์ตอน เดอะ มูฟวี่
+https://main.24playerhd.com/newplaylist/f3f21cf73faf0aadbb9c6be9/f3f21cf73faf0aadbb9c6be9.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/02/Squad-36-2025-หน่วย-36-ตำรวจมือพระกาฬ-187x269.png",Squad 36 (2025) หน่วย 36 ตำรวจมือพระกาฬ
+https://main.24playerhd.com/newplaylist/81a5a6ef4822260dc8b94549/81a5a6ef4822260dc8b94549.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/02/Demon-City-2025-เมืองอสูร-1-187x269.png",Demon City (2025) เมืองอสูร
+https://main.24playerhd.com/newplaylist/2dd18914ff13ed23ab79e09d/2dd18914ff13ed23ab79e09d.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/02/A-Copenhagen-Love-Story-2025-รักฉบับโคเปนเฮเกน-187x269.png",A Copenhagen Love Story (2025) รักฉบับโคเปนเฮเกน
+https://main.24playerhd.com/newplaylist/5965405999e56ca623ff1a3d/5965405999e56ca623ff1a3d.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/01/Wolf-Man-2025-187x269.png",Wolf Man (2025) มนุษย์หมาป่า
+https://main.24playerhd.com/newplaylist/8bd2dd1a8d55bddb0a20c39a/8bd2dd1a8d55bddb0a20c39a.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/02/Bogota-City-of-the-Lost-2025-โบโกตา-เมืองคนหลง-187x269.png",Bogota City of the Lost (2025) โบโกตา เมืองคนหลง
+https://main.24playerhd.com/newplaylist/626ca5a60410a6560a5a75fa/626ca5a60410a6560a5a75fa.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/01/Flight-Risk-2025-นรกยึดไฟลต์-187x269.png",Flight Risk (2025) นรกยึดไฟลต์
+https://main.24playerhd.com/newplaylist/56a1953a97d099a7431036f2/56a1953a97d099a7431036f2.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/01/Ad-Vitam-2025-ปฏิบัติการเพื่อชีวิต-187x269.png",Ad Vitam (2025) ปฏิบัติการเพื่อชีวิต
+https://main.24playerhd.com/newplaylist/b033dd41b3e53faa460dc71e/b033dd41b3e53faa460dc71e.m3u8
+#EXTINF:-1 group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/02/The-Witcher-Sirens-of-the-Deep-2025-เดอะ-วิทเชอร์-นักล่าจอมอสูร-ไซเรนแห่งทะเลลึก-1-187x269.png",The Witcher Sirens of the Deep (2025) เดอะ วิทเชอร์ นักล่าจอมอสูร ไซเรนแห่งทะเลลึก
+https://main.24playerhd.com/newplaylist/31ef51bf3ab318451c10c1a8/31ef51bf3ab318451c10c1a8.m3u8
+#EXTINF:-1 group-title="🎬 ดูหนังใหม่ 2025"  tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/06/KPop-Demon-Hunters-2025-เกิร์ลกรุ๊ปนักล่าปีศาจ-187x269.png" , เกิร์ลกรุ๊ปนักล่าปีศาจ(2025)
+https://main.24playerhd.com/newplaylist/5050d185b8461a3cdf937e1d/5050d185b8461a3cdf937e1d.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/02/Love-Forever-2025-รักนิรันดร-187x269.png",Love Forever (2025) รักนิรันดร
+https://main.24playerhd.com/newplaylist/4efab05bf8d24622f06de3ed/4efab05bf8d24622f06de3ed.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/02/My-Fault-London-2025-คำขอโทษ-ลอนดอน-187x269.png",My Fault London (2025) คำขอโทษ ลอนดอน
+https://main.24playerhd.com/newplaylist/ede71f7f2b5355b656c09e35/ede71f7f2b5355b656c09e35.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/02/La-Dolce-Villa-2025-วิลล่าแห่งรัก-1-187x269.png",La Dolce Villa (2025) วิลล่าแห่งรัก
+https://main.24playerhd.com/newplaylist/3053e92109cde9a172d364c4/3053e92109cde9a172d364c4.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/02/Honeymoon-Crasher-2025-ตัวป่วนฮันนีมูน-187x269.png",Honeymoon Crasher (2025) ตัวป่วนฮันนีมูน
+https://main.24playerhd.com/newplaylist/9063fee1365e98876bb93b48/9063fee1365e98876bb93b48.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/02/The-Love-Scam-2025-แผนรักฉุดใจ-187x269.png",The Love Scam (2025) แผนรักฉุดใจ หลังเป็นหนี้ท่วมหัว
+https://main.24playerhd.com/newplaylist/ac8e733d655c29689db4fdea/ac8e733d655c29689db4fdea.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/01/Youre-Cordially-Invited-2025-รักแสบซ่า-วิวาห์อลเวง-1-187x269.png",Youre Cordially Invited (2025) รักแสบซ่า วิวาห์อลเวง
+https://main.24playerhd.com/newplaylist/e75df0cff84e972e89a6e50d/e75df0cff84e972e89a6e50d.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/01/Back-in-Action-2025-สายลับกลับมาลุย-187x269.png",Back in Action (2025) สายลับกลับมาลุย
+https://main.24playerhd.com/newplaylist/ec03b0ca7e1153ae887f095f/ec03b0ca7e1153ae887f095f.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-images-3.listennotes.com/podcasts/filmment/%E0%B8%A3%E0%B8%A7%E0%B8%A7-sisu-%E0%B8%AA%E0%B8%AA-%E0%B9%80%E0%B8%92%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC-l-qmxza09Y8L_-XOc_e7ajQWx.1400x1400.jpg" group-title="🎬 ดูหนังใหม่ 2025" , สิสู้…เฒ่ามหากาฬ 1
 #EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
@@ -890,9 +1333,667 @@ https://main.24playerhd.com/newplaylist/623a7aafd6df870d86015d7d/623a7aafd6df870
 
 
 
+###################################################################################
+
+
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/Di-Renjies-Heavenly-Palace-Mirage-2024-ตี๋เหรินเจี๋ยมายาตำหนักสวรรค์-300x450.png",Di Renjie’s Heavenly Palace Mirage (2024) ตี๋เหรินเจี๋ยมายาตำหนักสวรรค์
+https://main.24playerhd.com/newplaylist/ed0e1ddcd4d5f2684b02c6b0/ed0e1ddcd4d5f2684b02c6b0.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/03/Dont-Sleep-2024-มึงนอน-มึงตาย-187x269.png",Don’t Sleep (2024) มึงนอน มึงตาย
+https://main.24playerhd.com/newplaylist/973f4dd1726d13ae633f182e/973f4dd1726d13ae633f182e.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024"  tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/05/The-Cliche-2024-คุณชายน์-187x269.png" , คุณชายน์ The Cliche (2024)
+https://main.24playerhd.com/newplaylist/669be532b62158522bb8ca9a/669be532b62158522bb8ca9a.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024"  tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/07/Achilles-Curse-and-the-Curse-of-Treasure-2024-อคิลลิส-เคิร์ส-กับสมบัติต้องคำสาป-187x269.png" , อคิลลิส เคิร์ส กับสมบัติ(2024)
+https://main.24playerhd.com/newplaylist/70ddd17f648d300390e8e88c/70ddd17f648d300390e8e88c.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/04/Isan-Nikah-2024-ผู้บ่าวนิกะห์-187x269.png",Isan Nikah (2024) ผู้บ่าวนิกะห์
+https://main.24playerhd.com/newplaylist/ddc042844e0ce0f2f7f20335/ddc042844e0ce0f2f7f20335.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/That-Christmas-2024-คริสต์มาสนั้น-187x269.png",คริสต์มาสนั้น That Christmas (2024)
+https://main.24playerhd.com/newplaylist/4825aecdb659defce860491d/4825aecdb659defce860491d.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/The-Snow-Sister-เดอะ-สโนว์-ซิสเตอร์-2024-187x269.jpg",เดอะ สโนว์ ซิสเตอร์ The Snow Sister (2024)
+https://main.24playerhd.com/newplaylist/ee271222a002d8a032172288/ee271222a002d8a032172288.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/Mononoke-the-Movie-The-Phantom-in-the-Rain-โมโนโนเกะ-เดอะ-มูฟวี่-ปีศาจในสายฝน-2024-187x269.jpg",โมโนโนเกะ เดอะ มูฟวี่ ปีศาจในสายฝน Mononoke the Movie The Phantom in the Rain (2024)
+https://main.24playerhd.com/newplaylist/849dc714e660afe2e4d0fca1/849dc714e660afe2e4d0fca1.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/อำนาจ-ศรัทธา-อนาคต-Breaking-the-Cycle-2024-187x269.jpg",อำนาจ ศรัทธา อนาคต Breaking the Cycle (2024)
+https://main.24playerhd.com/newplaylist/d5889decbd786d4f2bca1d70/d5889decbd786d4f2bca1d70.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/11/Spellbound-ผจญภัยแดนต้องสาป-2024-187x269.jpg",ผจญภัยแดนต้องสาป Spellbound (2024)
+https://main.24playerhd.com/newplaylist/00050cca811fac21a2c52e11/00050cca811fac21a2c52e11.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/02/Police-Modify-2024-ตำรวจแต่ง-กำเนิดผู้พิทักษ์สันติหลุด-1-187x269.png",Police Modify (2024) ตำรวจแต่ง กำเนิดผู้พิทักษ์สันติหลุด
+https://main.24playerhd.com/newplaylist/d4fa5354e4f21374b8af5cfe/d4fa5354e4f21374b8af5cfe.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/11/The-Cursed-Land-2024-แดนสาป-187x269.png",แดนสาป The Cursed Land (2024)
+https://main.24playerhd.com/newplaylist/fa689eda0ca1c83768b30cf3/fa689eda0ca1c83768b30cf3.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/Uranus-2024-ยูเรนัส-2324-1-187x269.png",ยูเรนัส Uranus (2024)
+https://main.24playerhd.com/newplaylist/05f78f2b4178955a44f66013/05f78f2b4178955a44f66013.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/04/The-Mystery-of-Jade-2024-เปาบุ้นจิ้น-คดีประหลาดดาวปลาคู่-1-187x269.jpg",เปาบุ้นจิ้น คดีประหลาดดาวปลาคู่(2024)
+https://main.24playerhd.com/newplaylist/fd0f6f830b407ec14afbc7ab/fd0f6f830b407ec14afbc7ab.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/Sonic-the-Hedgehog-3-2024-โซนิค-เดอะ-เฮดจ์ฮ็อก-3-187x269.png",โซนิค เดอะ เฮดจ์ฮ็อก 3(2024)
+https://main.24playerhd.com/newplaylist/26873f5504e24632b3e980d7/26873f5504e24632b3e980d7.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/Your-Fault-2024-คำขอโทษ-2-187x269.png",คำขอโทษ 2 Your Fault (2024)
+https://main.24playerhd.com/newplaylist/4556bd05c3c896411f098461/4556bd05c3c896411f098461.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/04/Cash-Out-2024-187x269.jpg",Cash Out (2024)
+https://main.24playerhd.com/newplaylist/7eadbf88d1f87193eb6d3696/7eadbf88d1f87193eb6d3696.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/The-Six-Triple-Eight-2024-888-กองพันหญิงแกร่ง-1-187x269.png",888 กองพันหญิงแกร่ง The Six Triple Eight (2024)
+https://main.24playerhd.com/newplaylist/65ab978b75986813a6ed153a/65ab978b75986813a6ed153a.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/ฝีนาค-Fee-Nak-2024-187x269.jpg",ฝีนาค Fee Nak (2024)
+https://main.24playerhd.com/newplaylist/776b446405302b9d8ca39697/776b446405302b9d8ca39697.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/01/Unstoppable-2024-สู้สุดใจไม่หยุดฝัน-1-187x269.png",สู้สุดใจไม่หยุดฝัน (2024)
+https://main.24playerhd.com/newplaylist/fb62a34da011c2530585161f/fb62a34da011c2530585161f.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/The-Lord-of-the-Rings-The-War-of-the-Rohirrim-2024-เดอะ-ลอร์ด-ออฟ-เดอะ-ริงส์-ศึกแห่งโรฮิริม-1-187x269.png",เดอะ ลอร์ด ออฟ เดอะ ริงส์ ศึกแห่งโรฮิริม (2024)
+https://main.24playerhd.com/newplaylist/af39d4b681f65e8ba9d4d919/af39d4b681f65e8ba9d4d919.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/01/Panda-Plan-2024-แพนด้าเด้งสู้ฟัด-187x269.png",แพนด้าเด้งสู้ฟัด (2024)
+https://main.24playerhd.com/newplaylist/f2cd888d320c0d527f614c8e/f2cd888d320c0d527f614c8e.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/01/Bat-War-2024-ศึกค้างคาวกินกล้วย-187x269.png",ศึกค้างคาวกินกล้วย (2024)
+https://main.24playerhd.com/newplaylist/051902297114c0ff1ae6b4a2/051902297114c0ff1ae6b4a2.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/04/Monkey-Man-2024-1-187x269.jpg",Monkey Man (2024)
+https://main.24playerhd.com/newplaylist/256f0af790aae37a1a5fafb9/256f0af790aae37a1a5fafb9.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/02/Pushpa-The-Rule-Part-2-2024-พุชป้า-กฎเหล็ก-187x269.png",พุชป้า กฎเหล็ก Pushpa The Rule Part 2 (2024)
+https://main.24playerhd.com/newplaylist/d733ec4c18a6c9dc24ac86bb/d733ec4c18a6c9dc24ac86bb.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/02/Cuckoo-2024-187x269.png",ลางหลอนหุบเขามรณะ Cuckoo (2024)
+https://main.24playerhd.com/newplaylist/cc23574924a5c1a0bc97fd83/cc23574924a5c1a0bc97fd83.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/02/Fangs-Fury-2024-สงครามหมาป่า-187x269.png",สงครามหมาป่า Fangs & Fury (2024)
+https://main.24playerhd.com/newplaylist/f3f888d286ef4720cd67b75b/f3f888d286ef4720cd67b75b.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/02/Monkey-King-Fight-Lion-Camel-2024-ซุนหงอคง-ราชาวานร-187x269.png",ซุนหงอคง ราชาวานร Monkey King Fight Lion Camel (2024)
+https://main.24playerhd.com/newplaylist/a402968ae8d16a072685f23f/a402968ae8d16a072685f23f.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/11/Wicked-Part-I-วิคเค็ด-2024-187x269.jpg",วิคเค็ด Wicked Part I (2024)
+https://main.24playerhd.com/newplaylist/820c4f1e1b93c3f32b1dd453/820c4f1e1b93c3f32b1dd453.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/03/Dont-Sleep-2024-มึงนอน-มึงตาย-187x269.png",มึงนอน มึงตาย (2024)
+https://main.24playerhd.com/newplaylist/973f4dd1726d13ae633f182e/973f4dd1726d13ae633f182e.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/03/In-Youth-We-Trust-2024-วัยหนุ่ม-2544-1-187x269.png",วัยหนุ่ม 2544 (2024)
+https://main.24playerhd.com/newplaylist/3e6a3afc76304b960592fe44/3e6a3afc76304b960592fe44.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/03/Rider-2024-ไรเดอร์-187x269.png",ไรเดอร์ (2024)
+https://main.24playerhd.com/newplaylist/97c8827185ec420a01f2d422/97c8827185ec420a01f2d422.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/04/404-Run-Run-2024-404-สุขีนิรันดร์-187x269.png",404 Run Run (2024) 404 สุขีนิรันดร์..
+https://main.24playerhd.com/newplaylist/8ceba9029213306a3a688248/8ceba9029213306a3a688248.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/01/The-Haunted-Granny-2024-ปอบแม่ใหญ่แดง-1.png",The Haunted Granny (2024) ปอบแม่ใหญ่แดง
+https://main.24playerhd.com/newplaylist/827a5e00f198e501ac6b18d6/827a5e00f198e501ac6b18d6.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/Kraven-the-Hunter-2024.png",Kraven the Hunter (2024)
+https://main.24playerhd.com/newplaylist/85d531a7ab3930618e4692bc/85d531a7ab3930618e4692bc.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/The-Lord-of-the-Rings-The-War-of-the-Rohirrim-2024-เดอะ-ลอร์ด-ออฟ-เดอะ-ริงส์-ศึกแห่งโรฮิริม-1.png",The Lord of the Rings The War of the Rohirrim (2024) เดอะ ลอร์ด ออฟ เดอะ ริงส์ ศึกแห่งโรฮิริม
+https://main.24playerhd.com/newplaylist/5094a224202778fd9164de96/5094a224202778fd9164de96.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/11/Gladiator-II-แกลดดิเอเตอร์-นักรบผู้กล้า-ผ่าแผ่นดินทรราช-2-2024.jpg",Gladiator II แกลดดิเอเตอร์ นักรบผู้กล้า ผ่าแผ่นดินทรราช 2 (2024)
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/08/Escape-2024-หนีให้พ้นนรก.jpg",Escape (2024) หนีให้พ้นนรก
+https://main.24playerhd.com/newplaylist/0d6953721084c4e01418bef6/0d6953721084c4e01418bef6.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/11/Following-2024.jpg",Following (2024)
+https://main.24playerhd.com/newplaylist/b36d8b40b7d26bdf75ac9d42/b36d8b40b7d26bdf75ac9d42.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/01/Shoot-It-Up-2024-ปะฉะดะ.png",Shoot It Up (2024) ปะฉะดะ
+https://main.24playerhd.com/newplaylist/5bb3f37363d90c8d3a70dcc1/5bb3f37363d90c8d3a70dcc1.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/01/House-of-Sayuri-2024-บ้านผีอิหยังวะ.png",House of Sayuri (2024) บ้านผีอิหยังวะ
+https://main.24playerhd.com/newplaylist/a95fee0e5aa7c2638dd70192/a95fee0e5aa7c2638dd70192.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/01/Fury-12-Hours-2024-12-ชั่วโมงแห่งความเกรี้ยวกราด.png",Fury 12 Hours (2024) 12 ชั่วโมงแห่งความเกรี้ยวกราด
+https://main.24playerhd.com/newplaylist/97145daf6bc5fff92b7d6b83/97145daf6bc5fff92b7d6b83.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/07/The-Mystery-Of-Humanoid-Puppet-2024-ตี๋เหรินเจี๋ยกับตุ๊กตาหุ่นเชิด-1.jpg",The Mystery Of Humanoid Puppet (2024) ตี๋เหรินเจี๋ยกับตุ๊กตาหุ่นเชิด
+https://main.24playerhd.com/newplaylist/051c90fe55dc70c8132d148c/051c90fe55dc70c8132d148c.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/01/Panda-Plan-2024-แพนด้าเด้งสู้ฟัด.png",Panda Plan (2024) แพนด้าเด้งสู้ฟัด
+https://main.24playerhd.com/newplaylist/be7109ef82e6abf94225dedf/be7109ef82e6abf94225dedf.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/01/Kang-Mak-2024-คังมาก.png",Kang Mak (2024) คังมาก
+https://main.24playerhd.com/newplaylist/5bead1a2bfee08ec14644dcd/5bead1a2bfee08ec14644dcd.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/Sonic-the-Hedgehog-3-2024-โซนิค-เดอะ-เฮดจ์ฮ็อก-3.png",Sonic the Hedgehog 3 (2024) โซนิค เดอะ เฮดจ์ฮ็อก 3
+https://main.24playerhd.com/newplaylist/d372f19c5ff3e8c39beb36d5/d372f19c5ff3e8c39beb36d5.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/05/The-Roundup-Punishment-2024-บู๊ระห่ำล่าล้างนรก-นรกลงทัณฑ์-1.jpg",The Roundup Punishment (2024) บู๊ระห่ำล่าล้างนรก นรกลงทัณฑ์
+https://main.24playerhd.com/newplaylist/9f228cc132a6dcdb1e9a71ba/9f228cc132a6dcdb1e9a71ba.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/01/The-Paradise-of-Thorns-2024-วิมานหนาม-1.png",The Paradise of Thorns (2024) วิมานหนาม
+https://main.24playerhd.com/newplaylist/e7889f64f997d480967a3ad4/e7889f64f997d480967a3ad4.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/01/The-Holy-Man-Comeback-2024-หลวงพี่เท่ง-Comeback-1.png","The Holy Man Comeback (2024) หลวงพี่เท่ง Comeback
+https://main.24playerhd.com/newplaylist/b428a2ac2b6d5b701ac05db0/b428a2ac2b6d5b701ac05db0.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/Uranus-2024-ยูเรนัส-2324-1.png",Uranus (2024) ยูเรนัส 2324
+https://main.24playerhd.com/newplaylist/05f78f2b4178955a44f66013/05f78f2b4178955a44f66013.m3u8
+"image": "https://www.24hd-movie.com/wp-content/uploads/2024/12/The-Beast-Within-2024-เดอะ-บีสต์-วิทอิน.png",The Beast Within (2024) เดอะ บีสต์ วิทอิน
+https://main.24playerhd.com/newplaylist/f64beaf30022e6c00a66f307/f64beaf30022e6c00a66f307.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/04/The-Mystery-of-Jade-2024-เปาบุ้นจิ้น-คดีประหลาดดาวปลาคู่-1.jpg",The Mystery of Jade (2024) เปาบุ้นจิ้น คดีประหลาดดาวปลาคู่
+https://main.24playerhd.com/newplaylist/fd0f6f830b407ec14afbc7ab/fd0f6f830b407ec14afbc7ab.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/Mufasa-The-Lion-King-2024-มูฟาซา-เดอะ-ไลอ้อน-คิง.png",Mufasa The Lion King (2024) มูฟาซา เดอะ ไลอ้อน คิง
+https://main.24playerhd.com/newplaylist/4c945abc17d6b1d629fa1f86/4c945abc17d6b1d629fa1f86.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/04/Cash-Out-2024.jpg",Cash Out (2024)
+https://main.24playerhd.com/newplaylist/7eadbf88d1f87193eb6d3696/7eadbf88d1f87193eb6d3696.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/The-Six-Triple-Eight-2024-888-กองพันหญิงแกร่ง-1.png",The Six Triple Eight (2024) 888 กองพันหญิงแกร่ง
+https://main.24playerhd.com/newplaylist/65ab978b75986813a6ed153a/65ab978b75986813a6ed153a.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/ฝีนาค-Fee-Nak-2024.jpg",ฝีนาค Fee Nak (2024)
+https://main.24playerhd.com/newplaylist/776b446405302b9d8ca39697/776b446405302b9d8ca39697.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/Survive-2024-ต้องรอด-1.png",Survive (2024) ต้องรอด
+https://main.24playerhd.com/newplaylist/524d2b59662a21dcb981f8da/524d2b59662a21dcb981f8da.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/Mana-Man-2024-มานะแมน-1.png",Mana Man (2024) มานะแมน
+https://main.24playerhd.com/newplaylist/acca29198180ecf9038b21f0/acca29198180ecf9038b21f0.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/I-the-Executioner-2024-คู่เดือดนรกต้องกราบ-1.png",I the Executioner (2024) คู่เดือดนรกต้องกราบ
+https://main.24playerhd.com/newplaylist/4b7b881115b6da7977c2b43d/4b7b881115b6da7977c2b43d.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/08/Nezha-Demon-Child-is-Back-2024-นาจา-การกลับมาของเด็กปีศาจ-1.jpg",Nezha Demon Child is Back (2024) นาจา การกลับมาของเด็กปีศาจ
+https://main.24playerhd.com/newplaylist/68f8e807874f25aeb8463a5f/68f8e807874f25aeb8463a5f.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/Carry-On-2024-สัมภาระอันตราย-1.png",Carry-On (2024) สัมภาระอันตราย
+https://main.24playerhd.com/newplaylist/8b75a1ce732a3e40675a0cba/8b75a1ce732a3e40675a0cba.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/11/Red-One-2024-เรดวัน.jpg",Red One (2024) เรดวัน
+https://main.24playerhd.com/newplaylist/57e73f81f8add59e37902406/57e73f81f8add59e37902406.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/Taklee-Genesis-ตาคลี-เจเนซิส-2024.jpg",Taklee Genesis (2024) ตาคลี เจเนซิส
+https://main.24playerhd.com/newplaylist/a877e1422cff601c7b8e6c43/a877e1422cff601c7b8e6c43.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/Venom-The-Last-Dance-เวน่อม-มหาศึกอสูรอหังการ-2024.jpg",Venom The Last Dance เวน่อม มหาศึกอสูรอหังการ (2024)
+https://main.24playerhd.com/newplaylist/579fd0d64f81b8a296b29641/579fd0d64f81b8a296b29641.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/ช.พ.๑-สมรภูมิคืนชีพ-Operation-Undead-2024.jpg",ช.พ.๑ สมรภูมิคืนชีพ Operation Undead (2024)
+https://main.24playerhd.com/newplaylist/fb1d8c9ac47d9f2e95dcee40/fb1d8c9ac47d9f2e95dcee40.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/Biggest-Heist-Ever-ปล้นมโหฬาร-2024.jpg",Biggest Heist Ever ปล้นมโหฬาร (2024)
+https://main.24playerhd.com/newplaylist/b5909b45c57b9dabc66098a1/b5909b45c57b9dabc66098a1.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/The-Red-Virgin-ฮิลเดการ์ต-ดรุณีสีชาด-2024.jpg",The Red Virgin ฮิลเดการ์ต ดรุณีสีชาด (2024)
+https://main.24playerhd.com/newplaylist/dd1f631ed19cb8fc5977f351/dd1f631ed19cb8fc5977f351.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/Mary-มารีย์-2024.jpg",Mary มารีย์ (2024)
+https://main.24playerhd.com/newplaylist/51185fa855511aef86438788/51185fa855511aef86438788.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/Striking-Rescue-คนเดือด​-ซัดนรก-2024.jpg",Striking Rescue คนเดือด​ ซัดนรก (2024)
+https://main.24playerhd.com/newplaylist/39c4722ac51bf2184f5dd67f/39c4722ac51bf2184f5dd67f.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/Camp-Crasher-คุณแม่ป่วนค่าย-2024.jpg",Camp Crasher คุณแม่ป่วนค่าย (2024)
+https://main.24playerhd.com/newplaylist/6696b7818b5ff7507ef7ccdb/6696b7818b5ff7507ef7ccdb.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/A-Normal-Family-ลูกฉัน.-เป็นคนดี-2024.jpg",A Normal Family ลูกฉัน... เป็นคนดี (2024)
+https://main.24playerhd.com/newplaylist/4856ca92ceeab341aed62865/4856ca92ceeab341aed62865.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/The-Childrens-Train-2024-รถไฟขนเด็ก.png",The Children's Train (2024) รถไฟขนเด็ก
+https://main.24playerhd.com/newplaylist/5188d0ea1cd3d2663c0aa2b8/5188d0ea1cd3d2663c0aa2b8.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/The-Snow-Sister-เดอะ-สโนว์-ซิสเตอร์-2024.jpg",The Snow Sister เดอะ สโนว์ ซิสเตอร์ (2024)
+https://main.24playerhd.com/newplaylist/ee271222a002d8a032172288/ee271222a002d8a032172288.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/Nutcrackers-2024.png",Nutcrackers (2024)
+https://main.24playerhd.com/newplaylist/e21b082ed817ef9f251f5710/e21b082ed817ef9f251f5710.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/Mononoke-the-Movie-The-Phantom-in-the-Rain-โมโนโนเกะ-เดอะ-มูฟวี่-ปีศาจในสายฝน-2024.jpg",Mononoke the Movie The Phantom in the Rain โมโนโนเกะ เดอะ มูฟวี่ ปีศาจในสายฝน (2024)
+https://main.24playerhd.com/newplaylist/849dc714e660afe2e4d0fca1/849dc714e660afe2e4d0fca1.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/อำนาจ-ศรัทธา-อนาคต-Breaking-the-Cycle-2024.jpg",อำนาจ ศรัทธา อนาคต Breaking the Cycle (2024)
+https://main.24playerhd.com/newplaylist/d5889decbd786d4f2bca1d70/d5889decbd786d4f2bca1d70.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/12/Our-Little-Secret-ความลับเล็กๆ-2024.jpg",Our Little Secret ความลับเล็กๆ (2024)
+https://main.24playerhd.com/newplaylist/a7724e7c0903e01ca61dd414/a7724e7c0903e01ca61dd414.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/11/The-Merry-Gentlemen-เดอะ-เมอร์รี่-เจนเทิลแมน-2024.jpg",The Merry Gentlemen เดอะ เมอร์รี่ เจนเทิลแมน (2024)
+https://main.24playerhd.com/newplaylist/1b7d7f4af52f6c5e4cb7d635/1b7d7f4af52f6c5e4cb7d635.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/11/Pimpinero-Blood-and-Oil-ล่าแค้นแดนน้ำมันเถื่อน-2024.jpg",Pimpinero Blood and Oil ล่าแค้นแดนน้ำมันเถื่อน (2024)
+https://main.24playerhd.com/newplaylist/bbed667b5ba4b06bb7fc2fb5/bbed667b5ba4b06bb7fc2fb5.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/11/Wicked-Part-I-วิคเค็ด-2024.jpg",Wicked Part I วิคเค็ด (2024)
+https://main.24playerhd.com/newplaylist/1b8dd221608c103bdd3af723/1b8dd221608c103bdd3af723.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/11/GTMAX-2024.jpg",GTMAX (2024)
+https://main.24playerhd.com/newplaylist/b4418a35fd068bfbbaea9cbd/b4418a35fd068bfbbaea9cbd.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/11/Spellbound-ผจญภัยแดนต้องสาป-2024.jpg",Spellbound (2024) ผจญภัยแดนต้องสาป
+https://main.24playerhd.com/newplaylist/00050cca811fac21a2c52e11/00050cca811fac21a2c52e11.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/11/The-Piano-Lesson-บทเรียนจากเปียโน-2024.jpg",The Piano Lesson (2024) บทเรียนจากเปียโน
+https://main.24playerhd.com/newplaylist/9aa168942f16ed04c3937537/9aa168942f16ed04c3937537.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/08/Twilight-of-the-Warriors-Walled-In-2024-เมืองพญายม-ปิดบัญชียมบาล.jpg",Twilight of the Warriors Walled In (2024) เมืองพญายม ปิดบัญชียมบาล
+https://main.24playerhd.com/newplaylist/ee480331e38c172bb43af344/ee480331e38c172bb43af344.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/03/The-Wild-Blade-of-Strangers-2024-นักดาบคนแปลกหน้า-1.jpg",The Wild Blade of Strangers (2024) นักดาบคนแปลกหน้า
+https://main.24playerhd.com/newplaylist/a51f5284c7a7c465db37b1a4/a51f5284c7a7c465db37b1a4.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/11/Elevation-2024-อสุรกายขย้ำ-8000-ฟุต-2.png",Elevation (2024) อสุรกายขย้ำ 8000 ฟุต
+https://main.24playerhd.com/newplaylist/e985f8ca0ffafce1ee148731/e985f8ca0ffafce1ee148731.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/11/Absolution-คนสันดานเดือด-2024-1.png",Absolution (2024) คนสันดานเดือด
+https://main.24playerhd.com/newplaylist/8330ee7de36d5a18455db9c6/8330ee7de36d5a18455db9c6.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/11/The-Cursed-Land-2024-แดนสาป.png",The Cursed Land (2024) แดนสาป
+https://main.24playerhd.com/newplaylist/fa689eda0ca1c83768b30cf3/fa689eda0ca1c83768b30cf3.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/11/Terrifier-3-เทอร์ริไฟเออร์-3-2024.jpg",Terrifier 3 เทอร์ริไฟเออร์ 3 (2024)
+https://main.24playerhd.com/newplaylist/26c9497de0ad0a238786dffe/26c9497de0ad0a238786dffe.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/11/My-Hero-Academia-Youre-Next-มาย-ฮีโร่-อคาเดเมีย-2024.png", My Hero Academia You're Next มาย ฮีโร่ อคาเดเมีย (2024)
+https://main.24playerhd.com/newplaylist/77149630680ee07ecaa4ebdc/77149630680ee07ecaa4ebdc.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/11/Meet-Me-Next-Christmas-เจอกันคริสต์มาสหน้า-2024.jpg",Meet Me Next Christmas เจอกันคริสต์มาสหน้า (2024)
+https://main.24playerhd.com/newplaylist/84c6c9ca0b5e77b08133d77a/84c6c9ca0b5e77b08133d77a.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/11/We-Live-in-Time-เวลานั้นฉันและเธอ-2024.jpg",We Live in Time (2024) เวลานั้นฉันและเธอ
+https://main.24playerhd.com/newplaylist/c39c15f38c33254301effa05/c39c15f38c33254301effa05.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/11/A-Legend-พลิกตำนานฟัดทะลุเวลา-2024.jpg", A Legend พลิกตำนานฟัดทะลุเวลา (2024)
+https://main.24playerhd.com/newplaylist/8788c89d98270ae5c63e42c9/8788c89d98270ae5c63e42c9.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/11/Absolution-คนสันดานเดือด-2024.jpg", Absolution คนสันดานเดือด (2024)
+https://main.24playerhd.com/newplaylist/d9ce4612e57f2aa1e2be48e9/d9ce4612e57f2aa1e2be48e9.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/04/Yolo-2024-หมวยย้วย.มวยไม่ยอมม้วย.jpg",Yolo (2024) หมวยย้วย...มวยไม่ยอมม้วย
+https://main.24playerhd.com/newplaylist/ea59307855dd98bfeb7c4f7c/ea59307855dd98bfeb7c4f7c.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/11/Let-Go-ปล่อย-2024.jpg",Let Go ปล่อย (2024)
+https://main.24playerhd.com/newplaylist/1ec3c40c953710d40dc1d2f8/1ec3c40c953710d40dc1d2f8.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/11/Freedom-Libre-จอมโจรใจเสรี-2024.jpg",Freedom Libre จอมโจรใจเสรี (2024)
+https://main.24playerhd.com/newplaylist/5eae95f068eda57914473253/5eae95f068eda57914473253.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/11/Vina-Before-7-Days-วีนา-คืนบาป-สาปจากหลุม-2024.jpg",Vina Before 7 Days วีนา คืนบาป สาปจากหลุม (2024)
+https://main.24playerhd.com/newplaylist/f7b843d31b33aac9fb8b2104/f7b843d31b33aac9fb8b2104.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/ผีจิก-Oh.My-Wife-2024.jpg",ผีจิก Oh...My Wife (2024)
+https://main.24playerhd.com/newplaylist/ce08916e3b5d83cfcf0bba0d/ce08916e3b5d83cfcf0bba0d.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/Time-Cut-เจาะเวลาฆ่าอดีต-2024.jpg",Time Cut เจาะเวลาฆ่าอดีต (2024)
+https://main.24playerhd.com/newplaylist/9193f96c6e3fbdc8185b93f7/9193f96c6e3fbdc8185b93f7.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/Apocalypse-Z-The-Beginning-of-the-End-อะโพคาลิปซิส-เซต้า-จุดเริ่มต้นของจุดจบ-2024.jpg",Apocalypse Z The Beginning of the End อะโพคาลิปซิส เซต้า จุดเริ่มต้นของจุดจบ (2024)
+https://main.24playerhd.com/newplaylist/b0e0be44911e0e9294cfbbb5/b0e0be44911e0e9294cfbbb5.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/The-Floor-Plan-A-Strange-House-บ้านวิกล-2024.jpg",The Floor Plan A Strange House บ้านวิกล (2024)
+https://main.24playerhd.com/newplaylist/3c59627b9ac6da353ba8e6ac/3c59627b9ac6da353ba8e6ac.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/Dont-Move-อย่าขยับ-2024.jpg",Don't Move อย่าขยับ (2024)
+https://main.24playerhd.com/newplaylist/1108a95320157972cc5e39fd/1108a95320157972cc5e39fd.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/Do-Patti-2024.jpg",Do Patti (2024)
+https://main.24playerhd.com/newplaylist/a0ba24e2470f6dfe0fdcb489/a0ba24e2470f6dfe0fdcb489.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/The-Bad-Guys-Haunted-Heist-วายร้ายพันธุ์ดี-ปล้นป่วนฮาโลวีน-2024.jpg",The Bad Guys Haunted Heist วายร้ายพันธุ์ดี ปล้นป่วนฮาโลวีน (2024)
+https://main.24playerhd.com/newplaylist/b68739aeb386aff5d472fa23/b68739aeb386aff5d472fa23.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/Prey-ขย้ำ-2024.jpg",Prey ขย้ำ (2024)
+https://main.24playerhd.com/newplaylist/8a74b687b03678763fda29ef/8a74b687b03678763fda29ef.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/Detective-Conan-The-Million-Dollar-Pentagram-ยอดนักสืบจิ๋วโคนัน-เดอะมูฟวี่-27-ปริศนาปราการ-5-แฉก-2024.jpg",Detective Conan The Million-Dollar Pentagram ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 27 ปริศนาปราการ 5 แฉก (2024)
+https://main.24playerhd.com/newplaylist/6bd630adff8c2239f7b8e27d/6bd630adff8c2239f7b8e27d.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/Family-Pack-เกมมนุษย์หมาป่า-2024.jpg",  Family Pack เกมมนุษย์หมาป่า (2024)",
+https://main.24playerhd.com/newplaylist/081da4c502c6e865ccfe4a52/081da4c502c6e865ccfe4a52.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/The-Man-Who-Loved-UFOs-ชายผู้คลั่งไคล้ยูเอฟโอ-2024.jpg", The Man Who Loved UFOs ชายผู้คลั่งไคล้ยูเอฟโอ (2024)
+https://main.24playerhd.com/newplaylist/8403925c360d380300e958ff/8403925c360d380300e958ff.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/LEGO-Marvel-Avengers-Mission-Demolition-2024.png", LEGO Marvel Avengers Mission Demolition (2024)",
+https://main.24playerhd.com/newplaylist/3f7c890b75c3c8e8c679d92f/3f7c890b75c3c8e8c679d92f.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/The-Painter-จิตรกร-2024.jpg",The Painter จิตรกร (2024)
+https://main.24playerhd.com/newplaylist/1e8b26dde77ff5e33e1a475c/1e8b26dde77ff5e33e1a475c.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/ธี่หยด-2-Death-Whisperer-2-2024.jpg", ธี่หยด 2 Death Whisperer 2 (2024)
+https://main.24playerhd.com/newplaylist/696a9dbd85cfd64288303657/696a9dbd85cfd64288303657.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/Happiness-Is-2024.jpg", Happiness Is (2024)
+https://main.24playerhd.com/newplaylist/7e23a09346defbb3a5207248/7e23a09346defbb3a5207248.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/The-Wild-Robot-หุ่นยนต์ผจญภัยในป่ากว้าง-2024.jpg", The Wild Robot หุ่นยนต์ผจญภัยในป่ากว้าง (2024)
+https://main.24playerhd.com/newplaylist/821a2bcb34d0c8616e7772fb/821a2bcb34d0c8616e7772fb.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/Brothers-บราเธอร์ส-ปล้นครั้งนี้เพื่อพี่ที่รัก-2024.jpg", Brothers บราเธอร์ส ปล้นครั้งนี้เพื่อพี่ที่รัก (2024)
+https://main.24playerhd.com/newplaylist/959a8c91b5810ab4e67a0157/959a8c91b5810ab4e67a0157.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/Outside-เอาท์ไซด์-2024.jpg",Outside เอาท์ไซด์ (2024)
+https://main.24playerhd.com/newplaylist/9bd916ef887b514260f0445c/9bd916ef887b514260f0445c.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/The-Shadow-Strays-นักฆ่าเงาล่าทรชน-2024.jpg", The Shadow Strays นักฆ่าเงาล่าทรชน (2024)
+https://main.24playerhd.com/newplaylist/0bc8dbe76358714434f0f61a/0bc8dbe76358714434f0f61a.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/รักวนลูป-Love-Stuck-2024.jpg",รักวนลูป Love Stuck (2024)
+https://main.24playerhd.com/newplaylist/059c30ec5c7e5eef3ff44f98/059c30ec5c7e5eef3ff44f98.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/เทอม-3-Haunted-Universities-3-2024.jpg",เทอม 3 Haunted Universities 3 (2024)
+https://main.24playerhd.com/newplaylist/8bb361bb8176617b1d08f4aa/8bb361bb8176617b1d08f4aa.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/Uprising-กบฏผงาดแผ่นดิน-2024.jpg",Uprising กบฏผงาดแผ่นดิน (2024)
+https://main.24playerhd.com/newplaylist/2137e4e5211589005da63c3f/2137e4e5211589005da63c3f.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/Blue-Lock-Episode-Nagi-บลูล็อก-เดอะมูฟวี่-ตอนนากิ-2024.jpg", Blue Lock Episode Nagi บลูล็อก เดอะมูฟวี่ ตอนนากิ (2024)
+https://main.24playerhd.com/newplaylist/d6ba9f6a5f23058bb410fbdb/d6ba9f6a5f23058bb410fbdb.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/Operation-Blood-Hunt-2024.jpg",Operation Blood Hunt (2024)
+https://main.24playerhd.com/newplaylist/108c173da761f9ea63707c46/108c173da761f9ea63707c46.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/หอแต๋วแตก-แหกสัปะหยด-Oh-My-Ghost-The-Finale-2024.jpg", หอแต๋วแตก แหกสัปะหยด Oh My Ghost The Finale (2024)
+https://main.24playerhd.com/newplaylist/2049b2b7c05193358600d233/2049b2b7c05193358600d233.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/The-Menendez-Brothers-พี่น้องเมเนนเดซ-2024.jpg",The Menendez Brothers พี่น้องเมเนนเดซ (2024)
+https://main.24playerhd.com/newplaylist/bb389d7e4825d396ba6dcdd1/bb389d7e4825d396ba6dcdd1.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/CTRL-2024.jpg",CTRL (2024)
+https://main.24playerhd.com/newplaylist/1c4949eff7d793a944099d1e/1c4949eff7d793a944099d1e.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/Hijack-1971-นรกเหนือน่านฟ้า-2024.jpg",Hijack 1971 นรกเหนือน่านฟ้า (2024)
+https://main.24playerhd.com/newplaylist/b7f57e64e16c637787d045c2/b7f57e64e16c637787d045c2.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/Its-Whats-Inside-กระเป๋าลับสลับร่าง-2024.jpg",It's What's Inside กระเป๋าลับสลับร่าง (2024)
+https://main.24playerhd.com/newplaylist/83187990cba70d3db4740b6f/83187990cba70d3db4740b6f.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/The-Platform-2-เดอะ-แพลตฟอร์ม-2-2024.jpg",The Platform 2 เดอะ แพลตฟอร์ม 2 (2024)
+https://main.24playerhd.com/newplaylist/602eb9b50b6da1d101ecd31b/602eb9b50b6da1d101ecd31b.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/Salems-Lot-ท้าสู้ผีนรก-2024.jpg",Salems Lot ท้าสู้ผีนรก (2024)
+https://main.24playerhd.com/newplaylist/bc048ee5e5dad8a62ed17f57/bc048ee5e5dad8a62ed17f57.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/Trouble-ผิดที่-ผิดทาง-2024.jpg", Trouble ผิดที่ ผิดทาง (2024)"
+https://main.24playerhd.com/newplaylist/29d1f0c9855ba267efabade2/29d1f0c9855ba267efabade2.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/Salems-Lot-ท้าสู้ผีนรก-2024.jpg",Salems Lot ท้าสู้ผีนรก (2024)
+https://main.24playerhd.com/newplaylist/bc048ee5e5dad8a62ed17f57/bc048ee5e5dad8a62ed17f57.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/Trouble-ผิดที่-ผิดทาง-2024.jpg", Trouble ผิดที่ ผิดทาง (2024)
+https://main.24playerhd.com/newplaylist/29d1f0c9855ba267efabade2/29d1f0c9855ba267efabade2.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/House-of-Spoils-เชฟ-บ้าน-วิญญาณหลอน-2024.jpg",House of Spoils เชฟ บ้าน วิญญาณหลอน (2024)
+https://main.24playerhd.com/newplaylist/3b63471981b4c7804e6a21b0/3b63471981b4c7804e6a21b0.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/10/Previously-Saved-Version.jpg",Previously Saved Version บันทึกความทรงจำข้ามดวงดาว (2024)
+https://main.24playerhd.com/newplaylist/10ce02204d67bbf369de9845/10ce02204d67bbf369de9845.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/Rez-Ball-เรซบอล-2024.jpg",Rez Ball เรซบอล (2024)
+https://main.24playerhd.com/newplaylist/664d6ed1f912b4095876f03a/664d6ed1f912b4095876f03a.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/Breaking-Olympia-The-Phil-Heath-Story-2024.jpg",Breaking Olympia The Phil Heath Story (2024)
+https://main.24playerhd.com/newplaylist/dcea28007d8a15142c8b1646/dcea28007d8a15142c8b1646.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/Transformers-One-ทรานส์ฟอร์เมอร์ส-1-2024.jpg",Transformers One (2024) ทรานส์ฟอร์เมอร์ส 1
+https://main.24playerhd.com/newplaylist/21add325dd8a37f5d1838dd1/21add325dd8a37f5d1838dd1.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/Killer-Heat-เด็ดปีกฆ่า-2024.jpg", Killer Heat เด็ดปีกฆ่า (2024)
+https://main.24playerhd.com/newplaylist/675b8ce020b27516cd370181/675b8ce020b27516cd370181.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/Never-Let-Go-ผูกเป็น-หลุดตาย-2024.jpg",Never Let Go ผูกเป็น หลุดตาย (2024)
+https://main.24playerhd.com/newplaylist/1a1c42e7d4ce99281a7dfae7/1a1c42e7d4ce99281a7dfae7.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/Pilot-ต้าวนักบิน-จิ้นกันไหมจ๊ะ-2024.jpg",Pilot ต้าวนักบิน จิ้นกันไหมจ๊ะ (2024)
+https://main.24playerhd.com/newplaylist/d13301507423efda1a90c8d6/d13301507423efda1a90c8d6.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/สัปเหน่อ-Under-Accent-Taker-2024.jpg", สัปเหน่อ Under Accent Taker (2024)
+https://main.24playerhd.com/newplaylist/aa724d04d90c7bfc54ba2ec5/aa724d04d90c7bfc54ba2ec5.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/โคตรทีมรหัสลับ-จอห์นนี่-Code-Name-Johnny-2024.jpg",โคตรทีมรหัสลับ จอห์นนี่ Code Name Johnny (2024)
+https://main.24playerhd.com/newplaylist/be77a76beb38d22033836323/be77a76beb38d22033836323.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/มอร์ริสัน-Morrison-2024.jpg",มอร์ริสัน Morrison (2024)
+https://main.24playerhd.com/newplaylist/4b8ef3f24a457f028976ccad/4b8ef3f24a457f028976ccad.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/Sector-36-เซกเตอร์-36-2024.jpg",Sector 36 เซกเตอร์ 36 (2024)
+https://main.24playerhd.com/newplaylist/9feb0bc1510f635b484357fd/9feb0bc1510f635b484357fd.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/His-Three-Daughters-สามสาว-ลูกสาวพ่อ-2024.jpg",His Three Daughters สามสาว ลูกสาวพ่อ (2024)
+https://main.24playerhd.com/newplaylist/4c6518013d25210d6fb87675/4c6518013d25210d6fb87675.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/Grave-Torture-ทุบนรก-ศพกระดิก-2024.jpg",Grave Torture ทุบนรก ศพกระดิก (2024)
+https://main.24playerhd.com/newplaylist/1d860a33b4b7828dc95052ad/1d860a33b4b7828dc95052ad.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/Officer-Black-Belt-เจ้าหน้าที่สายดำ-2024.jpg",Officer Black Belt เจ้าหน้าที่สายดำ (2024)
+https://main.24playerhd.com/newplaylist/d3e0192fbcd88d7090a8e91a/d3e0192fbcd88d7090a8e91a.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/Uglies-อั๊กลี่-2024.jpg",Uglies อั๊กลี่ (2024)
+https://main.24playerhd.com/newplaylist/533e860ec4fe8fcc7a78d52c/533e860ec4fe8fcc7a78d52c.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/Oddity-หุ่นเชื่อมจิต-2024.jpg",Oddity หุ่นเชื่อมจิต (2024)
+https://main.24playerhd.com/newplaylist/2e038381ef4c34c3b8f3e43a/2e038381ef4c34c3b8f3e43a.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/Customs-Frontline-คนมหากาฬพิฆาตนรก-2024.jpg",Customs Frontline (2024) คนมหากาฬพิฆาตนรก
+https://main.24playerhd.com/newplaylist/9c5425e9d7cdab4c27e767e3/9c5425e9d7cdab4c27e767e3.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/04/Civil-War-2024-วิบัติสมรภูมิเมืองเดือด.jpg",Civil War (2024) วิบัติสมรภูมิเมืองเดือด
+https://main.24playerhd.com/newplaylist/07791e6395aefa90f7581d7c/07791e6395aefa90f7581d7c.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/The-Ministry-of-Ungentlemanly-Warfare-2024.jpg", The Ministry of Ungentlemanly Warfare (2024) แสบจารชนคนพลิกโลก
+https://main.24playerhd.com/newplaylist/109779e7d2e8fa11825ccd5e/109779e7d2e8fa11825ccd5e.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/หลานม่า-How-to-Make-Millions-Before-Grandma-Dies-2024.jpg",หลานม่า How to Make Millions Before Grandma Dies (2024)
+https://main.24playerhd.com/newplaylist/222da444705fd1cf1175d3f0/222da444705fd1cf1175d3f0.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/Boxer-นักชกสังเวียนดิบ-2024.jpg",Boxer นักชกสังเวียนดิบ (2024)
+https://main.24playerhd.com/newplaylist/f99c7e9e6f2cbcf90638b943/f99c7e9e6f2cbcf90638b943.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/Outlaw-เจ้าแม่-2024.jpg",Outlaw เจ้าแม่ (2024)
+https://main.24playerhd.com/newplaylist/2492527afd16cf717160e2ad/2492527afd16cf717160e2ad.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/Thelma-the-Unicorn-ยูนิคอร์นน้อยเทลม่า-2024.jpg",Thelma the Unicorn ยูนิคอร์นน้อยเทลม่า (2024)
+https://main.24playerhd.com/newplaylist/edc968c991bee195b8115189/edc968c991bee195b8115189.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/Blink-Twice-บลิงก์-ทไวซ์-ซิกอันตราย-2024.jpg",Blink Twice บลิงก์ ทไวซ์ ซิกอันตราย (2024)
+https://main.24playerhd.com/newplaylist/3fed3e927923a9773f34084b/3fed3e927923a9773f34084b.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/Nice-Girls-2024.jpg",Nice Girls (2024)
+https://main.24playerhd.com/newplaylist/b1bd5b511e46ae1509d71b08/b1bd5b511e46ae1509d71b08.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/Incoming-มือใหม่ไฮสกูล-2024.jpg", Incoming มือใหม่ไฮสกูล (2024)
+https://main.24playerhd.com/newplaylist/113fbe62869a458769b605db/113fbe62869a458769b605db.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/The-Crow-อีกาพญายม-2024.jpg",The Crow อีกาพญายม (2024)
+https://main.24playerhd.com/newplaylist/7695a768f4af4442a14b012f/7695a768f4af4442a14b012f.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/Rebel-Ridge-เรเบลริดจ์-ผ่าเมืองอยุติธรรม-2024.jpg", Rebel Ridge เรเบลริดจ์ ผ่าเมืองอยุติธรรม (2024)
+https://main.24playerhd.com/newplaylist/fa42b12851ac746b34e96279/fa42b12851ac746b34e96279.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/08/Trap-2024-แทร็ป-1.jpg",Trap (2024) แทร็ป
+https://main.24playerhd.com/newplaylist/11e270054dd49ee8e6f42d17/11e270054dd49ee8e6f42d17.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/Strange-Darling-รัก-ลวง-ฆ่า-2024.jpg", Strange Darling รัก ลวง ฆ่า (2024)
+https://main.24playerhd.com/newplaylist/df26755b80fbd903ec228ad1/df26755b80fbd903ec228ad1.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/Beetlejuice-Beetlejuice-บีเทิลจู๊ดส์-บีเทิลจู๊ดส์-ผีขี้จุ้ย-2.jpg",Beetlejuice Beetlejuice บีเทิลจู๊ดส์ บีเทิลจู๊ดส์ ผีขี้จุ้ย 2
+https://main.24playerhd.com/newplaylist/ec4b8c5ab23fea543200a597/ec4b8c5ab23fea543200a597.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/เธอฟอร์แคช-Love-You-to-Debt-2024.jpg", เธอฟอร์แคช Love You to Debt (2024)
+https://main.24playerhd.com/newplaylist/24476b90f41c9f34ffb82ef0/24476b90f41c9f34ffb82ef0.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/Sheriff-Narko-Integriti-มือปราบเจ้าพ่อเถื่อน-2024-.jpg",Sheriff: Narko Integriti มือปราบเจ้าพ่อเถื่อน (2024)
+https://main.24playerhd.com/newplaylist/06c628bff1b3251cbe02c566/06c628bff1b3251cbe02c566.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/08/Z.1-Twilight-of-the-Warriors-Walled-In-เมืองพญายม-ปิดบัญชียมบาล-2024.jpg",Twilight of the Warriors- Walled In (2024) เมืองพญายม ปิดบัญชียมบาล TR
+https://main.24playerhd.com/newplaylist/d54efa3e822a088a2961d83c/d54efa3e822a088a2961d83c.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/08/Arthur-the-King-อาเธอร์-จอมราชา-2024.jpg",Arthur the King (2024) อาเธอร์ จอมราชา
+https://main.24playerhd.com/newplaylist/e2c0f5748ab78e61ceb47a7a/e2c0f5748ab78e61ceb47a7a.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/08/Fly-Me-to-the-Moon-2024-ทะยานฟ้าสู่พื้นจันทร์-1.jpg", Fly Me to the Moon (2024) ทะยานฟ้าสู่พื้นจันทร์
+https://main.24playerhd.com/newplaylist/3796f16f3b1bd78cbd847a09/3796f16f3b1bd78cbd847a09.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/08/The-Union-2024.jpg",The Union (2024) เดอะ ยูเนี่ยน
+https://main.24playerhd.com/newplaylist/3b6046c367563f6a1e8d9ed9/3b6046c367563f6a1e8d9ed9.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/08/Jackpot-2024-แจ็คพ็อต-ลุ้น-รอด-รวย.jpg",Jackpot! (2024) แจ็คพ็อต ลุ้น รอด รวย!
+https://main.24playerhd.com/newplaylist/1a27b4ef4e19dd74400ec7b3/1a27b4ef4e19dd74400ec7b3.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/07/A-Quiet-Place-Day-One-2024-ดินแดนไร้เสียง-วันที่หนึ่ง-1.jpg",A Quiet Place Day One (2024) ดินแดนไร้เสียง วันที่หนึ่ง
+https://main.24playerhd.com/newplaylist/474a70c6477ebd436a3a5c6f/474a70c6477ebd436a3a5c6f.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/08/Borderlands-2024-บอร์เดอร์แลนดส์-แดนล้น-คนปล้นจักรวาล-1.jpg", Borderlands (2024) บอร์เดอร์แลนดส์ แดนล้น คนปล้นจักรวาล
+https://main.24playerhd.com/newplaylist/c43df236a46f7ab94f31577d/c43df236a46f7ab94f31577d.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/08/Inside-the-Mind-of-a-Dog-2024-อ่านใจสุนัข.jpg", Inside the Mind of a Dog (2024) อ่านใจสุนัข
+https://main.24playerhd.com/newplaylist/757e551de0ffd8374239eb37/757e551de0ffd8374239eb37.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/08/Mission-Cross-2024-ภารกิจลับพ่อบ้าน.jpg",Mission Cross (2024) ภารกิจลับพ่อบ้าน
+https://main.24playerhd.com/newplaylist/1632b9083748a0e71eb4d6a7/1632b9083748a0e71eb4d6a7.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/07/Deadpool-Wolverine-2024-เดดพูล-วูล์ฟเวอรีน-1.jpg",Deadpool & Wolverine (2024) เดดพูล & วูล์ฟเวอรีน
+https://main.24playerhd.com/newplaylist/2f41c01ce5601b8bd579b62a/2f41c01ce5601b8bd579b62a.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/07/Despicable-Me-4-2024-มิสเตอร์แสบ-ร้ายเกินพิกัด-4-1.jpg",Despicable Me 4 (2024) มิสเตอร์แสบ ร้ายเกินพิกัด 4
+https://main.24playerhd.com/newplaylist/c171dddc932e0022e5373151/c171dddc932e0022e5373151.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/08/Rebel-Moon-Part-Two-A-Directors-Cut-2024.jpg",Rebel Moon Part Two A Director’s Cut (2024)
+https://main.24playerhd.com/newplaylist/c826bc7000f674c32455d809/c826bc7000f674c32455d809.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/05/Kingdom-of-the-Planet-of-the-Apes-2024-อาณาจักรแห่งพิภพวานร.jpg",Kingdom of the Planet of the Apes (2024) อาณาจักรแห่งพิภพวานร
+https://main.24playerhd.com/newplaylist/5c9d0501259d4723b245734b/5c9d0501259d4723b245734b.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/08/Saving-Bikini-Bottom-The-Sandy-Cheeks-Movie-2024.jpg",Saving Bikini Bottom The Sandy Cheeks Movie (2024)
+https://main.24playerhd.com/newplaylist/708af05f09dd62b42394ef3a/708af05f09dd62b42394ef3a.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/07/The-Cursed-2024-เหมรฺย-1.jpg", The Cursed (2024) เหมรฺย
+https://main.24playerhd.com/newplaylist/dcc8921a64a9e1af57fbf3da/dcc8921a64a9e1af57fbf3da.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/07/My-Spy-The-Eternal-City-2024-พยัคฆ์ร้าย-สปายแสบ-คู่ป่วนตะลุยเมืองศักดิ์สิทธิ์-1.jpg",My Spy The Eternal City (2024) พยัคฆ์ร้าย สปายแสบ คู่ป่วนตะลุยเมืองศักดิ์สิทธิ์
+https://main.24playerhd.com/newplaylist/110bdcce7e8cdf9d9475e64a/110bdcce7e8cdf9d9475e64a.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/07/Wonderland-2024-วันเดอร์แลนด์.jpg",Wonderland (2024) วันเดอร์แลนด์
+https://main.24playerhd.com/newplaylist/bed4a42f112b0d99d2b7069e/bed4a42f112b0d99d2b7069e.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/07/Pee-Nak-4-2024-พี่นาค-4.jpg",Pee Nak 4 (2024) พี่นาค 4
+https://main.24playerhd.com/newplaylist/f3bda2c0377e30ff0e199fe6/f3bda2c0377e30ff0e199fe6.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/07/Space-Cadet-2024-สาวแสบซ่า-ท้าอวกาศ.jpg", Space Cadet (2024) สาวแสบซ่า ท้าอวกาศ
+https://main.24playerhd.com/newplaylist/f69f4dec77aa717799863194/f69f4dec77aa717799863194.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/07/Find-Me-Falling-2024-ล้มลุกแล้วเจอรัก-1.jpg",Find Me Falling (2024) ล้มลุกแล้วเจอรัก
+https://main.24playerhd.com/newplaylist/9c2b77d1d568f34e7596519e/9c2b77d1d568f34e7596519e.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/07/Blame-the-Game-2024-รักลุ้น-วุ่นเพราะเกม.jpg",Blame the Game (2024) รักลุ้น วุ่นเพราะเกม
+https://main.24playerhd.com/newplaylist/cb6147328bcced1577790380/cb6147328bcced1577790380.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/07/Tyler-Perrys-Divorce-in-the-Black-2024-รัก-ร้าง-ร้าว-เรืองราวของไทเลอร์-เพอร์รี.jpg",Tyler Perrys Divorce in the Black (2024) รัก ร้าง ร้าว เรืองราวของไทเลอร์ เพอร์รี
+https://main.24playerhd.com/newplaylist/17f46375d34813af44d8cf17/17f46375d34813af44d8cf17.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/05/The-Garfield-Movie-2024-เดอะ-การ์ฟิลด์-มูฟวี่-1.jpg", The Garfield Movie (2024) เดอะ การ์ฟิลด์ มูฟวี่
+https://main.24playerhd.com/newplaylist/aafee061134d6bce1fa38f01/aafee061134d6bce1fa38f01.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/07/Wild-Wild-Punjab-2024-ปัญจาบป่วน-มันส์-ฮา.jpg",Wild Wild Punjab (2024) ปัญจาบป่วน มันส์ ฮา
+https://main.24playerhd.com/newplaylist/a1b5240540920a006b4de60e/a1b5240540920a006b4de60e.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/07/Pattaya-Heat-2024-ปิดเมืองล่า.jpg",Pattaya Heat (2024) ปิดเมืองล่า
+https://main.24playerhd.com/newplaylist/ecbd4be28f175da133cfef80/ecbd4be28f175da133cfef80.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/07/Bhaje-Vaayu-Vegam-2024-เดิมพันอันตราย-1.jpg",Bhaje Vaayu Vegam (2024) เดิมพันอันตราย
+https://main.24playerhd.com/newplaylist/69f8d93e5b2e918eed46a72f/69f8d93e5b2e918eed46a72f.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/05/IF-2024-เพื่อนในจินตนาการ-1.jpg",IF (2024) เพื่อนในจินตนาการ
+https://main.24playerhd.com/newplaylist/85d2e886f7dec651487675bb/85d2e886f7dec651487675bb.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/03/Demon-Slayer-Kimetsu-no-Yaiba-To-the-Hashira-Training-2024-ปาฏิหาริย์แห่งสายสัมพันธ์-สู่การสั่งสอนของเสาหลัก.jpg",Demon Slayer Kimetsu no Yaiba To the Hashira Training (2024) ปาฏิหาริย์แห่งสายสัมพันธ์ สู่การสั่งสอนของเสาหลัก
+https://main.24playerhd.com/newplaylist/36186c8af74765773a42e37e/36186c8af74765773a42e37e.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/05/The-Fall-Guy-2024-สตันท์แมนคนจริง-1.jpg",The Fall Guy (2024) สตันท์แมนคนจริง
+https://main.24playerhd.com/newplaylist/202cb5f33cac38cdbcd18bc4/202cb5f33cac38cdbcd18bc4.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/06/Drawing-Closer-2024-วาดรัก.-จนกว่าจะหมดเวลา.jpg",Drawing Closer (2024) วาดรัก... จนกว่าจะหมดเวลา
+https://main.24playerhd.com/newplaylist/752ff1050ea7a5f969a0a380/752ff1050ea7a5f969a0a380.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/06/Haikyuu-The-Dumpster-Battle-2024-ไฮคิว-คู่ตบฟ้าประทาน-ตอน-ศึกที่กองขยะ-1.jpg",Haikyuu!! The Dumpster Battle (2024) ไฮคิว!! คู่ตบฟ้าประทาน ตอน ศึกที่กองขยะ
+https://main.24playerhd.com/newplaylist/a37956f4efbb08dcaf860dcf/a37956f4efbb08dcaf860dcf.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/06/A-Family-Affair-2024-เรื่อง-รัก-ในครอบครัว.jpg",A Family Affair (2024) เรื่อง (รัก) ในครอบครัว
+https://main.24playerhd.com/newplaylist/e89ce0e52479a90ea6717e35/e89ce0e52479a90ea6717e35.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/06/Drowing-Closer-2024-วาดรัก.จนกว่าจะหมดเวลา.jpg",Drowing Closer (2024) วาดรัก...จนกว่าจะหมดเวลา
+https://main.24playerhd.com/newplaylist/fd6e9fb53c09d692e66a4db1/fd6e9fb53c09d692e66a4db1.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/06/Maharaj-2024-มหาราช.jpg",Maharaj (2024) มหาราช
+https://main.24playerhd.com/newplaylist/75eb7bbc7b9daaad7b61f3d0/75eb7bbc7b9daaad7b61f3d0.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/06/Mallari-2024-มัลลารี-ตำนานเชือด-โลกสะท้าน.jpg",Mallari (2024) มัลลารี ตำนานเชือด โลกสะท้าน
+https://main.24playerhd.com/newplaylist/28daa41f36d12f4ff213e4ef/28daa41f36d12f4ff213e4ef.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/01/The-Beekeeper-2024-นรกเรียกพ่อ.jpg",The Beekeeper (2024) นรกเรียกพ่อ
+https://main.24playerhd.com/newplaylist/7fc607077bfede5fa60a0b64/7fc607077bfede5fa60a0b64.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/06/Inside-Out-2-2024-มหัศจรรย์อารมณ์อลเวง-2.jpg",Inside Out 2 (2024) มหัศจรรย์อารมณ์อลเวง 2
+https://main.24playerhd.com/newplaylist/6904556cefce727be869705e/6904556cefce727be869705e.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/06/Formed-Police-Unit-FPU-2024-หน่วยพยัคฆ์พิทักษ์ข้ามโลก.jpg", Formed Police Unit FPU (2024) หน่วยพยัคฆ์พิทักษ์ข้ามโลก
+https://main.24playerhd.com/newplaylist/6bd8e85f0a6c58f75bb0137b/6bd8e85f0a6c58f75bb0137b.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/06/Kleks-Academy-2024-โรงเรียนมายา-คุณเคล็กซ์.jpg",Kleks Academy (2024) โรงเรียนมายา คุณเคล็กซ์
+https://main.24playerhd.com/newplaylist/dda36d635955666e9db92afa/dda36d635955666e9db92afa.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/06/Ultraman-Rising-2024-อุลตร้าแมน-ผงาด-1.jpg",Ultraman Rising (2024) อุลตร้าแมน ผงาด
+https://main.24playerhd.com/newplaylist/9ac5301a3c6974578b5b0b05/9ac5301a3c6974578b5b0b05.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/06/Detective-Conan-vs-Kid-the-Phantom-Thief-2024-ยอดนักสืบจิ๋วโคนัน-vs-จอมโจรคิด.jpg",Detective Conan vs Kid the Phantom Thief (2024) ยอดนักสืบจิ๋วโคนัน vs จอมโจรคิด
+https://main.24playerhd.com/newplaylist/c0f415e124182dff9e23b7bc/c0f415e124182dff9e23b7bc.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/06/Mobile-Suit-Gundam-SEED-FREEDOM-2024-1.jpg", Mobile Suit Gundam SEED FREEDOM (2024)
+https://main.24playerhd.com/newplaylist/22ad4686a94239d5538e48cb/22ad4686a94239d5538e48cb.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/05/The-Strangers-Chapter-1-2024-เดอะ-สเตรนเจอร์ส-อำมหิตฆ่าไม่สน.jpg",The Strangers Chapter 1 (2024) เดอะ สเตรนเจอร์ส อำมหิตฆ่าไม่สน
+https://main.24playerhd.com/newplaylist/bde6004012933fee021a65c7/bde6004012933fee021a65c7.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/06/Baki-Hanma-VS-Kengan-Ashura-2024-ฮันมะ-บากิ-ปะทะ-กำปั้นอสูร-โทคะตะ.jpg",Baki Hanma VS Kengan Ashura (2024) ฮันมะ บากิ ปะทะ กำปั้นอสูร โทคะตะ
+https://main.24playerhd.com/newplaylist/921d6b66bd70543cc5cd018f/921d6b66bd70543cc5cd018f.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/06/Nelma-Kodama-2024-ราชินีเงินสกปรก.jpg",Nelma Kodama (2024) ราชินีเงินสกปรก
+https://main.24playerhd.com/newplaylist/88251e3c14c13048acf8f791/88251e3c14c13048acf8f791.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/06/The-Price-Of-Nonnys-Inheritance-2024-มรดกคุณยาย.jpg", The Price Of Nonny's Inheritance (2024) มรดกคุณยาย
+https://main.24playerhd.com/newplaylist/1c839b19756f2a67b5886d20/1c839b19756f2a67b5886d20.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/06/A-Part-of-You-2024-ส่วนหนึ่งของเธอ.jpg", A Part of You (2024) ส่วนหนึ่งของเธอ
+https://main.24playerhd.com/newplaylist/317b795765c2db71366e53d5/317b795765c2db71366e53d5.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/05/Die-Hart-2-Die-Harter-2024-ฮาร์ต-อึดเต็มคาราเบล.jpg",Die Hart 2 Die Harter (2024) ฮาร์ต อึดเต็มคาราเบล
+https://main.24playerhd.com/newplaylist/caf94d51a9c4b3b139d8f71d/caf94d51a9c4b3b139d8f71d.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/06/A-Part-of-You-2024-ส่วนหนึ่งของเธอ.jpg",A Part of You (2024) ส่วนหนึ่งของเธอ
+https://main.24playerhd.com/newplaylist/317b795765c2db71366e53d5/317b795765c2db71366e53d5.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/05/Die-Hart-2-Die-Harter-2024-ฮาร์ต-อึดเต็มคาราเบล.jpg",Die Hart 2 Die Harter (2024) ฮาร์ต อึดเต็มคาราเบล
+https://main.24playerhd.com/newplaylist/caf94d51a9c4b3b139d8f71d/caf94d51a9c4b3b139d8f71d.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/05/Bionic-2024-เหนือมนุษย์.jpg", Bionic (2024) เหนือมนุษย์
+https://main.24playerhd.com/newplaylist/56d5f138168a8178f782e4e7/56d5f138168a8178f782e4e7.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/05/Atlas-2024-ล่าข้ามจักรวาล-1.jpg",Atlas (2024) ล่าข้ามจักรวาล
+https://main.24playerhd.com/newplaylist/3fd66a144abb431c40eaec95/3fd66a144abb431c40eaec95.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/05/My-Oni-Girl-2024-มาย-โอนิ-เกิร์ล-1.jpg",My Oni Girl (2024) มาย โอนิ เกิร์ล
+https://main.24playerhd.com/newplaylist/e0cacd7e46f5722cc6707750/e0cacd7e46f5722cc6707750.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/03/Godzilla-x-Kong-The-New-Empire-2024-ก็อดซิลล่า-ปะทะ-คอง-2-อาณาจักรใหม่.jpg",Godzilla x Kong The New Empire (2024) ก็อดซิลล่า ปะทะ คอง 2 อาณาจักรใหม่
+https://main.24playerhd.com/newplaylist/16c7aea31ac96ecfd2fd7fba/16c7aea31ac96ecfd2fd7fba.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/05/Article-370-2024-มาตรา-370-1.jpg",Article 370 (2024) มาตรา 370
+https://main.24playerhd.com/newplaylist/23490e0f98edc321af7e5e37/23490e0f98edc321af7e5e37.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/04/Ghostbusters-5-Frozen-Empire-2024-โกสต์บัสเตอร์ส-มหันตภัยเมืองเยือกแข็ง.jpg",Ghostbusters 5 Frozen Empire (2024) โกสต์บัสเตอร์ส มหันตภัยเมืองเยือกแข็ง
+https://main.24playerhd.com/newplaylist/c50a8b619306a421c75580ae/c50a8b619306a421c75580ae.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/05/Mother-of-the-Bride-2024-แม่เจ้าสาว.jpg", Mother of the Bride (2024) แม่เจ้าสาว
+https://main.24playerhd.com/newplaylist/c46299a01e83d0ab11e5f69c/c46299a01e83d0ab11e5f69c.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/05/Unfrosted-2024-ศึกป๊อปทาร์ต.jpg",Unfrosted (2024) ศึกป๊อปทาร์ต
+https://main.24playerhd.com/newplaylist/0ed3cf2a8e795bf648eda9d9/0ed3cf2a8e795bf648eda9d9.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/05/Deaw-Special-Super-Soft-Power-2024-เดี่ยวสเปเชียล-ซูเปอร์-ซอฟต์-พาวเวอร์-1.jpg",Deaw Special Super Soft Power (2024) เดี่ยวสเปเชียล ซูเปอร์ ซอฟต์ พาวเวอร์
+https://main.24playerhd.com/newplaylist/4f505d9fad9c97e211e0bf56/4f505d9fad9c97e211e0bf56.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/05/Miss-You-2024-จากวันนั้น-ถึงวันนี้-ยังคิดถึงเธอ-1.jpg",Miss You (2024) จากวันนั้น ถึงวันนี้
+https://main.24playerhd.com/newplaylist/78f093d4fc527065a5ee0ce8/78f093d4fc527065a5ee0ce8.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/04/New-Dragon-Gate-Inn-2024-เดชคัมภีร์แดนพยัคฆ์.jpg",New Dragon Gate Inn (2024) เดชคัมภีร์แดนพยัคฆ์
+https://main.24playerhd.com/newplaylist/63e45524f1ff54a5713d33c7/63e45524f1ff54a5713d33c7.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/04/The-Package-2024-พัสดุฝ่าแดนมรณะ.jpg",The Package (2024) พัสดุฝ่าแดนมรณะ
+https://main.24playerhd.com/newplaylist/7d371c2891fa80050f06cca2/7d371c2891fa80050f06cca2.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/04/City-Hunter-2024-ซิตี้-ฮันเตอร์-1.jpg",City Hunter (2024) ซิตี้ ฮันเตอร์
+https://main.24playerhd.com/newplaylist/e3ad9f898e1662e4960ce065/e3ad9f898e1662e4960ce065.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/03/Dune-Part-Two-2024.jpg",Dune Part Two (2024)
+https://main.24playerhd.com/newplaylist/5ebafef55accbde8dd4940e0/5ebafef55accbde8dd4940e0.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/03/Dune-Part-Two-2024.jpg",Dune Part Two (2024)
+https://main.24playerhd.com/newplaylist/5ebafef55accbde8dd4940e0/5ebafef55accbde8dd4940e0.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/04/A-Journey-2024-เดินทางไกล-เท่าใจฝัน.jpg",A Journey (2024) เดินทางไกล เท่าใจฝัน
+https://main.24playerhd.com/newplaylist/dffb29dd405b9e93857b6bb7/dffb29dd405b9e93857b6bb7.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/04/Stolen-2024-พราก.jpg",Stolen (2024) พราก
+https://main.24playerhd.com/newplaylist/85a0d945267ee91230cfb4fc/85a0d945267ee91230cfb4fc.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/04/Swords-Drawn-2024-ตำนานสู่ซาน-ยอดกระบี่หวนคืน.jpg",Swords Drawn (2024) ตำนานสู่ซาน ยอดกระบี่หวนคืน
+https://main.24playerhd.com/newplaylist/96c247899fc77c6ed58a5bdc/96c247899fc77c6ed58a5bdc.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/04/Strawberry-Shortcakes-Spring-Spectacular-2024.jpg",Strawberry Shortcake's Spring Spectacular (2024)
+https://main.24playerhd.com/newplaylist/c45d34574638c45fbcd116fc/c45d34574638c45fbcd116fc.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/04/Parasyte-The-Grey-2024-ปรสิต-เดอะ-เกรย์.jpg",Parasyte The Grey (2024) ปรสิต เดอะ เกรย์
+https://main.24playerhd.com/newplaylist/86ffde3ab84fa36a9b5d4d23/86ffde3ab84fa36a9b5d4d23.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/04/Scoop-2024-สกู๊ปสะเทือนโลก.jpg", Scoop (2024) สกู๊ปสะเทือนโลก
+https://main.24playerhd.com/newplaylist/73b349646de2e63196b247d5/73b349646de2e63196b247d5.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/04/The-Tearsmith-2024-เจ้าแห่งน้ำตา.jpg",The Tearsmith (2024) เจ้าแห่งน้ำตา
+https://main.24playerhd.com/newplaylist/22f972671df2e8de5abc3b3d/22f972671df2e8de5abc3b3d.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/03/The-Wages-of-Fear-2024.jpg",The Wages of Fear (2024)
+https://main.24playerhd.com/newplaylist/5855008c70a2b60224d6e211/5855008c70a2b60224d6e211.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/03/The-Beautiful-Game-2024-เดอะบิ้วตี้ฟูล-เกม.jpg", The Beautiful Game (2024) เดอะบิ้วตี้ฟูล เกม
+https://main.24playerhd.com/newplaylist/1d259c847823fe0bc2a9ec7f/1d259c847823fe0bc2a9ec7f.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/03/Heart-of-the-Hunter-2024-หัวใจนักล่า.jpg",Heart of the Hunter (2024) หัวใจนักล่า
+https://main.24playerhd.com/newplaylist/f4054a95d6eed8a0768c19d2/f4054a95d6eed8a0768c19d2.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/03/The-Believers-2024-สาธุ.jpg",The Believers (2024) สาธุ
+https://main.24playerhd.com/newplaylist/b9c3ae9b01e1b7038fd10158/b9c3ae9b01e1b7038fd10158.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/03/Rest-In-Peace-2024-สู่สุคติ.jpg",Rest In Peace (2024) สู่สุคติ
+https://main.24playerhd.com/newplaylist/b34898190bac6fc9400c8a48/b34898190bac6fc9400c8a48.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/03/No-Pressure-2024-รักไม่กดดัน.jpg",No Pressure (2024) รักไม่กดดัน
+https://main.24playerhd.com/newplaylist/c8eaa7efa06473988401fe80/c8eaa7efa06473988401fe80.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/03/Rob-N-Roll-2024-มหากาพย์ปล้นจารชน.jpg", Rob N Roll (2024) มหากาพย์ปล้นจารชน
+https://main.24playerhd.com/newplaylist/e1758ea5bfbf71e84efd5c3c/e1758ea5bfbf71e84efd5c3c.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/03/The-Casagrandes-Movie-2024-เดอะ-คาซากรานเดส์-มูฟวี่.jpg",The Casagrandes Movie (2024) เดอะ คาซากรานเดส์ มูฟวี่
+https://main.24playerhd.com/newplaylist/923fad2900aa105fc77a4247/923fad2900aa105fc77a4247.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/03/Shirley-2024-เชอร์ลีย์-หญิงแกร่งสภาเหล็ก.jpg",Shirley (2024) เชอร์ลีย์ หญิงแกร่งสภาเหล็ก
+https://main.24playerhd.com/newplaylist/6f337db3c7a0e4b0cd0bd01c/6f337db3c7a0e4b0cd0bd01c.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/03/Road-House-2024-คนเดือดบวกเมืองเถื่อน.jpg",Road House (2024) คนเดือดบวกเมืองเถื่อน
+https://main.24playerhd.com/newplaylist/c8e04a91695b8bf6c314bd77/c8e04a91695b8bf6c314bd77.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/03/No-Way-Up-2024-งาบคลั่งไฟลต์.jpg",No Way Up (2024) งาบคลั่งไฟลต์
+https://main.24playerhd.com/newplaylist/4bd81001b962e3810b97de4d/4bd81001b962e3810b97de4d.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/03/Dog-Days-2024-ด็อกเดย์-สี่ขาว้าวุ่น.jpg",Dog Days (2024) ด็อกเดย์ สี่ขาว้าวุ่น
+https://main.24playerhd.com/newplaylist/0164d5e003331fb3c029b748/0164d5e003331fb3c029b748.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/03/Barbie-and-Stacie-to-the-Rescue-2024.jpg",Barbie and Stacie to the Rescue (2024)
+https://main.24playerhd.com/newplaylist/8155d49501387e62c38aa36e/8155d49501387e62c38aa36e.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/03/Irish-Wish-2024-ฝันรักไอร์แลนด์.jpg",Irish Wish (2024) ฝันรักไอร์แลนด์
+https://main.24playerhd.com/newplaylist/b5e1304b7c51060abf1aef17/b5e1304b7c51060abf1aef17.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/03/Damsel-2024-ดรุณีผู้พิชิต-2.jpg",Damsel (2024) ดรุณีผู้พิชิต
+https://main.24playerhd.com/newplaylist/f3e2f8db268cdb12f5d1bf0b/f3e2f8db268cdb12f5d1bf0b.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/03/Ricky-Stanicky-2024-ริคกี้-สแตนนิคกี้-เพื่อนซี้กำมะลอ-1.jpg",Ricky Stanicky (2024) ริคกี้ สแตนนิคกี้ เพื่อนซี้กำมะลอ
+https://main.24playerhd.com/newplaylist/1e621ad6868639ce23e49630/1e621ad6868639ce23e49630.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/03/Spaceman-2024-สเปซแมน.jpg",Spaceman (2024) สเปซแมน
+https://main.24playerhd.com/newplaylist/32d0c82ec4bfa421c63dd109/32d0c82ec4bfa421c63dd109.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/03/My-Name-Is-Loh-Kiwan-2024-ผมชื่อโรกีวาน.jpg", My Name Is Loh Kiwan (2024) ผมชื่อโรกีวาน
+https://main.24playerhd.com/newplaylist/b09cb775781425d6017221aa/b09cb775781425d6017221aa.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/02/Mea-Culpa-2024-ทนายคดีฆ่า.jpg",Mea Culpa (2024) ทนายคดีฆ่า
+https://main.24playerhd.com/newplaylist/6380ce45ca48f82e6365fcd8/6380ce45ca48f82e6365fcd8.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/02/Through-My-Window-3-Looking-at-You-2024-รักผ่านหน้าต่าง-ดวงตาจ้องมองเธอ.jpg",Through My Window 3 Looking at You (2024) รักผ่านหน้าต่าง ดวงตาจ้องมองเธอ
+https://main.24playerhd.com/newplaylist/7470c6001bfbe3effd1c79f3/7470c6001bfbe3effd1c79f3.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/02/Avatar-The-Last-Airbender-2024-เณรน้อยเจ้าอภินิหาร.jpg",Avatar The Last Airbender (2024) เณรน้อยเจ้าอภินิหาร
+https://main.24playerhd.com/newplaylist/74e01ef1cf7c5834caba8b28/74e01ef1cf7c5834caba8b28.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/02/Players-2024-เลิกเล่นมาเริ่มรัก.jpg",Players (2024) เลิกเล่นมาเริ่มรัก
+https://main.24playerhd.com/newplaylist/580c44a3dae37eab1ab73bb6/580c44a3dae37eab1ab73bb6.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/02/The-Heartbreak-Agency-2024-คลินิกบำบัดไข้ใจ.jpg",The Heartbreak Agency (2024) คลินิกบำบัดไข้ใจ
+https://main.24playerhd.com/newplaylist/2913fc62a25ac43e2eae1bcd/2913fc62a25ac43e2eae1bcd.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/02/Orion-and-the-Dark-2024-โอไรออนท่องแดนมหัศจรรย์รัตติกาล.jpg",Orion and the Dark (2024) โอไรออนท่องแดนมหัศจรรย์รัตติกาล
+https://main.24playerhd.com/newplaylist/9c3855b462eaa64e3e88e112/9c3855b462eaa64e3e88e112.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/02/E-Sarn-Tootsie-Part-2-2024-อีสานตุ๊ดซี่-ภาค-2.jpg",E-Sarn Tootsie Part 2 (2024) อีสานตุ๊ดซี่ ภาค 2
+https://main.24playerhd.com/newplaylist/55617f7194ac32b42fb1d9c3/55617f7194ac32b42fb1d9c3.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/01/E-Sarn-Tootsie-Part-1-2024-อีสานตุ๊ดซี่-ภาค-1.jpg",E-Sarn Tootsie Part 1 (2024) อีสานตุ๊ดซี่ ภาค 1
+https://main.24playerhd.com/newplaylist/1ecc56770c6b5e661ef189f3/1ecc56770c6b5e661ef189f3.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/01/Sit-Down-with-Stand-Up-Udom-Taephanich-2024-ซิทดาวน์-วิท-สแตนด์อัพ-อุดม-แต้พานิช.jpg",Sit Down with Stand Up Udom Taephanich (2024) ซิทดาวน์ วิท สแตนด์อัพ อุดม แต้พานิช
+https://main.24playerhd.com/newplaylist/73167f547dfe1c54543d205e/73167f547dfe1c54543d205e.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/01/Badland-Hunters-2024-นักล่ากลางนรก.jpg",Badland Hunters (2024) นักล่ากลางนรก
+https://main.24playerhd.com/newplaylist/0477f922928e34d2458802c5/0477f922928e34d2458802c5.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/01/60-Minuten-2024-60-นาที.jpg",60 Minuten (2024) 60 นาที
+https://main.24playerhd.com/newplaylist/dd44f2dd0267794d9bc7aa5c/dd44f2dd0267794d9bc7aa5c.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/01/The-Kitchen-2024-เดอะ-คิทเช่น.jpg",The Kitchen (2024) เดอะ คิทเช่น
+https://main.24playerhd.com/newplaylist/2175a99188ca20f5e07a2320/2175a99188ca20f5e07a2320.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/01/From-the-Ashes-2024-จากเถ้าถ่าน.jpg",From the Ashes (2024) จากเถ้าถ่าน
+https://main.24playerhd.com/newplaylist/671fd2f8646be38b88aa3eb4/671fd2f8646be38b88aa3eb4.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/01/Maboroshi-2024-มาโบโรชิ.jpg",Maboroshi (2024) มาโบโรชิ
+https://main.24playerhd.com/newplaylist/9c4aa56535c1f286a3b9d352/9c4aa56535c1f286a3b9d352.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/01/Lift-2024-ปล้นเหนือเมฆ.jpg",Lift (2024) ปล้นเหนือเมฆ
+https://main.24playerhd.com/newplaylist/703549a03defe783ac4fe370/703549a03defe783ac4fe370.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/01/Society-of-the-Snow-2024-หิมะโหดคนทรหด.jpg",Society of the Snow (2024) หิมะโหดคนทรหด
+https://main.24playerhd.com/newplaylist/c8ed81282223f5aec4cf2e9e/c8ed81282223f5aec4cf2e9e.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/01/Society-of-the-Snow-2024-หิมะโหดคนทรหด.jpg", Society of the Snow (2024) หิมะโหดคนทรหด
+https://main.24playerhd.com/newplaylist/c8ed81282223f5aec4cf2e9e/c8ed81282223f5aec4cf2e9e.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/Strange-Darling-รัก-ลวง-ฆ่า-2024.jpg", Strange Darling รัก ลวง ฆ่า (2024)
+https://main.24playerhd.com/newplaylist/df26755b80fbd903ec228ad1/df26755b80fbd903ec228ad1.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/02/Mantra-Warrior-The-Legend-of-the-Eight-Moons-2024-นักรบมนตรา-ตำนานแปดดวงจันทร์.jpg", Mantra Warrior The Legend of the Eight Moons (2024) นักรบมนตรา ตำนานแปดดวงจันทร์
+https://main.24playerhd.com/newplaylist/b5ddea6f131bc716037fdf35/b5ddea6f131bc716037fdf35.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/01/The-Kitchen-2024-เดอะ-คิทเช่น.jpg", The Kitchen (2024) เดอะ คิทเช่น
+https://main.24playerhd.com/newplaylist/2175a99188ca20f5e07a2320/2175a99188ca20f5e07a2320.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/01/Maboroshi-2024-มาโบโรชิ.jpg", Maboroshi (2024) มาโบโรชิ
+https://main.24playerhd.com/newplaylist/9c4aa56535c1f286a3b9d352/9c4aa56535c1f286a3b9d352.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/05/Boy-Kills-World-2024-แค้นนี้ที่รอคิวล์-1.jpg", Boy Kills World (2024) แค้นนี้ที่รอคิวล์
+https://main.24playerhd.com/newplaylist/43f3968ffba0d69bc900931f/43f3968ffba0d69bc900931f.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/08/Rebel-Moon-Part-One-A-Directors-Cut-2024.jpg", Rebel Moon Part One A Director’s Cut (2024)
+https://main.24playerhd.com/newplaylist/d1ccc983190d22ef8ffa96c3/d1ccc983190d22ef8ffa96c3.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/06/Baby-Sharks-Big-Movie-2024.jpg", Baby Shark's Big Movie (2024)
+https://main.24playerhd.com/newplaylist/7798cab0968732d9f5070bbd/7798cab0968732d9f5070bbd.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/06/Kleks-Academy-2024-โรงเรียนมายา-คุณเคล็กซ์.jpg", Kleks Academy (2024) โรงเรียนมายา คุณเคล็กซ์
+https://main.24playerhd.com/newplaylist/dda36d635955666e9db92afa/dda36d635955666e9db92afa.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/09/His-Three-Daughters-สามสาว-ลูกสาวพ่อ-2024.jpg", His Three Daughters สามสาว ลูกสาวพ่อ (2024)
+https://main.24playerhd.com/newplaylist/4c6518013d25210d6fb87675/4c6518013d25210d6fb87675.m3u8
+#EXTINF:-1  group-title="🎬 ดูหนังใหม่ 2024" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2024/06/Mallari-2024-มัลลารี-ตำนานเชือด-โลกสะท้าน.jpg", Mallari (2024) มัลลารี ตำนานเชือด โลกสะท้าน
+https://main.24playerhd.com/newplaylist/28daa41f36d12f4ff213e4ef/28daa41f36d12f4ff213e4ef.m3u8
+
+
+
+
 
 
 ############ movie tv###########################
+
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/hbo.m3u8
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png",HBOHits
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/hbohits.m3u8
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png",HBOSignature
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/hbosignature.m3u8
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png",HBOFamily
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/hbofamily.m3u8
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png",trueTHAIFILM
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/truethaifilm.m3u8
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png",trueFILM1
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilm1.m3u8
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png",trueMOVIEHITS
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/truemoviehits1.m3u8
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png",trueFILMASIA
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilmasia.m3u8
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png",trueSeries
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueseries.m3u8
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png",trueASIANMORE
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueasianmore.m3u8
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png",Cinemax
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/cinemax.m3u8
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png",US HBO
+http://1tv41.icu:8080/30796360/97446561/9264
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png",US HBO 2 (A)
+http://1tv41.icu:8080/30796360/97446561/9816
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://png.pngitem.com/pimgs/s/186-1863786_hbo-comedy-logo-hbo-comedy-channel-logo-hd.png",US HBO Comedy (East)
+http://1tv41.icu:8080/30796360/97446561/17773
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",US HBO Family (East)
+http://1tv41.icu:8080/30796360/97446561/17772
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://logodix.com/logo/1111252.png",US HBO SIGNATURE (East)
+http://1tv41.icu:8080/30796360/97446561/9266
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png",US HBO Zone (East)
+http://1tv41.icu:8080/30796360/97446561/9265
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://dl.dropbox.com/scl/fi/e5xherd4srouybp676xwv/nung.png?rlkey=6lnckppxir36l9yi92ksrmshl&st=7zapwav1&dl=0",Movies1
+http://49.0.64.96:8007/IZAA
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://dl.dropbox.com/scl/fi/e5xherd4srouybp676xwv/nung.png?rlkey=6lnckppxir36l9yi92ksrmshl&st=7zapwav1&dl=0",Movies2
+http://49.0.64.96:8007/H-Channel
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://dl.dropbox.com/scl/fi/e5xherd4srouybp676xwv/nung.png?rlkey=6lnckppxir36l9yi92ksrmshl&st=7zapwav1&dl=0",Movies3
+http://49.0.64.96:8007/Cartoonumi
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://dl.dropbox.com/scl/fi/e5xherd4srouybp676xwv/nung.png?rlkey=6lnckppxir36l9yi92ksrmshl&st=7zapwav1&dl=0",Series1
+http://49.0.64.96:8007/PING
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://dl.dropbox.com/scl/fi/e5xherd4srouybp676xwv/nung.png?rlkey=6lnckppxir36l9yi92ksrmshl&st=7zapwav1&dl=0",Series2
+http://49.0.64.96:8007/SERIES
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://i.ibb.co/wFSYqgpG/logo-fuckseries.png",FuckIDSeries
+http://49.0.64.96:8007/SERIES
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://i.ibb.co/qYGcDkdc/logo-fuck-toon.png",FuckIDTOON
+http://49.0.64.96:8007/Cartoonumi
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://i.ibb.co/nqWvLRYF/logo-fuckmovie.png",FuckIDMovie
+http://49.0.64.96:8007/PING
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT19ub-DTS73CFIjvSjIwRTIKYdhqwAWlk1XoEClNpRLe-moPNNl1zgVLKi&s=10",ASIA SERIES
+#EXTVLCOPT:http-referrer=https://livesod365.com/
+http://49.0.64.96:8007/SERIES
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThuMYAveaoyGctdvwldsn_dMtBsoiYvgced8E1vaEWqpDxxo5bLBa5FgY&s=10",universal
+#EXTVLCOPT:http-referrer=https://livesod365.com/
+http://49.0.64.96:8007/H-Channel
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaGB2pA7hcsQ6BaWYgQKeist-p0-lqGid26g&usqp=CAU",Movie
+#EXTVLCOPT:http-referrer=https://livesod365.com/
+https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://mono29.com/app/themes/mono29-2017/assets/images/tumb_mono29.png",Mono29
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",true4U
+#EXTVLCOPT:http-referrer=https://iptv36.vercel.app/
+https://iptv36.vercel.app/api/true.m3u8?channel=true4u
+#EXTINF:-1 tvg-name="Channel8thailand" tvg-logo="https://lh3.googleusercontent.com/proxy/F8j5vaSEZFxgS0uTQl14JpNq0it64JmH9JmVq9yy8TA2hqPWIkngxc1rod8or-timxdb6g8SEzk3hyF8xbvMfUVYhncIqL3m5V_QRUAi04M-xfkiKjJUgHLcefodoRTIDrx350_WRq2pKqX8hwHcJmgkntiyNU5GZWv-cHvObw" group-title="🎞️ หนังภาพยนตร์",Channel8thailand
+https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w238145399.m3u8
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://i.imgur.com/Meew6eX.png",Rakuten Top Movies UK (1080p)
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://i.imgur.com/Meew6eX.png",Rakuten TV Action Movies UK (1080p)
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://i.imgur.com/Meew6eX.png",Rakuten TV Comedy Movies UK (1080p)
+https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://i.imgur.com/Meew6eX.png",Rakuten TV Drama Movies UK (1080p)
+https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="🎞️ หนังภาพยนตร์", HBO HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
@@ -902,17 +2003,7 @@ http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776086&exte
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://raw.githubusercontent.com/Nebiela/live-new2/refs/heads/main/hbo.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="🎞️ หนังภาพยนตร์", HBO HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://raw.githubusercontent.com/Nebiela/live-new2/refs/heads/main/hbo.m3u8
-https://live.tv247us.com/tv247/hbo.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="🎞️ หนังภาพยนตร์", HBO HD สำรอง
-#KODIPROP:inputstream=adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8e66726c1191403588f95c0757613ff1:67c26ba7f9b84024944808e01bbe6f47
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="🎞️ หนังภาพยนตร์" , Cinemax 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
@@ -1081,12 +2172,90 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
 
-###########tvKid######################
+#########################################################################
+EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/101.png",Asian Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/109.png",MONO PLUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/zeenung.png", Zee Nung
+https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",Channel 8 THAILAND
+https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://i.imgur.com/pnbzE2V.png",Rama Channel
+https://ramach.ddns.net/live/ramalive/index.m3u8
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://cablechannel37.net/assets/images/main/logos/cable_channel_37.png",Cable Channel 37
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/baanbaantv.png", บ้านบ้านทีวี
+https://vdo.plathong.net/live8794/live8794/chunklist_.m3u8
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์"  tvg-logo="https://i.postimg.cc/MGHM4rTj/IMG-2560.png", ลั่นทุ่งทีวี
+https://live-us1.thaimomo.com/live-as/chlantung-2/chunklist_w1965870389.m3u8
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/Siamnews.png",Siamnews
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/Thainews2025.png",Thainews
+https://live.thaitvstream.com/play/thainews/index.m3u8
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/TVMass.png",มวลชนทีวี
+https://live2.thaitvstream.com/play/mounchontv/index.m3u8
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/universal.png",Universal
+http://49.0.64.96:8007/H-Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="🎞️ หนังภาพยนตร์", trueTHAIFILM
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/truethaifilm1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="🎞️ หนังภาพยนตร์", trueFILM1
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilm1-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="🎞️ หนังภาพยนตร์", trueFILM2
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilm2.m3u8
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/zaxacaasada/logotv/raw/refs/heads/main/film2.m3u8
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilm2-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="🎞️ หนังภาพยนตร์", trueMOVIEHITS
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/truemoviehits1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="🎞️ หนังภาพยนตร์", trueFILMASIA
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilmasia1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="🎞️ หนังภาพยนตร์", trueSeries
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueseries1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png" group-title="🎞️ หนังภาพยนตร์", trueASIANMORE
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueasianmore1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png" group-title="🎞️ หนังภาพยนตร์", CCM
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueccm1.m3u8
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/mvlao.png",MV LAO TV
+https://edge2a.v2h-cdn.com/live_mvhub/mvlao.stream/playlist.m3u8
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/mvthai.png",MVTV ท้องถิ่นไทย
+https://edge2a.v2h-cdn.com/live_mvhub/mvtv75.stream/playlist.m3u8
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/thaiban.png", ไทบ้านทีวี
+https://edge2a.v2h-cdn.com/live_mvhub/thaiban.stream//playlist.m3u8
+
+###########################################
 
 
 
 ###########tv การ์ตูนทีวี######################
 
+#EXTINF:-1 group-title="👨‍👩‍👧  ‍การ์ตูนทีวี" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
+#EXTINF:-1 group-title="👨‍👩‍👧  ‍การ์ตูนทีวี" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png",Nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
+#EXTINF:-1 group-title="👨‍👩‍👧  ‍การ์ตูนทีวี" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",Nick Jr
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
+#EXTINF:-1 group-title="👨‍👩‍👧  ‍การ์ตูนทีวี" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/Boom.png",Boomerang
+https://edge2a.v2h-cdn.com/boom-boom/boomerang.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Club.th" tvg-name="Cartoon Club" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/a7bc88190919625.Y3JvcCw4MTAsNjMzLDAsMA.png" group-title="👨‍👩‍👧  ‍การ์ตูนทีวี",Zoomoon
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
@@ -1180,49 +2349,49 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 
 #######################การศึกษา###########################################
 
-#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/136_y_tPkVabFhc7iUGQdmlEDC5IxvJZj4326M.png" group-title="การศึกษา DLTV",DLTV1
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/136_y_tPkVabFhc7iUGQdmlEDC5IxvJZj4326M.png" group-title="👨‍👩‍👧การศึกษา DLTV",DLTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv01.m3u8
-#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/137_y_yQOMjhFVupi8I1oal5TScnbkfAYtJC2v.png" group-title="การศึกษา DLTV",DLTV2
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/137_y_yQOMjhFVupi8I1oal5TScnbkfAYtJC2v.png" group-title="👨‍👩‍👧การศึกษา DLTV",DLTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv02.m3u8
-#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/138_y_NrPWRcyIBzbd5kJ3n8MqHDOmoVpA19fS.png" group-title="การศึกษา DLTV",DLTV3
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/138_y_NrPWRcyIBzbd5kJ3n8MqHDOmoVpA19fS.png" group-title="👨‍👩‍👧การศึกษา DLTV",DLTV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv03.m3u8
-#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/139_y_gx6RdEWuPqjBnAwoCI2mrltX5vJU4bDO.png" group-title="การศึกษา DLTV",DLTV4
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/139_y_gx6RdEWuPqjBnAwoCI2mrltX5vJU4bDO.png" group-title="👨‍👩‍👧การศึกษา DLTV",DLTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv04.m3u8
-#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/140_y_0NYqGlHdDfQeZFoSUcMWsx1rtOyTXb78.png" group-title="การศึกษา DLTV",DLTV5
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/140_y_0NYqGlHdDfQeZFoSUcMWsx1rtOyTXb78.png" group-title="👨‍👩‍👧การศึกษา DLTV",DLTV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv05.m3u8
-#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/141_y_gIp8YiEP6MQsdeb9hjKcBFmUHVw1kNxy.png" group-title="การศึกษา DLTV",DLTV6
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/141_y_gIp8YiEP6MQsdeb9hjKcBFmUHVw1kNxy.png" group-title="👨‍👩‍👧การศึกษา DLTV",DLTV6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv06.m3u8
-#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/142_y_U53zK2mOiFQ9xsCMS7AJrvTtoEf6dpIc.png" group-title="การศึกษา DLTV",DLTV7
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/142_y_U53zK2mOiFQ9xsCMS7AJrvTtoEf6dpIc.png" group-title="👨‍👩‍👧การศึกษา DLTV",DLTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv07.m3u8
-#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/143_y_k4YNqBSgRW1OndxQuU6Pac0CMJVKIf57.png" group-title="การศึกษา DLTV",DLTV8
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/143_y_k4YNqBSgRW1OndxQuU6Pac0CMJVKIf57.png" group-title="👨‍👩‍👧การศึกษา DLTV",DLTV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv08.m3u8
-#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/144_y_9yo8mDwnI5OLgCHKvfsZ42BMXTzEbrSe.png" group-title="การศึกษา DLTV",DLTV9
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/144_y_9yo8mDwnI5OLgCHKvfsZ42BMXTzEbrSe.png" group-title="👨‍👩‍👧การศึกษา DLTV",DLTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv09.m3u8
-#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/145_y_9Fkli2DoLIP0EX56AHW74MhquQKfng1a.png" group-title="การศึกษา DLTV",DLTV10
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/145_y_9Fkli2DoLIP0EX56AHW74MhquQKfng1a.png" group-title="👨‍👩‍👧การศึกษา DLTV",DLTV10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv10.m3u8
-#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/146_y_5LVm0hDdr2N19IOlU3MAtqscKSk6xgZe.png" group-title="การศึกษา DLTV",DLTV11
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/146_y_5LVm0hDdr2N19IOlU3MAtqscKSk6xgZe.png" group-title="👨‍👩‍👧การศึกษา DLTV",DLTV11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv11.m3u8
-#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/147_y_Uel5LZmKGoutv2PJiFIx60jayQbpnzqT.png" group-title="การศึกษา DLTV",DLTV12
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/147_y_Uel5LZmKGoutv2PJiFIx60jayQbpnzqT.png" group-title="👨‍👩‍👧การศึกษา DLTV",DLTV12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv12.m3u8
-#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/148_y_23K7iaWFMTnyxjfH5NIhUpCgZc8SB4s9.png" group-title="การศึกษา DLTV",DLTV13
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/148_y_23K7iaWFMTnyxjfH5NIhUpCgZc8SB4s9.png" group-title="👨‍👩‍👧การศึกษา DLTV",DLTV13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv13.m3u8
-#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/149_y_EzhGev4MFkQUOR08CdZisfP5Lnw9Jx6A.png" group-title="การศึกษา DLTV",DLTV14
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/149_y_EzhGev4MFkQUOR08CdZisfP5Lnw9Jx6A.png" group-title="👨‍👩‍👧การศึกษา DLTV",DLTV14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv14.m3u8
-#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/150_y_eUWs21cyV38ARS0OZmtgILodzKiJqfaD.png" group-title="การศึกษา DLTV",DLTV15
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/150_y_eUWs21cyV38ARS0OZmtgILodzKiJqfaD.png" group-title="👨‍👩‍👧การศึกษา DLTV",DLTV15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv15.m3u8
 
@@ -1398,537 +2567,6 @@ https://ezycdn.stream/playlist-2s21ouvb-master.m3u8
 
 #EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://xn--l3cg7a8a0cwa3f.cc/wp-content/uploads/2026/03/xnxx-280-500x281.webp",Z-Z 39208
 https://ezycdn.stream/playlist-3osh7ro9-master.m3u8
-
-
-
-
-
-M3U
-#EXTINF:-1 group-title="" tvg-logo="",Redlight HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/242/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Private TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/243/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Hustler HD Europe
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/244/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Dorcel TV HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/245/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Playboy
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/527/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Barely legal
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/871/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",BRAZZERS TV Europe 2
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/872/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Pink'o TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/874/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Sexto Senso
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/875/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",PRIVE
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/877/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Dorcel TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/878/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Brazzers TV Europe Россия
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/910/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Candy
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/923/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Blue Hustler
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/1064/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Penthouse Passion HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/1073/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",FrenchLover
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/2160/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",O-la-la
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/2161/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Vivid Red HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/2162/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Exxxotica HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/2397/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",XXL
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/5009/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Penthouse Passion
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/5010/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Penthouse Gold HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/5011/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Penthouse Quickies 1300k
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/5012/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Penthouse Quickies HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/5013/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Extasy 4K
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/5014/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Eroxxx HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/5015/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",A3 Bikini
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6165/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Adult Time
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6166/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Anal Red TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6167/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Analized HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6168/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",AST TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6169/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",AST TV 2
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6170/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Babes HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6171/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Babes TV HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6172/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Bang Bros HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6173/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Bang!
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6174/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Big Ass Adult TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6175/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Big Dick Red TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6176/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Big Tits Adult TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6177/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Blacked HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6178/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Blonde Adult TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6179/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Blowjob Red TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6180/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Brazzers eXXtra
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6181/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Brazzers HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6182/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Brunette Adult TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6183/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Cherry Pimps
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6185/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Club 17
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6186/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Compilation Adult TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6187/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Cuckold Red TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6188/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Cum Louder
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6189/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Cum4k
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6190/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Daughter Swap
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6191/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Day with a Pornstar
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6192/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",DDF Busty
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6193/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",DDF Network
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6194/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Digital Desire HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6195/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Digital Playground HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6196/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Dorcel Club
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6197/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Porn Angels
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6198/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Evil Angel HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6199/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Evolved Fights
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6200/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Extasy HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6201/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Fake Taxi HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6202/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Fap TV 2
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6203/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Fap TV 3
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6204/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Fap TV 4
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6205/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Fap TV Anal
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6206/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Fap TV BBW
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6207/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Fap TV Compilation
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6208/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Fap TV Lesbian
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6209/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Fap TV Parody
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6210/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Fap TV Teens
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6211/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",FemJoy
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6212/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Fetish Red TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6213/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Gangbang Adult TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6214/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Gay Adult TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6215/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Got MYLF
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6216/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Hands on Hardcore
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6217/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Hard X
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6218/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Hardcore Red TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6219/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Hitzefrei HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6220/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Holed
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6221/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Hot and Mean
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6222/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Hot Guys Fuck
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6223/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Interracial Red TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6224/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Japan HDV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6225/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Latina Red TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6226/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Lesbea
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6227/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Lesbian Red TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6228/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Lethal Hardcore
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6229/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Little Asians HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6230/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Live Cams Adult TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6231/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Lust Cinema
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6232/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",MetArt HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6233/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",MILF Red TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6234/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Monsters of Cock
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6235/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",MYLF TV HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6236/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Naughty America
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6237/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Nubiles TV HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6238/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Pink Erotic 3
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6240/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Pink Erotic 4
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6241/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Playboy Plus
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6242/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Pornstar Red TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6243/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",POV Adult TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6244/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Private HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6245/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Public Agent
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6246/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Reality Kings HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6247/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",RK Prime
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6248/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",RK TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6249/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Rough Adult TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6250/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Russian Adult TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6251/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Sex With Muslims
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6252/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",SexArt
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6253/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Sext 6 senso
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6254/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",SINematica
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6255/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Teen Red TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6256/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Threesome Red TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6257/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Tiny4K
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6258/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Trans Angels
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6259/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",True Amateurs
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6260/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Tushy HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6261/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",TushyRAW
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6262/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Visit-X TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6263/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Vivid TV Europe
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6264/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Vixen HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6265/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",We Live Together
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6266/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",White Boxxx
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6267/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Wicked
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6268/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Xpanded TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6269/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Balkan Erotic
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6270/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Bangerz
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6271/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Emanuelle HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6272/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Extreme
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6273/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Fast Boyz
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6274/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",HOT
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6275/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",HOT XXL HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6276/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Hot Pleasure
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6277/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Lesbian Affair
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6278/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Oldtimer
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6279/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Playboy LA
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6280/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Red XXX
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6281/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Sexy Hot
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6282/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Taboo
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6283/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Venus
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6284/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",X-MO
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6285/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",XY Max HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6286/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",XY Mix HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6287/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",XY Plus HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6288/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Erotic
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6289/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Erotic 2
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6290/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Erotic 3
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6291/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Erotic 4
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6292/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Erotic 6
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6293/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Erotic 7
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6294/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Erotic 8
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6295/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Erox HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6296/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",MvH Hard
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6297/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",SuperOne HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6298/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Dorcel HD orig
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/9064/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Hustler HD orig
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/9065/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Redlight HD orig
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/9066/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",O-La-La orig
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/9068/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Русская ночь orig
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/9344/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Family Hookups
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/9345/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",EXXXOTICA HD orig
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/9346/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Shot TV orig
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/9347/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Eromania 4K
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/10049/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",EXTASY HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/11051/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",ОХ-АХ HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/11068/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",VF Cartoon 18+
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/11117/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Alba 1 HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12105/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Alba 1
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12106/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Alba 2 HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12107/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Alba 2
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12108/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Alba 3
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12109/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Alba 4
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12110/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Alba 5
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12111/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",PURE BABES
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12112/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",BRAZZERS TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12113/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Bang U
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12114/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",XY Plus 1
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12115/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",XY Plus 2
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12116/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",XY Plus 6
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12117/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",XY Plus 12
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12118/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",XY Plus 24
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12119/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Super one HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12121/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Dirty Wives Club
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12122/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",LEO TV FHD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12123/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",French Lover
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12124/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Meiden Van Holland
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12125/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Dirty Masseur
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12128/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",DUSK TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12129/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",DORCEL TV FHD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12131/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Venus HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12133/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",PLAYBOY TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12135/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",PASSIE TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12136/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",VERAPORN 4K
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12137/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Deep Throat Sirens
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12138/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Deep Lush
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12139/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",VERAPORN TEENS 2
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12140/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",VERAPORN ANAL
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12143/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Dancing Bear
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12144/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",VERAPORN BIG TITS
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12145/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",PINK EROTICA 1
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12146/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",PINK EROTICA 2
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12147/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",PINK EROTICA 3
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12148/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",PINK EROTICA 4
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12149/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",PINK EROTICA 5
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12150/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",PINK EROTICA 6
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12151/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",PINK EROTICA 7
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12152/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",PINK EROTICA 8
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12153/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Dad Crush
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12154/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Family Swap
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12155/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",TURKCE ALTAZILI YENI 2
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12156/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Cum4k UHD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12157/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Cum Perfection
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12158/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",MetArt FHD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12160/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Bratty Sis
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12161/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Brand New Amateurs
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12162/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",SL HOT 3 HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12163/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",BBC Pie
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12164/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Barely Legal TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12165/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Bang POV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12166/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Bang Bus
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12167/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Banana Fever
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12168/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Asshole Fever
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12169/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",BAG U
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12170/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",XXXINTERRACIAL TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12171/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",LATINA TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12172/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",MILF TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12173/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",PORNSTAR TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12174/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",POV TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12175/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",ROUGH TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12176/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",RUSSIAN TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12177/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",TEEN TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12178/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",THREESOME TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12180/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Anal Time
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12181/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Anal Teen Angels
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12183/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Anal Only
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12184/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",HOTWIFE PREMIUM
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12187/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",TUSHY TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12188/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Anal Mom
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12189/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Anal 4K
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12190/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",BLACKED TV ELITE
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12191/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",All Anal
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12192/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",TRANS PREMIUM
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12193/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",GAY PREMIUM
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12204/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",21 Sextury
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/12205/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",YOSSO TV SEXY
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/14176/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",LIBERTY EROTIKA HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/16069/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",BCU Charm HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/18053/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Kinoshka Adult HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/18060/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",Кино 18+ HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/18075/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",DE Blue Hustler
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/20023/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",DE Lust pur HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/20024/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",DE Penthouse Passion HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/20025/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",DE Playboy Europe
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/20026/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",CineMan ExExEx
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/20089/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",CineMan ExExEx TWO
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/20090/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",StrahTV Adult TV HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/31707/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",StrahTV PlayBoyz TV HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/31709/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",StrahTV Ню Арт HD
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/31716/index.m3u8
-
 
 
 
