@@ -1,25 +1,54 @@
 <!DOCTYPE html>
 <html>
 <head>
+<meta charset="UTF-8">
+<title>IPTV Player</title>
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 
-<link href="https://vjs.zencdn.net/8.10.0/video-js.css" rel="stylesheet" />
-<script src="https://vjs.zencdn.net/8.10.0/video.min.js"></script>
+<style>
+body{
+background:#000;
+margin:0;
+display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+}
+
+video{
+width:90%;
+max-width:900px;
+}
+</style>
 
 </head>
 
-<body style="background:black">
+<body>
 
-<video
-id="my-video"
-class="video-js"
-controls
-autoplay
-width="900"
-data-setup='{}'>
+<video id="video" controls autoplay></video>
 
-<source src="http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776086&extension=m3u8" type="application/x-mpegURL">
+<script>
 
-</video>
+var video = document.getElementById('video');
+
+var videoSrc = "http://195.128.26.175/live/play/UzJFNWIzaEdiVzVNVEVOSkszRk9PWGxuTmtoT01HaFpTM1pGV0Vad1FYaDJWVmR6WVZwWFNUSk5aejA9/1776086";
+
+if (Hls.isSupported()) {
+
+  var hls = new Hls({
+    maxBufferLength: 30
+  });
+
+  hls.loadSource(videoSrc);
+  hls.attachMedia(video);
+
+} else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+
+  video.src = videoSrc;
+
+}
+
+</script>
 
 </body>
 </html>
