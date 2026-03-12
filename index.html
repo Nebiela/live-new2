@@ -1,54 +1,26 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>IPTV Player</title>
-<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-
-<style>
-body{
-background:#000;
-margin:0;
-display:flex;
-justify-content:center;
-align-items:center;
-height:100vh;
-}
-
-video{
-width:90%;
-max-width:900px;
-}
-</style>
-
-</head>
-
-<body>
-
-<video id="video" controls autoplay></video>
-
-<script>
-
-var video = document.getElementById('video');
-
-var videoSrc = "http://195.128.26.175/live/play/UzJFNWIzaEdiVzVNVEVOSkszRk9PWGxuTmtoT01HaFpTM1pGV0Vad1FYaDJWVmR6WVZwWFNUSk5aejA9/1776086";
-
-if (Hls.isSupported()) {
-
-  var hls = new Hls({
-    maxBufferLength: 30
-  });
-
-  hls.loadSource(videoSrc);
-  hls.attachMedia(video);
-
-} else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-
-  video.src = videoSrc;
-
-}
-
-</script>
-
-</body>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MoleStream Player</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      html, body, #root {
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+        background-color: #000000;
+      }
+    </style>
+    <script type="module" crossorigin src="/assets/embed-C92pkzKz.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/video-player-CH73iOqn.js">
+  <script>window.__EDGE_SESSION__={"sessionId":"mse_ab61c535157375006489e78f","channel":"max-01","mode":"ws-tunnel","server":"","masterUrl":"https://edge-la-13.bananacake.org/s/mse_ab61c535157375006489e78f/master.m3u8","edgeProxyUrl":"https://edge-la-13.bananacake.org","expiresAt":1773306292,"embed":true,"moleNodeAssignment":null};</script></head>
+  <body>
+    <div id="root"></div>
+  </body>
 </html>
