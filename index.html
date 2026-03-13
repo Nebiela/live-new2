@@ -1,66 +1,51 @@
+
+
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<meta charset="UTF-8">
-<title>Live TV</title>
+    <meta charset="UTF-8">
+    <title>PLAYIDTV MPD PLAYER</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            margin: 0px;
+        }
 
-<style>
+        .jwplayer {
+            position: absolute !important;
+        }
 
-body{
-background:#111;
-color:white;
-font-family:sans-serif;
-text-align:center;
-}
-
-.player{
-width:900px;
-height:500px;
-margin:auto;
-}
-
-iframe{
-width:100%;
-height:100%;
-border:none;
-background:black;
-}
-
-.channel-list{
-margin-top:20px;
-}
-
-.btn{
-cursor:pointer;
-border:none;
-width:140px;
-height:100px;
-background-size:cover;
-background-position:center;
-}
-
-</style>
+        .jwplayer.jw-flag-aspect-mode {
+            min-height: 100%;
+            max-height: 100%;
+        }
+    </style>
 </head>
-
 <body>
+    <div id="jwplayerDiv"></div>
+    <script src="//content.jwplatform.com/libraries/SAHhwvZq.js"></script>
+    <script type="text/javascript">
+        // Use the PHP configuration directly within the JavaScript
+        var config = {"file":"https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd","drm":{"clearkey":{"keyId":"96a14b36335645b391bbbb48c424fec7","key":"e6971b27837a4822832d8215156bb516"}}};
 
-<div class="player">
-<iframe id="player"></iframe>
-</div>
-
-<div class="channel-list">
-
-<input class="btn"
-style="background-image:url(https://img.inwiptv.net/postor/20240418191023mono29.jpg);"
-onclick="playStream('https://live-new2.vercel.app/')">
-
-</div>
-
-<script>
-
-function playStream(url){
-document.getElementById("player").src = url;
-}
+        jwplayer("jwplayerDiv").setup({
+            file: config.file,
+            position: 'bottom',
+            autostart: true,
+            stretching: "",
+            width: "100%",
+            type: "dash",
+            drm: {
+                clearkey: {
+                    keyId: config.drm.clearkey.keyId,
+                    key: config.drm.clearkey.key
+                }
+            }
+        });
+    </script>
+</body>
+</html>
 
 </script>
 
