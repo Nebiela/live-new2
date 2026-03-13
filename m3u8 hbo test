@@ -22,7 +22,7 @@
   </div>
 
   <script>
-    const manifestUri = 'http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776086&extension=m3u8';
+    const manifestUri = 'https://raw.githubusercontent.com/Nebiela/live-new2/refs/heads/live-new2/hboo.m3u8';
 
     function initApp() {
       shaka.polyfill.installAll();
