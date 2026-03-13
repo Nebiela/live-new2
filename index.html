@@ -1,68 +1,44 @@
 <!DOCTYPE html>
-<html lang="th">
+<html>
 <head>
 <meta charset="UTF-8">
-<title>Live TV Player</title>
+<title>Live TV</title>
 
 <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 
 <style>
 
 body{
-    background:#0f172a;
-    font-family:sans-serif;
-    margin:0;
-    color:white;
-}
-
-header{
-    background:#020617;
-    padding:15px;
-    text-align:center;
-    font-size:22px;
+background:#111;
+color:white;
+font-family:sans-serif;
 }
 
 .player{
-    max-width:900px;
-    margin:auto;
-    padding:20px;
+width:800px;
+margin:auto;
+padding:20px;
 }
 
 video{
-    width:100%;
-    border-radius:10px;
-    background:black;
+width:100%;
+background:black;
 }
 
-.channels{
-    max-width:900px;
-    margin:auto;
-    display:grid;
-    grid-template-columns:repeat(auto-fill,minmax(120px,1fr));
-    gap:15px;
-    padding:20px;
+.channel-list{
+display:flex;
+flex-wrap:wrap;
+gap:10px;
+justify-content:center;
 }
 
-.channel{
-    background:#1e293b;
-    border-radius:10px;
-    text-align:center;
-    cursor:pointer;
-    padding:10px;
-    transition:0.2s;
+.movie{
+width:140px;
 }
 
-.channel:hover{
-    background:#334155;
-}
-
-.channel img{
-    width:100%;
-    border-radius:8px;
-}
-
-.channel p{
-    margin:8px 0 0 0;
+.btn{
+cursor:pointer;
+border:none;
 }
 
 </style>
@@ -70,171 +46,33 @@ video{
 
 <body>
 
-<header>
-📺 Live iPTV THAILAND
-</header>
-
 <div class="player">
 <video id="video" controls autoplay></video>
 </div>
 
-<div class="channels">
+<div class="channel-list">
 
-<div class="channel"
-onclick="playStream('https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8')">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_2013_Google.png">
-<p>Channel 1</p>
-</div>
-    
-<div class="channel"
-onclick="playStream('https://www.livedoomovies.com:4431/02_3HD_720p/playlist.m3u8')">
-<img src="https://dookeela4.live/uploads/1685812254.png">
-<p>ช่อง 3CH</p>
-</div>
-
-<div class="channel"
-onclick="playStream('https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8')">
-<img src="https://dookeela4.live/uploads/1688059473.png">
-<p>ช่อง 7CH</p>
-</div>
-
-<div class="channel"
-onclick="playStream('https://www.livedoomovies.com:4431/02_THAIRATH_720p/playlist.m3u8')">
-<img src="https://dookeela4.live/uploads/1686800227.png">
-<p>ไทยรัฐทีวี</p>
-</div>
-
-<div class="channel"
-onclick="playStream('http://45.144.166.242:1935/AmarinTV/t3_amarintv/chunklist.m3u8')">
-<img src="https://dookeela4.live/uploads/1704117706.png">
-<p>AmarinTV HD</p>
-</div>
-
-<div class="channel"
-onclick="playStream('https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8')">
-<img src="https://dookeela4.live/uploads/1704117313.png">
-<p>ช่อง 8CH</p>
-</div>
-
-<div class="channel"
-onclick="playStream('https://www.livedoomovies.com:4431/02_WORKPOINT_720p/playlist.m3u8')">
-<img src="https://dookeela4.live/uploads/1725896683.png">
-<p>Workpoint TV</p>
-</div>
-
-<div class="channel"
+<div class="movie col-4 col-md-3 col-xl-2">
+<div class="movie-box">
+<input class="btn" type="button"
+style="background-size:cover;
+background-image:url(https://img.inwiptv.net/postor/20240418191023mono29.jpg);
+width:140px;height:100.45px;background-position:center;"
 onclick="playStream('https://playidtv24.vercel.app/stream/3bbtv/mono29.html')">
-<img src="https://dookeela4.live/uploads/1703787713.png">
-<p>MONO29</p>
+</div>
 </div>
 
-<div class="channel"
-onclick="playStream('https://github.com/cattv976/movies/raw/refs/heads/main/trueccm.m3u8')">
-<img src="https://dookeela4.live/uploads/1719803240.png">
-<p>CCM</p>
+<div class="movie col-4 col-md-3 col-xl-2">
+<div class="movie-box">
+<input class="btn" type="button"
+style="background-size:cover;
+background-image:url(https://img.inwiptv.net/postor/20240418191023mono29.jpg);
+width:140px;height:100.45px;background-position:center;"
+onclick="playStream('https://playidtv24.vercel.app/stream/3bbtv/mono29.html')">
+</div>
 </div>
 
-<div class="channel"
-onclick="playStream('https://github.com/cattv976/movies/raw/refs/heads/main/hbo.m3u8')">
-<img src="https://dookeela4.live/uploads/1703686191.png">
-<p>HBO</p>
 </div>
-
-<div class="channel"
-onclick="playStream('https://github.com/cattv976/movies/raw/refs/heads/main/cinemax.m3u8')">
-<img src="https://dookeela4.live/uploads/1703786799.png">
-<p>CINEMAX</p>
-</div>
-
-<div class="channel"
-onclick="playStream('https://github.com/cattv976/movies/raw/refs/heads/main/hitsmovies.m3u8')">
-<img src="https://dookeela4.live/uploads/1714100677.png">
-<p>Hit Movie</p>
-</div>
-
-<div class="channel"
-onclick="playStream('https://github.com/cattv976/movies/raw/refs/heads/main/truefilm1.m3u8')">
-<img src="https://dookeela4.live/uploads/1720380229.png">
-<p>TrueFilm1</p>
-</div>
-
-<div class="channel"
-onclick="playStream('https://github.com/cattv976/sportthai/raw/refs/heads/main/MONOMAX1.m3u8')">
-<img src="https://dookeela4.live/uploads/1753517049.png">
-<p>MONOMAX 1</p>
-</div>
-
-<div class="channel"
-onclick="playStream('https://github.com/cattv976/sportthai/raw/refs/heads/main/MONOMAX2.m3u8')">
-<img src="https://dookeela4.live/uploads/1755093093.png">
-<p>MONOMAX 2</p>
-</div>
-
-<div class="channel"
-onclick="playStream('https://www.livedoomovies.com:4431/02_epl1_720p/playlist.m3u8')">
-<img src="https://dookeela4.live/uploads/1664500365.png">
-<p>Bein1</p>
-</div>
-
-<div class="channel"
-onclick="playStream('https://www.livedoomovies.com:4431/02_epl2_720p/playlist.m3u8')">
-<img src="https://dookeela4.live/uploads/1690843424.png">
-<p>Bein2</p>
-</div>
-
-<div class="channel"
-onclick="playStream('https://www.livedoomovies.com:4431/02_sport1_720p/playlist.m3u8')">
-<img src="https://dookeela4.live/uploads/1664802455.png">
-<p>True sport1</p>
-</div>
-
-<div class="channel"
-onclick="playStream('https://www.livedoomovies.com:4431/02_sport2_720p/playlist.m3u8')">
-<img src="https://dookeela4.live/uploads/1664499966.png">
-<p>True sport2</p>
-</div>
-
-<div class="channel"
-onclick="playStream('https://www.livedoomovies.com:4431/02_PremierHD3_720p/playlist.m3u8')">
-<img src="https://dookeela4.live/uploads/1664499681.png">
-<p>True Premier3</p>
-</div>
-
-<div class="channel"
-onclick="playStream('https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8')">
-<img src="https://dookeela4.live/uploads/1739094315.png">
-<p>FIFA+</p>
-</div>
-
-<div class="channel"
-onclick="playStream('https://www.livedoomovies.com:4431/02_GOLFHD_720p/playlist.m3u8')">
-<img src="https://cdn.aptoide.com/imgs/4/2/2/42217adf33b3f1322df2dd7482d27d35_icon.png">
-<p>GOLF SPORTS</p>
-</div>
-<div class="channel"
-onclick="playStream('https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8')">
-<img src="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png">
-<p>RedBull TV</p>
-</div>
-
-    
-    		</div>			
-		
-		<div class="movie col-4 col-md-3 col-xl-2">
-			<div class="movie-box">
-					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418191023mono29.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:mono29'" autofocus="">	
-			</div>
-		</div>			
-		<div class="movie col-4 col-md-3 col-xl-2">
-			<div class="movie-box">
-					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418191023mono29.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='https://playidtv24.vercel.app/stream/3bbtv/mono29.html'" autofocus="">	
-			</div>
-		</div>
-    
-
-</div>
-
-
 
 <script>
 
@@ -243,36 +81,29 @@ var hls;
 
 function playStream(url){
 
-    if(Hls.isSupported()){
+if(Hls.isSupported()){
 
-        if(hls){
-            hls.destroy();
-        }
+if(hls){
+hls.destroy();
+}
 
-        hls = new Hls();
-        hls.loadSource(url);
-        hls.attachMedia(video);
+hls = new Hls();
+hls.loadSource(url);
+hls.attachMedia(video);
 
-        hls.on(Hls.Events.MANIFEST_PARSED,function(){
-            video.play();
-        });
+hls.on(Hls.Events.MANIFEST_PARSED,function(){
+video.play();
+});
 
-    }
-    else if(video.canPlayType('application/vnd.apple.mpegurl')){
-        video.src = url;
-        video.play();
-    }
+}
+else if(video.canPlayType('application/vnd.apple.mpegurl')){
+video.src = url;
+video.play();
+}
 
 }
 
 </script>
 
 </body>
-</div>
-<header>
-📺 Live iPTV THAILAND EDIT. BY NETI จัดทำเพื่อดูฟรี! สำหรับครอบครัว เท่านั้น ไม่ได้จำหน่ายขาย
-</header>
-</body>
-</div>
-
 </html>
