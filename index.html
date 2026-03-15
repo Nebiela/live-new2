@@ -340,22 +340,16 @@ onclick="playStream(
 
 <!-- ช่อง เล่นอื่น -->
 <div class="channel"
-onclick="playStream('http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8')">
+onclick="playWiseplay('http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8')">
 <img src="https://cdn.aptoide.com/imgs/4/2/2/42217adf33b3f1322df2dd7482d27d35_icon.png">
 <p>GOLF US</p>
 </div>
 
 <script>
-function playStream(url){
-    var wise = "wiseplay://" + url;
-    window.location.href = wise;
-
-    setTimeout(function(){
-        window.location.href = url;
-    },1500);
+function playWiseplay(url){
+    window.location.href = "wiseplay://" + url;
 }
 </script>
-
 
     
     <!-- ช่อง เล่นอื่น -->
