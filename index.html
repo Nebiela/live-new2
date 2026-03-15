@@ -338,8 +338,30 @@ onclick="playStream(
     
 <!-- ช่อง DASH -->
 
+<!-- ช่อง เล่นอื่น -->
+    <div class="channel"
+onclick="openPlayer('https://www.livedoomovies.com:4431/02_epl2_720p/playlist.m3u8')">
+<img src="https://dookeela4.live/uploads/1690843424.png">
+<p>Bein2 (W)</p>
+</div>
 
-    
+<script>
+function openPlayer(url){
+
+    var intent = "intent:" + url + "#Intent;";
+    intent += "type=video/*;";
+    intent += "package=org.videolan.vlc;";
+    intent += "end";
+
+    window.location.href = intent;
+
+    setTimeout(function(){
+        window.location.href = url;
+    },1000);
+
+}
+</script>
+    <!-- ช่อง เล่นอื่น -->
 
 </div>
 
